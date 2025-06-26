@@ -1,0 +1,2924 @@
+1
+00:00:00,000 --> 00:00:05,440
+Die meisten Leute wissen nicht, dass es das gibt, dass es im 19. Jahrhundert diese Revolution in der Mathematik gab,
+
+2
+00:00:05,440 --> 00:00:10,040
+die unsere Denkweise über Mathematik grundlegend verändert hat, die Anfänge entstanden aus der Frage,
+
+3
+00:00:10,040 --> 00:00:13,200
+wie man polomialgleichungen lösen konnte, und man erkannte.
+
+4
+00:00:13,200 --> 00:00:17,480
+Vielleicht ist das doch unmöglich, aber reine Mathematiker waren eine Zeit lang neugierig.
+
+5
+00:00:17,480 --> 00:00:26,480
+Okay, wie weit können wir das treiben? Zwischen 151800, als das zum erste Mal mit der kugischen Gleichung und alle möglichen erforscht wurde, bis etwa 181800 haben es die Leute versucht.
+
+6
+00:00:26,480 --> 00:00:28,280
+Aber niemand konnte eine Antwort darauf finden.
+
+7
+00:00:28,280 --> 00:00:33,960
+Moment, im 16. Jahrhundert hatten Leute diese Gedanken, während andere Kätzern taubte.
+
+8
+00:00:33,960 --> 00:00:36,719
+Ja, diese beiden Dinge existierte nebeneinander.
+
+9
+00:00:36,719 --> 00:00:40,039
+Es ist verrückt, die Wissenschaftsgeschichte gegenüberzustellen.
+
+10
+00:00:40,039 --> 00:00:40,560
+Ja.
+
+11
+00:00:44,000 --> 00:00:47,400
+Das ist die Ausgabe von Star Talk Cosmic Quarries.
+
+12
+00:00:47,400 --> 00:00:51,840
+Chuck Nice ist bei mir. Chuck, wie geht's dir? Man? Mir? Gät es super.
+
+13
+00:00:51,840 --> 00:00:55,040
+Ja, ja, diese Folge wird sich mit Mathe befassen.
+
+14
+00:00:55,039 --> 00:00:58,920
+Kein Mathe? Mir wurde gesagt.
+
+15
+00:01:01,560 --> 00:01:05,400
+Niemand hat dir gesagt, dass es kein Mathe geben würde. Das stimmt.
+
+16
+00:01:05,400 --> 00:01:10,879
+Ich kenne mich ein bisschen mit Mathe aus. Aber wenn wir Mathe als Fach haben, müssen wir die ganz großen Auffahren.
+
+17
+00:01:10,879 --> 00:01:13,439
+Oder vor allem den Mathe aus.
+
+18
+00:01:16,879 --> 00:01:20,359
+Grenz Sanderson ist nicht zum ersten Mal bei uns bei Star Talk.
+
+19
+00:01:20,359 --> 00:01:23,680
+Grenz, willkommen zurück. Hey, danke, dass du mich wieder eingeladen hast.
+
+20
+00:01:23,680 --> 00:01:28,280
+Das erste Mal hat es Spaß gemacht. Mal sehen, wie es läuft, ausgezeichnet, ausgezeichnet.
+
+21
+00:01:28,280 --> 00:01:32,040
+Du hast also eine Art akademisches Talent in Mathe und Informatik.
+
+22
+00:01:32,040 --> 00:01:34,800
+Okay, die hängen auf einigen Ebenen zusammen.
+
+23
+00:01:34,800 --> 00:01:38,920
+Und du bist auf Tour gegangen. Ich meine, du hast es auf YouTube gebracht.
+
+24
+00:01:38,920 --> 00:01:43,520
+Ja, mit einem Kanal, mit vielen verloren, drei Blaue, ein Braune.
+
+25
+00:01:43,520 --> 00:01:45,320
+Kann es noch kryptischer werden?
+
+26
+00:01:45,320 --> 00:01:49,760
+Ja, es klingt wie ein Niem von FreeCard Monty. Das stimmt.
+
+27
+00:01:49,760 --> 00:01:55,760
+Wie lange hast du den Kanal schon? Mann, es sind jetzt ungefähr zehn Jahre, was sich ein bisschen verrückt anfühlt.
+
+28
+00:01:55,760 --> 00:02:00,439
+Ja, und wie viele Follower hast du? Es sind ungefähr 7 Millionen.
+
+29
+00:02:00,439 --> 00:02:05,240
+M, ich erinnere mich, dass vor kurzem irgendwo in den USA das ist schon monumental in Bezug auf eine Leistung.
+
+30
+00:02:05,240 --> 00:02:09,480
+Nein, nein. Ich sage nur, dass du 7 Millionen Leute hast, die dir für Mathe folgen.
+
+31
+00:02:09,480 --> 00:02:11,680
+Punkt, das meine ich. Genau.
+
+32
+00:02:11,680 --> 00:02:15,560
+Wenn 7 Millionen Leute, dann gibt mir das Hoffnung für die Zukunft der Zivilisation.
+
+33
+00:02:15,560 --> 00:02:18,960
+Ja, das gibt mir Hoffnung für diese 7 Millionen Menschen.
+
+34
+00:02:18,960 --> 00:02:22,280
+Aber nicht für die Zukunft des Rests.
+
+35
+00:02:22,280 --> 00:02:25,920
+Im allgemeinen mögen mehr Leute Mathe als die Leute vermuten.
+
+36
+00:02:25,920 --> 00:02:30,640
+Ich denke, es ist ein bisschen ein Außenseiter. Alle denken, die Leute hassen es.
+
+37
+00:02:30,640 --> 00:02:33,439
+Aber ich denke, jeder liebt Mathe.
+
+38
+00:02:33,439 --> 00:02:39,040
+Ich denke nur, dass die meisten Leute davon eingeschüchtert sind und sich eingeschüchtert fühlen
+
+39
+00:02:39,040 --> 00:02:41,159
+und niemand sich dumm fühlen möchte.
+
+40
+00:02:41,159 --> 00:02:42,680
+Ich fühle mich gerne dumm.
+
+41
+00:02:42,680 --> 00:02:44,520
+Deshalb bin ich in dieser Show.
+
+42
+00:02:44,520 --> 00:02:47,320
+Ich bin immer die dünnste Person in dieser Show.
+
+43
+00:02:47,320 --> 00:02:53,080
+Aber genau dafür gibt es Grand, damit er die Komfortzone, in der sich die Leute fühlen,
+
+44
+00:02:53,080 --> 00:02:54,080
+erweitern kann.
+
+45
+00:02:54,080 --> 00:02:56,600
+Sie dich an, wenn du auf diese Inhalte stößt.
+
+46
+00:02:56,600 --> 00:03:02,760
+Ja, lass mich kurz einige wichtige Mathematik-Themen ansprechen, bevor wir zu den Fragen kommen.
+
+47
+00:03:02,760 --> 00:03:06,240
+Wir hören gelegentlich von Problemen in der Mathematik.
+
+48
+00:03:06,240 --> 00:03:10,080
+Und nein, sie sprechen nicht darüber, was 8 Sternchen 7 ist.
+
+49
+00:03:10,080 --> 00:03:14,240
+Nein, sie sprechen über Probleme, die die tiefgründigsten Denker
+
+50
+00:03:14,280 --> 00:03:18,360
+auf diesem Gebiet im Laufe der Jahrhunderte zu lösen versucht haben.
+
+51
+00:03:18,360 --> 00:03:19,360
+Richtig?
+
+52
+00:03:19,360 --> 00:03:25,200
+Gibt es so etwas wie ein Buch mit den neuesten und gelösten Problemen in der Mathematik?
+
+53
+00:03:25,200 --> 00:03:29,879
+Und das sollten sich die Nörz zuerst aus der Bibliothek ausleihen?
+
+54
+00:03:29,879 --> 00:03:32,760
+Ja, ja, ich meine, es gab viele.
+
+55
+00:03:32,760 --> 00:03:36,400
+Ich meine, eine der berühmtesten Sammlungen undelöster Probleme.
+
+56
+00:03:36,400 --> 00:03:40,920
+Im Jahr 2000 veröffentlichte das ClayMath-Institut diese 7 Probleme, für die sie einen Preis von
+
+57
+00:03:40,919 --> 00:03:42,239
+einer Million Dollar auslobten.
+
+58
+00:03:42,239 --> 00:03:45,639
+Und diese sind also so etwas wie die Promis unter den ungelösten Problemen.
+
+59
+00:03:45,639 --> 00:03:49,159
+Sie werden als Millennium-Matteaufgaben aus Ton bezeichnet.
+
+60
+00:03:49,159 --> 00:03:53,719
+Es ist normalerweise sehr schwer zu beschreiben, was das Problem darstellt.
+
+61
+00:03:53,719 --> 00:03:55,959
+Sehr klassisch.
+
+62
+00:03:55,959 --> 00:03:59,560
+Man kann nicht einmal das Problem des Problems beschreiben, dass man lösen soll.
+
+63
+00:03:59,560 --> 00:04:00,560
+Richtig.
+
+64
+00:04:00,560 --> 00:04:02,399
+Man muss das Problem lösen, aber man kann es nicht einmal beschreiben.
+
+65
+00:04:02,399 --> 00:04:04,319
+Niemand kann einem sagen, was das Problem ist.
+
+66
+00:04:04,319 --> 00:04:05,319
+Für mich.
+
+67
+00:04:05,319 --> 00:04:07,319
+Ist das die Art und Weise, wie man seine Millionen Dollar behält?
+
+68
+00:04:07,319 --> 00:04:10,479
+Ja, ich wollte sagen, das klingt sehr nach ihr.
+
+69
+00:04:10,519 --> 00:04:11,479
+Wissen Sie.
+
+70
+00:04:11,479 --> 00:04:17,480
+Aber welches Problem ist das Problem, das wir zu lösen beginnen, es gibt auch diese
+
+71
+00:04:17,480 --> 00:04:22,079
+ungelösten Probleme von Prominenten, die in gewisser Weise weniger wichtig sind.
+
+72
+00:04:22,079 --> 00:04:26,560
+Aber sie sind einfacher zu formulieren und daher macht es der Öffentlichkeit viel mehr
+
+73
+00:04:26,560 --> 00:04:28,560
+Spaß, sich mit ihnen zu beschäftigen.
+
+74
+00:04:28,560 --> 00:04:30,800
+Aber dafür gibt es kein Preisgeld.
+
+75
+00:04:30,800 --> 00:04:31,800
+Richtig?
+
+76
+00:04:31,800 --> 00:04:35,719
+Nicht in dem expliziten Sinne, dass es ein bestimmtes Institut gibt, dass einen Schäck dahinter
+
+77
+00:04:35,719 --> 00:04:36,719
+stellt.
+
+78
+00:04:36,719 --> 00:04:39,480
+Aber wenn man eines dieser Probleme löst, erlandt man einen Gewissenrum in der Welt
+
+79
+00:04:39,480 --> 00:04:42,960
+der Mathematik, wahrscheinlich machst du das als Akademiker, weil es deine Karriere
+
+80
+00:04:42,960 --> 00:04:43,960
+wirklich etwas bringt.
+
+81
+00:04:43,960 --> 00:04:48,319
+Es gibt viele finanzielle Belohnungen, wenn du eines dieser Probleme lösen könntest.
+
+82
+00:04:48,319 --> 00:04:51,920
+Aber das ist natürlich nicht das, was die meisten Leute interessiert.
+
+83
+00:04:51,920 --> 00:04:56,960
+Entstehen Sie nur in der Mathematik oder gibt es eine wissenschaftliche herangehensweise
+
+84
+00:04:56,960 --> 00:04:59,520
+an diese Probleme oder technische Lösungen?
+
+85
+00:04:59,520 --> 00:05:04,800
+Ich gebe dir ein Beispiel, das nur aus der Mathematik stammt und ein paar, die eh ja aus der
+
+86
+00:05:04,800 --> 00:05:05,800
+Außenwelt kommen.
+
+87
+00:05:05,800 --> 00:05:09,439
+Das erste Beispiel liegt mir sehr am Herzen, denn ich erinnere mich, als ich, ich weiß nicht,
+
+88
+00:05:09,439 --> 00:05:10,439
+vielleicht elf oder so.
+
+89
+00:05:10,439 --> 00:05:14,639
+Mein Vater aus der Küche kam und sagte, hey, gründ, weißt du, primzahlen?
+
+90
+00:05:14,639 --> 00:05:19,240
+Ich sagte, Ach ja, primzahlen, das sind Zahlen, die man nicht in zwei kleinere Teile teilen
+
+91
+00:05:19,240 --> 00:05:20,240
+kann.
+
+92
+00:05:20,240 --> 00:05:21,240
+Wie sechs ist gleich zwei Sternchen drei?
+
+93
+00:05:21,240 --> 00:05:23,439
+Aber sieben kann man nicht in zwei kleinere Teile teilen.
+
+94
+00:05:23,439 --> 00:05:26,680
+Er meinte, ja, glaubst du, dass es unendlich viele davon gibt, die nur zwei von einander
+
+95
+00:05:26,680 --> 00:05:30,000
+entfernt sind, also sind elf und dreizehn Primzahlen, die zwei von einander entfernt sind,
+
+96
+00:05:30,000 --> 00:05:33,439
+oder 29 und 31 sind ein paar Primzahlen, die zwei von einander entfernt sind.
+
+97
+00:05:33,439 --> 00:05:36,920
+M, und er fragte das, weil er einen Zeitungsartikel gelesen hatte, in dem Stand.
+
+98
+00:05:36,920 --> 00:05:39,439
+Hey, das ist ein ungelöstes Problem.
+
+99
+00:05:39,439 --> 00:05:42,640
+Sein Vater stellte ihn diese Frage, als er elf war.
+
+100
+00:05:42,640 --> 00:05:46,920
+Oh, wow, entweder warst du sehr schlau, oder dein Vater war schlecht.
+
+101
+00:05:46,920 --> 00:05:51,160
+Also ließ ich einfach locker und dachte, oh, ist das wahr?
+
+102
+00:05:51,160 --> 00:05:55,000
+Und irgendwann dauerte es nicht lange, bis er sagte, oh, das war etwas, worüber ich in
+
+103
+00:05:55,000 --> 00:05:56,720
+einem Wissenschaftsmagazin gelesen hatte.
+
+104
+00:05:56,720 --> 00:05:59,960
+Da stand, dass dies ein Problem ist, auf das niemand auf der Welt eine Antwort weiß.
+
+105
+00:05:59,960 --> 00:06:01,600
+Und das fand ich faszinierend.
+
+106
+00:06:01,600 --> 00:06:05,800
+Hier ist eine Frage, die du stellen kannst, so wie man Kindern Primzahlen beibringt.
+
+107
+00:06:05,800 --> 00:06:08,079
+Die leicht erinnert sich nicht jeder daran, wenn er älter wird.
+
+108
+00:06:08,079 --> 00:06:09,520
+Aber es ist ein allgemeines Thema.
+
+109
+00:06:09,520 --> 00:06:13,160
+Sie fragen sich doch nur, gibt es unendlich viele, die zwei von einander entfernt sind,
+
+110
+00:06:13,160 --> 00:06:16,759
+hören sie jemals auf, mit einem Abstand von zwei aufzutachen, und sie wissen ja,
+
+111
+00:06:16,759 --> 00:06:18,319
+dass Primzahlen etwas schwerlicher werden.
+
+112
+00:06:18,319 --> 00:06:20,199
+Je größer man wird, desto weniger davon gibt es.
+
+113
+00:06:20,199 --> 00:06:23,720
+Aber sie fragen sich vielleicht, ob sie aufhören, sich auf diese Weise zusammenzuballen.
+
+114
+00:06:23,720 --> 00:06:26,199
+Uglied hat das vor über 2.000. gefragt.
+
+115
+00:06:26,199 --> 00:06:30,319
+Wir kennen die Antwort immer noch nicht, und das geht ziemlich tief in unser Verständnis
+
+116
+00:06:30,319 --> 00:06:34,879
+von Primzahlen und in die Unkenntnis, um Fragen wie diese Beantworten zu können.
+
+117
+00:06:34,879 --> 00:06:36,519
+Das ist also reine Mathematik.
+
+118
+00:06:36,519 --> 00:06:38,399
+Ok, es ist nur ein Rezel.
+
+119
+00:06:38,399 --> 00:06:40,600
+Hey, sie haben eins aus der Wissenschaft gelöst.
+
+120
+00:06:40,600 --> 00:06:41,600
+Ja, das ist großartig.
+
+121
+00:06:41,600 --> 00:06:43,639
+Ja, ich meine, eins, das.
+
+122
+00:06:43,639 --> 00:06:45,439
+Ich kann die genaue Natur dieser Frage nicht nennen.
+
+123
+00:06:45,439 --> 00:06:47,159
+Aber ich kann ihnen einen groben Überblick geben.
+
+124
+00:06:47,159 --> 00:06:48,879
+Ich weiß, Niel, du weißt das bestimmt.
+
+125
+00:06:48,879 --> 00:06:51,719
+Aber es gibt eine Reihe von Gleichungen, die die Strömung von Flüssigkeiten beschreiben.
+
+126
+00:06:51,719 --> 00:06:52,920
+Sie sind sehr bekannt.
+
+127
+00:06:52,920 --> 00:06:54,879
+Sie werden die Navigleichungen genannt.
+
+128
+00:06:54,879 --> 00:06:55,879
+Ja, ja.
+
+129
+00:06:55,879 --> 00:06:59,839
+Und wenn man also eine Flüssigkeit modelliert und bestimmte Aspekte ihres Drucks,
+
+130
+00:06:59,839 --> 00:07:04,600
+ihrer Wiskosität und solcher Dinge versteht, könnte man dem Computer beispielsweise sagen,
+
+131
+00:07:04,600 --> 00:07:07,320
+er soll versuchen, eine Simulation durchzuführen.
+
+132
+00:07:07,320 --> 00:07:13,600
+Aber das theoretische Verständnis dieser Gleichungen ist in mancher Hinsicht besorgniserregend
+
+133
+00:07:13,600 --> 00:07:14,600
+bin.
+
+134
+00:07:14,600 --> 00:07:19,040
+So ist beispielsweise nicht genau bekannt, ob dies bedeuten würde, dass man an einem bestimmten
+
+135
+00:07:19,040 --> 00:07:21,920
+Punkt eine unendliche Energiekonzentration erhält.
+
+136
+00:07:21,920 --> 00:07:23,920
+Das sollte ganz klar nicht passieren.
+
+137
+00:07:23,920 --> 00:07:27,840
+Man denkt nicht, dass das in der physikalischen Welt passieren würde, aber das mathematische
+
+138
+00:07:27,840 --> 00:07:32,040
+Modell, das im reinen Bereich der sogenannten Differenzialgleichungen verwendet wird, hat
+
+139
+00:07:32,040 --> 00:07:35,600
+diese Eigenschaften, bei denen man sich nicht sicher ist, ob es in die eine oder andere
+
+140
+00:07:35,600 --> 00:07:36,600
+Richtung geht.
+
+141
+00:07:36,600 --> 00:07:40,560
+Und es ist tatsächlich sehr, sehr schwer, die spezifische Art von Differenzialgleichung zu
+
+142
+00:07:40,560 --> 00:07:41,560
+verstehen.
+
+143
+00:07:41,560 --> 00:07:44,640
+Und deshalb werde ich die spezifische Natur der ungelösten Frage nicht formulieren.
+
+144
+00:07:44,640 --> 00:07:48,720
+Aber im Großen und Ganzen handelt es sich um einige grundlegende Fragen dazu, ob sich
+
+145
+00:07:48,720 --> 00:07:51,360
+diese Gleichungen so verhalten, wie man es sich erhoffen würde.
+
+146
+00:07:51,360 --> 00:07:52,879
+Niemand weiß es wirklich.
+
+147
+00:07:52,879 --> 00:07:56,560
+Und dies ist ganz klar durch die Modellierung von Physik und der Welt motiviert.
+
+148
+00:07:56,560 --> 00:08:00,240
+Nun gibt es auch eine Kategorie von Problemen, die unlösbar sind.
+
+149
+00:08:00,240 --> 00:08:03,560
+Aber es gibt Leute, die denken, sie hätten sie gelöst.
+
+150
+00:08:03,560 --> 00:08:04,560
+Richtig?
+
+151
+00:08:04,560 --> 00:08:07,560
+Man kann also beweisen, dass etwas unlösbar ist.
+
+152
+00:08:07,560 --> 00:08:08,560
+Richtig?
+
+153
+00:08:08,560 --> 00:08:10,680
+Quadratische Gleichungen kennt jeder aus der Schule.
+
+154
+00:08:10,680 --> 00:08:13,480
+Das ist etwas, das man lösen kann, wenn man einen Ausdruck hat.
+
+155
+00:08:13,480 --> 00:08:17,759
+Der so aussieht wie X-Einschaltungszeichen 2 plus eine konstante X plus eine konstante gleich
+
+156
+00:08:17,759 --> 00:08:18,759
+null.
+
+157
+00:08:18,759 --> 00:08:19,759
+Und man möchte ihn lösen.
+
+158
+00:08:19,759 --> 00:08:21,840
+Das ist ein systematischer Weg, dies zu tun.
+
+159
+00:08:21,840 --> 00:08:25,079
+Das ist eine Gleichung, die Ingenieuren immer wieder begegnet.
+
+160
+00:08:25,079 --> 00:08:28,680
+Ständig in der Computer-Grafik-Programmierung, wenn man einfach nur Gleichungen wie diese
+
+161
+00:08:28,680 --> 00:08:29,680
+löst.
+
+162
+00:08:29,680 --> 00:08:30,680
+Und es gibt eine Formel.
+
+163
+00:08:30,680 --> 00:08:32,680
+Viele Kinder lernen sie in der Schule auswendig.
+
+164
+00:08:32,680 --> 00:08:34,200
+Sie heißt Quadratische Formel.
+
+165
+00:08:34,200 --> 00:08:36,799
+Das ist eine Formel, die schon sehr lange bekannt ist.
+
+166
+00:08:36,799 --> 00:08:38,720
+Chuck, sag mal die Quadratische Formel auf.
+
+167
+00:08:38,720 --> 00:08:39,720
+Erinnerst du dich?
+
+168
+00:08:39,720 --> 00:08:41,480
+Hier ist die Quadratische Formel.
+
+169
+00:08:41,480 --> 00:08:44,000
+Eh, was bekommst du bei Nummer 13?
+
+170
+00:08:44,000 --> 00:08:45,000
+Ich.
+
+171
+00:08:45,000 --> 00:08:47,879
+Schau über die Schulter, aber ich meine, es war.
+
+172
+00:08:47,879 --> 00:08:52,120
+Ich erinnere mich, dass uns das so eingebleut wurde, dass ich nicht mehr richtig wertschätzen
+
+173
+00:08:52,120 --> 00:08:54,159
+konnte, was das eigentlich bewirkt.
+
+174
+00:08:54,159 --> 00:08:55,159
+Richtig?
+
+175
+00:08:55,159 --> 00:08:56,720
+Nur eine auswendig-lernbare Formel.
+
+176
+00:08:56,720 --> 00:09:01,120
+Sie war wie B plus minus die Quadratwurzel aus B-Einschaltungszeichen 2-4ac durch 2a.
+
+177
+00:09:01,120 --> 00:09:02,120
+Hab ich das richtig verstanden?
+
+178
+00:09:02,120 --> 00:09:03,519
+Das ist genau richtig.
+
+179
+00:09:03,519 --> 00:09:05,120
+Ja, okay, okay.
+
+180
+00:09:05,120 --> 00:09:08,519
+Ich habe das einfach aufgeschrieben, nicht, weil ich ein verdammtes Gefühl dafür hatte.
+
+181
+00:09:08,519 --> 00:09:10,120
+Man musste es einfach so oft wissen.
+
+182
+00:09:10,120 --> 00:09:11,120
+Ja, punkt.
+
+183
+00:09:11,120 --> 00:09:12,920
+Ich habe es in der achten Klasse gelernt.
+
+184
+00:09:12,920 --> 00:09:13,920
+Es kam rein.
+
+185
+00:09:13,920 --> 00:09:16,920
+Okay, hier ist etwas, wofür du dankbar sein solltest.
+
+186
+00:09:16,920 --> 00:09:19,519
+Es gibt zwar eine Formel zur Lösung kubischer Gleichungen.
+
+187
+00:09:19,519 --> 00:09:20,920
+Doch mussten wir sie nicht lernen.
+
+188
+00:09:20,920 --> 00:09:22,120
+Sie ist viel länger.
+
+189
+00:09:22,120 --> 00:09:25,519
+Ja, und es würde ein viel längeres Lied erfordern, um das zu tun.
+
+190
+00:09:25,519 --> 00:09:28,720
+Und wenn Sie denken, dass die quadratische Formel etwas ist, das eine schriftliche Auseinandersetzung
+
+191
+00:09:28,720 --> 00:09:32,000
+mit Mathematik anstelle einer inhaltlichen Auseinandersetzung hervorruft, wäre es noch schlimmer,
+
+192
+00:09:32,000 --> 00:09:34,039
+Kinder zu zwingen, die kubische Gleichung auswendig zu lernen.
+
+193
+00:09:34,039 --> 00:09:36,919
+Aber reine Mathematiker waren eine Zeit lang neu gierig.
+
+194
+00:09:36,919 --> 00:09:39,519
+Okay, hey, wie weit können wir das treiben?
+
+195
+00:09:39,519 --> 00:09:43,480
+Weißt du, können wir eine Formel haben, die jede Gleichung löst, bei der die höchste
+
+196
+00:09:43,480 --> 00:09:45,480
+Potenz von xx hoch 4 ist.
+
+197
+00:09:45,480 --> 00:09:46,480
+Und das kannst du.
+
+198
+00:09:46,480 --> 00:09:48,720
+Es ist eine noch monstruösere Formel.
+
+199
+00:09:48,720 --> 00:09:53,319
+Eine ganze Seite würde die Formel zur Lösung von Gleichungen vierten Grades füllen.
+
+200
+00:09:53,319 --> 00:09:55,319
+Wenn man sie vollständig niederschriebe.
+
+201
+00:09:55,320 --> 00:10:01,920
+Wenn man fragte sich lange, löstbar auch Gleichungen fünften Grades zwischen 1500 und 1800,
+
+202
+00:10:01,920 --> 00:10:05,400
+als dies zum ersten Mal mit der kubischen Gleichung erforscht wurde.
+
+203
+00:10:05,400 --> 00:10:07,040
+Haben ist die Leute versucht.
+
+204
+00:10:07,040 --> 00:10:09,280
+Aber niemand konnte eine Antwort darauf finden.
+
+205
+00:10:09,280 --> 00:10:14,080
+Warte, du erzählst mir, dass die Leute diese Gedanken im 16. Jahrhundert hatten, während
+
+206
+00:10:14,080 --> 00:10:15,560
+andere Kätzern taubteten.
+
+207
+00:10:15,560 --> 00:10:18,280
+Ja, diese beiden Dinge existierte nebeneinander.
+
+208
+00:10:18,280 --> 00:10:20,880
+Es ist verrückt, die Geschichte der Wissenschaftligen überzustellen.
+
+209
+00:10:20,880 --> 00:10:24,520
+Nun, vielleicht hörten sie im 16. Jahrhundert auf, die Renaissance setzt er ein.
+
+210
+00:10:24,519 --> 00:10:27,519
+Genau, ich denke, vielleicht im finsteren Mittelalter.
+
+211
+00:10:27,519 --> 00:10:30,240
+Helm, nun, wenn man in den richtigen Teil der Welt geht.
+
+212
+00:10:30,240 --> 00:10:34,019
+Weißt du, eine Person denkt über Kubik nach, kann man definitiv einen anderen Teil der
+
+213
+00:10:34,019 --> 00:10:35,360
+Welt finden, in dem Enthauptungen stattfinden.
+
+214
+00:10:35,360 --> 00:10:38,960
+Ich komme hier gleich zur Poenkte und erzähle dir ein bisschen mehr von der Geschichte
+
+215
+00:10:38,960 --> 00:10:39,960
+dahinter.
+
+216
+00:10:39,960 --> 00:10:44,000
+Die Antwort war am Ende, dass es im eigentlichen Sinne buchstäblich unmöglich ist.
+
+217
+00:10:44,000 --> 00:10:47,399
+Wenn du zum Beispiel versuchst, eine Formel mit den üblichen Symbolen zu schreiben, die
+
+218
+00:10:47,399 --> 00:10:49,360
+wir verwenden, plus minus mal geteilt.
+
+219
+00:10:49,360 --> 00:10:52,720
+Vielleicht lässt du worzeln und solche Dinge zu, wenn dir das die Operationen sind, die
+
+220
+00:10:52,720 --> 00:10:53,720
+dir zur Verfügung stehen.
+
+221
+00:10:53,720 --> 00:10:58,080
+Wirst du buchstäblich niemals eine Formel vom Grad 5 oder höher aufschreiben können.
+
+222
+00:10:58,080 --> 00:11:01,840
+Und zwei sehr junge Mathematiker waren diejenigen, die die ersten Schritte dazu
+
+223
+00:11:01,840 --> 00:11:02,840
+machten.
+
+224
+00:11:02,840 --> 00:11:05,800
+Es funktioniert bis zum Polinom 4. Grades, aber nicht bis zum 5.
+
+225
+00:11:05,800 --> 00:11:08,120
+Und dann plötzlich hört es bei 5 auf.
+
+226
+00:11:08,120 --> 00:11:09,759
+Ja, es funktioniert nicht mehr.
+
+227
+00:11:09,759 --> 00:11:10,759
+Wow!
+
+228
+00:11:10,759 --> 00:11:12,600
+Und dafür gibt es einen tiefgründigen Grund.
+
+229
+00:11:12,600 --> 00:11:16,720
+Und diese Entdeckung war eine der Dinge, die einen großen Teil der modernen Mathematik
+
+230
+00:11:16,720 --> 00:11:19,720
+hervorbrachten, die abstrakte Allgebra genannt wird.
+
+231
+00:11:19,720 --> 00:11:24,840
+Die meisten wissen nicht, dass es im 19. Jahrhundert eine mathematische Revolution gab.
+
+232
+00:11:24,840 --> 00:11:29,320
+Die unser Denken über Mathematik veränderte, aber die Anfänge davon entstanden aus der
+
+233
+00:11:29,320 --> 00:11:33,560
+Frage, wie man polomialgleichungen lösen konnte und dabei erkannte, dass es vielleicht
+
+234
+00:11:33,560 --> 00:11:36,360
+unmöglich ist, wenn man einen bestimmten Punkt überschreitet.
+
+235
+00:11:36,360 --> 00:11:37,759
+Was ist der Grund?
+
+236
+00:11:37,759 --> 00:11:41,120
+Warum bricht diese Metrie zwischen 4 und 5 zusammen?
+
+237
+00:11:41,120 --> 00:11:42,120
+Niel!
+
+238
+00:11:42,120 --> 00:11:45,680
+Ich würde dir so gerne die einfache Antwort geben.
+
+239
+00:11:45,680 --> 00:11:49,040
+Also was bei 4 war ist und was bei 5 nicht.
+
+240
+00:11:49,039 --> 00:11:55,199
+M. Und ich habe jahrelang darüber nachgedacht, ob ich das in einem 50-minutigen Video oder
+
+241
+00:11:55,199 --> 00:11:57,959
+in einer überzeugenden Beschreibung darstellen könnte.
+
+242
+00:11:57,959 --> 00:12:02,759
+Ich möchte am Montagmorgen ein komplettes YouTube Video auf meinem Schreibtisch haben, indem
+
+243
+00:12:02,759 --> 00:12:03,759
+du das erklärst.
+
+244
+00:12:03,759 --> 00:12:06,839
+Das würde mich und viele andere Leute sehr glücklich machen.
+
+245
+00:12:06,839 --> 00:12:09,879
+Ok, ich werde eine Antwort geben, die keinen Sinn ergibt.
+
+246
+00:12:09,879 --> 00:12:13,039
+Aber ich verspreche dir, dass es einen Gewissen Sinn gibt, indem das stimmt.
+
+247
+00:12:13,039 --> 00:12:18,639
+Es ist etwas, dass man Galva Theorinen, M. und einer der jungen Mathematiker, der die Argumente
+
+248
+00:12:18,639 --> 00:12:21,639
+für diese Erklärung entwickelte, hieß Everest Gorva.
+
+249
+00:12:21,639 --> 00:12:24,240
+Er starb im Alter von 20 Jahren in einem Duell.
+
+250
+00:12:24,240 --> 00:12:26,240
+Das ist seine große Schlagzeile.
+
+251
+00:12:26,240 --> 00:12:29,039
+Er wusste, dass er dieses Duell verlieren würde.
+
+252
+00:12:29,039 --> 00:12:33,039
+Und so schrieb er in der Nacht vor dem Duell seine Gedanken aufs Papier.
+
+253
+00:12:33,039 --> 00:12:35,840
+Oh, das ist die Geschichte.
+
+254
+00:12:35,840 --> 00:12:39,039
+Das ist die klassische Geschichte, die wir alle in den Vorlesungsselen erzählen.
+
+255
+00:12:39,039 --> 00:12:40,039
+Das ist verrückt.
+
+256
+00:12:40,039 --> 00:12:42,639
+Ja, ok, warte, lass den Mann das erklären.
+
+257
+00:12:42,639 --> 00:12:43,639
+Bitte.
+
+258
+00:12:43,639 --> 00:12:47,840
+Nein, nein, also was du sagst, hört jeder, wenn er Physik oder Mathe oder Solernd.
+
+259
+00:12:47,840 --> 00:12:49,639
+Er hat also alles aufgeschrieben.
+
+260
+00:12:49,639 --> 00:12:54,840
+Er hat also Dinge zusammengestellt, die er schon drei oder vier Mal versucht hatte zu veröffentlichen.
+
+261
+00:12:54,840 --> 00:12:57,040
+Er hatte die Dinge schon einmal aufgeschrieben.
+
+262
+00:12:57,040 --> 00:13:01,440
+Er hatte sie sehr berühmten Mathematikern wie Fori oder Koshi und Paan vorgelegt,
+
+263
+00:13:01,440 --> 00:13:03,840
+die die Anfänge seiner Arbeit schon einmal gesehen hatten.
+
+264
+00:13:03,840 --> 00:13:08,840
+Es war also nicht so, dass er das erste Mal in einem verrückten Zustand vor dem Duell die Dinge niedergeschrieben hat.
+
+265
+00:13:08,840 --> 00:13:12,840
+Doch, so ist die Geschichte gut erzählt, nicht wahr, schön zu wissen.
+
+266
+00:13:12,840 --> 00:13:14,639
+Er wusste, dass er sterben würde.
+
+267
+00:13:14,639 --> 00:13:17,240
+Er musste diese Ideen also irgendwie veröffentlichen.
+
+268
+00:13:17,240 --> 00:13:20,440
+Er hat diese klassische Geschichte hinter sich, was das Duell und all das angeht,
+
+269
+00:13:20,440 --> 00:13:23,240
+aber die Mathematik, die er anwante, zeigte unter anderem,
+
+270
+00:13:23,240 --> 00:13:26,240
+dass es unmöglich ist, gleichungen 5. Grades oder höher zu lösen.
+
+271
+00:13:26,240 --> 00:13:28,840
+Sie zeigte auch andere Unmöglichkeiten auf.
+
+272
+00:13:28,840 --> 00:13:30,840
+Es gibt dieses klassische Problem.
+
+273
+00:13:30,840 --> 00:13:35,840
+Einen beliebigen Winkel mit Lineal und Zirkel in drei gleiche Teile zu teilen.
+
+274
+00:13:35,840 --> 00:13:39,039
+Seine Theorien, seine neue Mathematik können beweisen,
+
+275
+00:13:39,039 --> 00:13:43,440
+dass das nicht möglich ist, unmöglich, das hier im Podcast zu erklären.
+
+276
+00:13:43,440 --> 00:13:49,440
+Doch es initiierte ein zentrales matematisches Feld, relevant für Mathematik und Teilchenphysik.
+
+277
+00:13:49,440 --> 00:13:53,440
+Wow, cool, man, nun, Mathematik ist die Sprache des Universums.
+
+278
+00:13:53,440 --> 00:13:58,440
+Also sollten wir uns nicht wundern, wenn sie in kosmische Entdeckungen einfließt.
+
+279
+00:13:58,440 --> 00:13:59,440
+Ja, das ergibt Sinn.
+
+280
+00:13:59,440 --> 00:14:02,440
+Können wir dir also Fragen aus dem Publikum stellen?
+
+281
+00:14:02,440 --> 00:14:04,440
+Ja, ja, ja, machen wir M.
+
+282
+00:14:04,440 --> 00:14:07,440
+Hier ist die erste Frage von Buchreis.
+
+283
+00:14:07,440 --> 00:14:11,440
+Der sagt, warum können wir nicht durch null teilen?
+
+284
+00:14:12,440 --> 00:14:14,440
+Warum das gefällt mir?
+
+285
+00:14:14,440 --> 00:14:16,440
+Das ist eine tolle Frage.
+
+286
+00:14:16,440 --> 00:14:18,440
+Mein ganzes Leben trug ich sie mit mir, oder?
+
+287
+00:14:18,440 --> 00:14:22,440
+Denn die Antwort ist, nun ja, es ist und definiert.
+
+288
+00:14:22,440 --> 00:14:25,440
+Und daher ist meiner Antwort.
+
+289
+00:14:25,440 --> 00:14:26,440
+Definiere es.
+
+290
+00:14:26,440 --> 00:14:28,440
+Steh auf und definiere es.
+
+291
+00:14:28,440 --> 00:14:30,440
+Ja, genau, definiere es.
+
+292
+00:14:30,440 --> 00:14:33,440
+Und weißt du, wer das tut, M, die Mathematiker.
+
+293
+00:14:33,440 --> 00:14:37,440
+Tatsächlich gibt es Teilbereiche der Mathematik, der sich projektive Geometrien ent.
+
+294
+00:14:37,440 --> 00:14:39,440
+Dort ist eines der Objekte im Wesentlichen das,
+
+295
+00:14:39,440 --> 00:14:42,440
+was wir mit der Idee von 1 geteilt durch null erreichen wollen.
+
+296
+00:14:42,440 --> 00:14:46,440
+Und der Gedanke dabei ist, dass man, wenn man einen Zahlenstrahl hat und unendlich weit nach links oder rechts geht.
+
+297
+00:14:46,440 --> 00:14:50,440
+Diesen einheitlichen Punkt erreicht, den man sich ernährt, den man punkt im unendlichen nennt.
+
+298
+00:14:50,440 --> 00:14:53,440
+M, und man kann nützliche Mathematik betreiben, in dem man diesen definiert.
+
+299
+00:14:53,440 --> 00:14:57,440
+Und das ist es, worauf man hinaus will, wenn man diese Vorstellung von 1 geteilt durch null hat.
+
+300
+00:14:57,440 --> 00:15:00,440
+Aber wenn du das nicht machst und sagen willst, warum ist es nicht definiert?
+
+301
+00:15:00,440 --> 00:15:02,440
+Es hängt davon ab, was du mit der Division machst.
+
+302
+00:15:02,440 --> 00:15:07,440
+Richtig, wenn du mit der Division sagen willst, ich habe einen Cupcake und teile ihn unter drei Personen auf.
+
+303
+00:15:07,440 --> 00:15:11,440
+Wie viele bekommt jeder? Du sagst, eindrittel eines Cupcakes.
+
+304
+00:15:11,440 --> 00:15:15,440
+Wenn ich einen Cupcake habe und ihn unter null Personen aufteile, ist das eine zusammenhandlose Frage,
+
+305
+00:15:15,440 --> 00:15:17,440
+als ob der Cupcake irgendwo hin muss.
+
+306
+00:15:17,440 --> 00:15:21,440
+Die Zusammenhandlosigkeit der Frage erklärt vielleicht den undefinierten Charakter.
+
+307
+00:15:21,440 --> 00:15:24,440
+Das ist mein Punkt in der Praxis.
+
+308
+00:15:24,440 --> 00:15:29,440
+Ich habe einen Cupcake und möchte ihn unter null Personen aufteilen.
+
+309
+00:15:29,440 --> 00:15:32,440
+Wir müssen zum Anfang der Aussage zurückgehen.
+
+310
+00:15:32,440 --> 00:15:34,440
+Ich habe einen Cupcake.
+
+311
+00:15:34,440 --> 00:15:39,440
+Okay, und das ist der Antwortteil. Die Antwort ist, ich esse den Cupcake.
+
+312
+00:15:39,440 --> 00:15:44,440
+Jetzt ist er definiert. Jetzt ist er definiert.
+
+313
+00:15:44,440 --> 00:15:47,440
+Alles klar, diese Nachricht wird dir von AppleKart präsentiert.
+
+314
+00:15:47,440 --> 00:15:54,440
+Beantragen sie noch heute eine AppleKart und erhalten sie bis zu 3% tägliches Cashback auf ihre alltäglichen Einkäufe.
+
+315
+00:15:54,440 --> 00:16:01,440
+Und dieses tägliche Cashback kann sogar automatisch wachsen, wenn sie über die AppleKart ein hochverzinsliches Sparkonto eröffnen.
+
+316
+00:16:01,440 --> 00:16:06,440
+Worauf warten sie noch? Besuchen sie noch heute den Apple.co-Kart-Rechner.
+
+317
+00:16:06,440 --> 00:16:11,440
+Um zu sehen, wie viel tägliches Cashback sie vorbehaltlich der Kreditgenenigung verdienen können.
+
+318
+00:16:11,440 --> 00:16:15,440
+AppleKart ersparnisse. Berechtigung vorausgesetzt.
+
+319
+00:16:15,440 --> 00:16:18,440
+Ersparnisse und AppleKart von Goldman Sachsbank USA.
+
+320
+00:16:18,440 --> 00:16:23,440
+Mitglied der FDIC, Geschäftsbedingungen und mehr auf AppleKart.com.
+
+321
+00:16:23,440 --> 00:16:25,440
+Hier ist Kira.
+
+322
+00:16:25,440 --> 00:16:30,440
+Eigentlich werde ich zwei Fragen in einer Zusammenfassen, weil Kira und Kevin Bember sich im Grunde ähnlich sind.
+
+323
+00:16:30,440 --> 00:16:32,440
+Aber ich werde ihre beiden Fragen nacheinander lesen, damit sie sie beantworten können.
+
+324
+00:16:32,440 --> 00:16:36,440
+Okay, hi. Hier ist Kira aus Georgia in den USA.
+
+325
+00:16:36,440 --> 00:16:40,440
+M. Was ist ihrer Meinung nach das faszinierendste ungelöste matematische Problem in der Kosmologie?
+
+326
+00:16:40,440 --> 00:16:45,440
+Das, wenn es verstanden würde, unsere Sicht auf das Universum grundlegend verändern könnte?
+
+327
+00:16:45,440 --> 00:16:50,440
+Moment mal, Kevin Bember sagt, hey, hier ist Kevin aus North Vancouver.
+
+328
+00:16:50,440 --> 00:16:51,440
+Bitte besuchen sie Niel.
+
+329
+00:16:51,440 --> 00:16:56,440
+Was ist ihre liebste ungelöste Mattaufgabe und wie würden sie sie veranschaulichen?
+
+330
+00:16:56,440 --> 00:17:01,440
+Also, eine verändert grundlegend unsere Sicht auf das Universum und dann Teil B.
+
+331
+00:17:01,440 --> 00:17:07,440
+Was ist ihre persönliche Lieblingsaufgabe? Moment, sie können nicht eins und dann Teil B sagen.
+
+332
+00:17:07,440 --> 00:17:15,440
+Es ist entweder eins und zwei oder A und B. Nein, sehen Sie, was ich mache, ist eine neue Art von Mathematik.
+
+333
+00:17:15,440 --> 00:17:20,440
+Ich werde Teil 1 an Niel abgeben, weil ich hier etwas Demut walten lassen muss.
+
+334
+00:17:20,440 --> 00:17:24,440
+Ich bin mir nicht sicher, was die wichtigsten matematischen Probleme der Kosmologie sind.
+
+335
+00:17:24,440 --> 00:17:27,440
+Ich bin kein großer Kosmologe. Daher bin ich gespannt, was Sie sagen.
+
+336
+00:17:27,440 --> 00:17:31,440
+Wir haben Singularitätsprobleme im Universum. Richtig?
+
+337
+00:17:31,440 --> 00:17:36,440
+Alle unsere Gleichungen sagen uns, dass im Zentrum eines Schwarzen Lochs die Natur durch Null dividiert wird.
+
+338
+00:17:36,440 --> 00:17:42,440
+Richtig? Okay, alles geht gegen Null. Der Nenner geht gegen Null. Richtig.
+
+339
+00:17:42,440 --> 00:17:47,440
+Was passiert mit dem Wert von allem anderen? Wir sagen, es gibt unendlich vier Dichte und unendlich vier Dies.
+
+340
+00:17:47,440 --> 00:17:51,440
+Und das ergibt überhaupt keinen Sinn. Nein, tut es nicht, was wir also nicht wissen.
+
+341
+00:17:51,440 --> 00:17:58,440
+Aber vermuten, ist, dass dies eine Grenze für die Anwendung unserer Theorie des Universums ist und keine Grenze für die Anwendung der Mathematik.
+
+342
+00:17:58,440 --> 00:18:01,440
+Richtig? Wir beschuldigen die Mathematik nicht zuerst.
+
+343
+00:18:01,440 --> 00:18:09,440
+Ich sage es nur, hab's verstanden, denn Mathematik ist der Hammer und wir nicht okay, also wir geben zuerst die Schuld.
+
+344
+00:18:09,440 --> 00:18:15,440
+Aber es stimmt, dass bestimmte Entdeckungen in der Mathematik zu.
+
+345
+00:18:15,440 --> 00:18:20,440
+Entdeckungen in der Astrophysik geführt haben.
+
+346
+00:18:20,440 --> 00:18:26,440
+Wir brauchten keine nicht ugliedische Geometrie, bis wir sie hatten.
+
+347
+00:18:26,440 --> 00:18:36,440
+Und das ist die Grimmung der Raumzeit. Sie ist nicht flach und die ugliedische Geometrie ist flach und und und wer hat die gegrünnte Geometrie erfunden?
+
+348
+00:18:36,440 --> 00:18:43,440
+Raymond ist da der große, also Raymond und wann war das? So um 1800? Ja, es war um 1800.
+
+349
+00:18:43,440 --> 00:18:52,440
+M, vielleicht 50er, sagen wir mal. Okay, in Ordnung. Im 19. Jahrhundert hatten wir also die Werkzeuge, um über gekrümmte Geometrie nachzudenken.
+
+350
+00:18:52,440 --> 00:19:00,440
+Das wurde sofort von den Kosmologen aufgegriffen, um über die Geometrie des Universums nachzudenken.
+
+351
+00:19:00,440 --> 00:19:08,440
+Dann brauchte eine Möglichkeit, darüber zu sprechen. Das ist also alles, was ich hier habe, aber die Mathematik leitet uns, nicht wir finden ein ungelöstes matematisches Problem.
+
+352
+00:19:08,440 --> 00:19:17,440
+Nun, ich meine, du erwähnst Raymond, der über nicht remanische Geometrie spricht. Aber er ist auch die Quelle dafür, wie ich Teil B dieser Frage zu einer meiner liebsten ungelösten Probleme beantworten wollte.
+
+353
+00:19:17,440 --> 00:19:26,440
+Es gibt Teil 1 und dann Teil B, Teil 1 und Teil B. Raymond hat sich also viel mit Geometrie beschäftigt. Er war auch einer der Fäter der komplexen Analyse.
+
+354
+00:19:26,440 --> 00:19:33,440
+Also der Verwendung komplexer Zahlen, um andere Probleme in der Mathematik zu lösen. Und er hatte eine Arbeit über Zahlen-Theorie.
+
+355
+00:19:33,440 --> 00:19:43,440
+Das sind die beschriebenen Primzahlen, wie diese Zwillinge. Vermutung M, er hat diese eine Arbeit veröffentlicht. Ich glaube, es war 1857 M, über Primzahlen.
+
+356
+00:19:43,440 --> 00:19:48,440
+Ansonsten betreibt er keine Zahlen-Theorie. Und das hat das ganze Feld grundlegend verändert. Weil er im Grunde gesagt hat,
+
+357
+00:19:48,440 --> 00:20:06,440
+Hey, hier ist diese städtige Funktion. Es fühlt sich nicht so an, als Ginge ist um Primzahlen. Die alle Discreate sind, sie ist eher städtig. Sie hat komplexe Zahlen. Das macht sie ganz anders. Und wenn man diese Funktion versteht, versteht man die Primzahlen vollständig. M, heutzutage nennen wir sie die remanische Sita-Funktion. Weil er den griechischen Buchstaben Sita verwendet hat, M, und er hat im Grunde gesagt.
+
+358
+00:20:07,440 --> 00:20:35,440
+Hey, wir können wirklich gut verstehen, wie die Primzahlen verteilt sind, M, wenn wir etwas über diese Funktion verstehen. Und er hat diese Vermutung aufgestellt, wo all die Lösungen sind, wenn diese Funktion gleich null ist. Er wusste nicht, wie er sie lösen sollte. Er hatte eine Vermutung, wo diese Lösungen sind. Und das nennt man die Remanhypothese. Er hat sie aufgestellt. Es ist eines dieser Millionen-Dollar-Probleme. Und es ist ganz klar eine sehr, sehr schöne Frage. Weil sie so ähnlich fragt, wie ob die Primzahlen in gewissen Sinne einen Accord-Builden. Weil sie sie auf der Grundlage von Frequenzinformationen untersucht.
+
+359
+00:20:35,440 --> 00:20:44,440
+Und niemand weiß, wie man sie beantwortet, aber je mehr man sich mit dieser Frage befasst, desto mehr ergibt sich ein wirklich schönes Bild. Ist das ihr Liebst des Ungelöstes Problem? Ich glaube, es ist mein Lieblingsproblem.
+
+360
+00:21:05,440 --> 00:21:14,440
+Ich liebe die Show. Ey, mach weiter, Chuck und mach einen Australischen Aktion. Okay, das ist jemand, der die Show schon eine Weile hört, zu lange zugehört.
+
+361
+00:21:14,440 --> 00:21:34,440
+Ja, ja, es hat mich total ans Licht gebracht. Alles klar, er sagt. Ich habe ein komplexes Problem. M, es ist die komplexe Zahl E. Es ist die Quadratwurzel von minus 1, die es nicht gibt. Die aber in so vielen matematischen Berechnungen verwendet wird. Die Dinge genau vorher sagen, einschließlich der Quantenmechanik. Es macht mein Gehirn fertig.
+
+362
+00:21:34,440 --> 00:21:50,440
+Ich hoffe, Niel und Grend können mir helfen. Danke. Ja, also, Grend, ich fange mal an, indem ich frage, warum hast du diese Zahlen als Immardinär bezeichnet? Meine Güte, das ist die schlechteste aller, schlechtesten Bezeichnungen überhaupt.
+
+363
+00:21:50,440 --> 00:22:05,440
+Gauss schlug vor, sie laterale Zahlen zu nennen, was, weißt du? Ein bisschen besser gewesen wäre, und dann adiers du einen weiteren Aspekt zu Immaginären Zahl, um die komplexe Zahl zu erhalten, und jetzt nennst du sie eine komplexe Zahl. Das sind Wörter, die komplette Abtörner sind, und ich gebe dir die Schuld.
+
+364
+00:22:05,440 --> 00:22:16,440
+Nun, ich meine, wenn das euer IBM ist, seid ihr Leute. Ich wollte gerade sagen, wenn das der Fall ist, dann müssen wir ganz von vorne anfangen, denn wir nennen sie mathematische Probleme. Und wer will sich schon mit Problemen herumschlagen? Ich.
+
+365
+00:22:35,440 --> 00:22:46,440
+Und dafür unsere normalen Zahlensysteme verwendet. Und für alles, was sich züglich verhält, gibt es ein natürliches Zahlensystem, um das zu beschreiben. Nennst dieses Zahlensystem, wie ihr wollt.
+
+366
+00:23:05,440 --> 00:23:34,440
+Und daher ist es natürlich, sie mit diesen Arten von Zahlen zu modellieren. Also haben die Ingenieure die komplexe Ebene, die komplexen Zahlen nachträglich übernommen? Richtig? Sie meinte nicht. Wir brauchen eine Lösung. Lasst uns erfinden. Sie sagten, wir wissen nicht, wie das geht. Ein Mathematiker. Hier ein Lösungsansatz. Ich meine, ich übertreibe das natürlich. Ich meine, wollen Sie wissen, woher die komplexen Zahlen sind.
+
+367
+00:23:35,440 --> 00:24:05,440
+Ich will einen Ursprünglich kommen, weil ich denke, dass es eine Art Lüge ist, die wir in der Schule erzählen, wenn wir sagen, dass es so etwas wie die Quadratwurzel von Minus nicht gibt. Aber dann so tun, als gäbe sie. Und Mathematiker lieben es einfach, so zu tun. Das führt uns eigentlich zu etwas, worüber wir vorhin gesprochen haben, nämlich als Leute kubische Gleichungen lösen und eine kubische Formel aufschrieben. Die Gott sei dank keiner von uns auswendig lernen musste. Ich danke Gott nicht dafür. Ich bin sehr wählerisch, wofür ich Gott danke. Ich danke der Mathematik. Ich danke dem Bildungssystem. Aber wenn du jemanden gefragt hättest, hey, löse die Gleichung. Ich glaube, ich bin sehr gut. Ich bin sehr gut. Ich bin sehr gut. Ich bin sehr gut. Ich bin sehr gut. Ich bin sehr gut. Ich bin sehr gut. Ich bin sehr gut. Ich bin sehr
+
+368
+00:24:05,440 --> 00:24:35,440
+gut. Ich bin sehr gut. Ich bin sehr gut. Ich bin sehr gut.
+
+369
+00:24:35,440 --> 00:24:39,640
+Aber während man das ausrechnet, beschäftigt man sich mit diesen Quadratwurzeln aus Minuszahlen.
+
+370
+00:24:39,640 --> 00:24:41,440
+Eine Zeit lang dachten Mathematiker.
+
+371
+00:24:41,440 --> 00:24:44,440
+Oh, das ist ein komischer Trick, der irgendwie funktioniert.
+
+372
+00:24:44,440 --> 00:24:47,940
+Ich weiß nicht, was er bedeutet, verlöst jedoch Kubikgleichungen.
+
+373
+00:24:47,940 --> 00:24:53,440
+Ich glaube einer der Gründe, warum sie als Immagineer bezeichnet wurden, ist, dass es lange gedauert hat, bis die Leute sie ernst genommen haben.
+
+374
+00:24:53,440 --> 00:24:57,440
+Sie dachten einfach, es sei ein Schreibtrick. Und das Wort Immagineer klang irgendwie abwertend.
+
+375
+00:24:57,440 --> 00:25:01,940
+Hey, Kindern das beibringen, wie nennen wir es? Anführungszeichen. So war es nicht.
+
+376
+00:25:01,940 --> 00:25:15,940
+Und es war so etwas wie Immaginäre Freundin. Aber dann dauerte es viel länger, bis die Leute erkannten, wie nützlich sie sind und dass sie diese psychischen Eigenschaften haben, die sie wirklich nützlich für jede Art von Mathematik oder Physik machen, die Wellen und Züplen beinhaltet.
+
+377
+00:25:15,940 --> 00:25:17,940
+Und so bleiben wir jetzt dabei.
+
+378
+00:25:17,940 --> 00:25:22,940
+Hallo Dr. Tyson Lorde Nice, Herr Braun, hier ist Brennen aus New Jersey.
+
+379
+00:25:22,940 --> 00:25:30,940
+Gibt es einen Zusammenhang zwischen der Konformen Geometrie und dem Satz des Pythagoras?
+
+380
+00:25:30,940 --> 00:25:46,940
+Vor kurzem habe ich etwas über Kreisinversionen gelernt. Und es scheint mir, dass diese Inversionen den Satz des Pythagoras nutzen, um diese Metrie von Punkten auf einer Linie nach dem Grümen beizubehalten.
+
+381
+00:25:47,940 --> 00:25:50,940
+Funktioniert das auch in der Konformen Geometrie?
+
+382
+00:25:50,940 --> 00:25:59,940
+Ich bin völlig verwirrt. Aber wow, was erfährst du darüber? Wow, sie dir das an. Man, lass mich Brennen kurz antworten. Okay.
+
+383
+00:25:59,940 --> 00:26:01,940
+Hör auf anzugeben.
+
+384
+00:26:01,940 --> 00:26:05,940
+Man, hör auf. Anzugeben. Das ist nicht der richtige Ort.
+
+385
+00:26:05,940 --> 00:26:12,940
+Okay, bitte. Wäre dies ein Hörsal. Wäre jetzt die Zeit. Ich sagte, Brennen, lass uns nach dem Unterricht darüber reden. Dann sitzen nur noch du und ich an der Tafel.
+
+386
+00:26:12,940 --> 00:26:21,940
+Der Unterricht ist für alle besser, wenn wir uns nicht mit dem Beschäftigen. Womit du dich jetzt beschäftigen möchtest. Wenn du möchtest, können wir versuchen zu beschreiben, was Konformen Geometrie und Kreisinversion sind.
+
+387
+00:26:21,940 --> 00:26:30,940
+Aber okay, kannst du das als Herausforderung in 20 Sekunden schaffen? Und wenn wir es verstehen, wen interessiert es? Wenn nicht, dann haben wir jetzt etwas, das wir nachschlagen können, was noch mehr Spaß macht.
+
+388
+00:26:30,940 --> 00:26:31,940
+Mach weiter.
+
+389
+00:26:31,940 --> 00:26:41,940
+Mach weiter. Wenn du dich im Spiegel ansiesst, siehst du ein Spiegelbild von dir selbst. Es ist wie eine andere Version von dir selbst. Manchmal kann man das verwenden, um Probleme zu lösen, wie zum Beispiel deine Haarfrisur und solche Dinge.
+
+390
+00:26:41,940 --> 00:26:52,940
+In der Mathematik gibt es eine andere Art von Spiegel, die manchmal verwendet wird. Sie stellen sich vor, ein Kreis sei ein Spiegel. Und er reflektiert alles von innen nach außen und von außen nach innen. Es ist die besondere Transformation des Raums.
+
+391
+00:26:52,940 --> 00:27:03,940
+Und es gibt bestimmte Geometrie-Probleme, die schwer aussehen. Aber wenn man sie dann wie hier an einem Kreis spiegelt, was eine wirklich seltsame, bewusst sein verändernde Bewegung ist, wird aus einem schweren Problem ein leichtes.
+
+392
+00:27:03,940 --> 00:27:18,940
+Das nennt man Kreisinversion, Konforme Geometrie, manche Aspekte sind schwer zu erklären. Aber die Kreisinversion trifft den Nagel auf den Kopf. Wir werden hier keine spezifischen Probleme beschreiben. Aber falls du neu dirich auf den springenden Punkt bist, es ist, als würde man einen Kreis als Spiegel behandeln.
+
+393
+00:27:18,940 --> 00:27:27,940
+Cool, das war faszinierend. Ich meine, ich verstehe nicht, wovon du mit der Kreisinversion sprichst. Ich weiß nicht, wozu sie dient und ich verstehe sie nicht.
+
+394
+00:27:27,940 --> 00:27:31,940
+Ja, ja, Beispiele wären nötig, sonst ist es zu lang, das Argument braucht mehr Substanz.
+
+395
+00:27:31,940 --> 00:27:43,940
+Er hat trotzdem angegeben. Ja, er hat angegeben, ohne Zweifel. Brenden hat angegeben. Okay, aber ratemal, ich bin froh, dass ich bis zu diesem Moment noch nie etwas von Konformer Geometrie gehört habe.
+
+396
+00:27:43,940 --> 00:27:56,940
+Schön, dass Brenden das gezeigt hat. Jetzt ist es nützlich für die Recherche. Etan Stepp und Etan sagt, Hallo, Dr. Tyson und Mr. Grend und Lord Nice, falls sie da sind. Hallo.
+
+397
+00:27:56,940 --> 00:28:08,940
+Ich liebe diese Leute. Man, ich liebe diese Leute einfach nur. Er sagt, mein Name ist Etan und ich komme aus North Carolina. Ich liebe Mathe, aber manchmal frage ich mich, wie man diese Dinge herausfindet.
+
+398
+00:28:08,940 --> 00:28:18,940
+Meine Frage ist, wie um alles in der Welt ist jemand auf Tensor Produkte gekommen? Okay, ich denke, die einfachste Beschreibung trifft nicht ganz, worum es geht.
+
+399
+00:28:18,940 --> 00:28:27,940
+Aber wie bei einem Wektor haben wir eine Liste von Zahlen, die man als eine Spalte von Zahlen schreiben könnte. Eine Matrix, man hat dieses zwei Dimensionale Raster von Zahlen, das in der Informatik ständig verwendet wird.
+
+400
+00:28:27,940 --> 00:28:36,940
+So funktioniert maschinelles Lernen. Aber manchmal möchte man ein dreidimensionales Raster von Zahlen, einfach um seine Daten zu speichern. Stellen Sie sich ein dreidimensionales Raster vor.
+
+401
+00:28:36,940 --> 00:28:54,940
+Jede Zelle in diesem Raster hat eine Zahl. Man könnte das einen Tensor nennen. Das ist die Informatiker Antwort auf die Frage nach Tensoren. Aber in der Physik gibt es bestimmte Objekte, die mit Tensoren wie diesem dargestellt werden können, was für die allgemeine Relativitätstheorie und die Beschreibung der Raumkrimung relevant ist.
+
+402
+00:28:54,940 --> 00:29:07,940
+Es gibt auch andere Bereiche der Mathematik, in denen man Objekte hat, die man beschreiben könnte, indem man ihnen ein Koordinatensystem gibt, indem man ein dreidimensionales Raster aus Zahlen wie dieses haben möchte und um die Frage zu beantworten.
+
+403
+00:29:07,940 --> 00:29:16,940
+Woher kommt das? Oder wer ist darauf gekommen? Denke ich, dass es normalerweise so ist, dass man sich mit einem ganz bestimmten Problem befasst und erkennt, dass die Daten, die dies darstellen.
+
+404
+00:29:16,940 --> 00:29:32,940
+Sich auf natürliche Weise in einem dreidimensionalen Raster oder einem höher-dimensionalen Raster aus Zahlen organisieren. Es ist einfach ein natürlicher Weg, diese Idee überhaupt im Kopf zu behalten. Aber jemand muss clever genug sein, um diese Notwendigkeit zu erkennen und dann darauf zu kommen, oder nicht jeder ist so clever.
+
+405
+00:29:32,940 --> 00:29:48,940
+Man wäre gefangener der damaligen Mathematik, man bräuchte jemanden, der anders denkt und sagt, ich habe einen neuen Ansatz, ich meine, manche Physiker werden scherzen, dass einer von Einsteins größten Beiträgen zur Physik seine Notation für Tensoren war.
+
+406
+00:29:48,940 --> 00:30:04,940
+M, er hatte eine schöne Notation zum Aufschreiben, die klare Stenken ermöglichte an der Tafel etwa. Natürlich ein Witz, doch zeigt es. Ein zentrales Objekt, dass einen klugen Verstand zur nützlichen und handhabbaren Darstellung braucht.
+
+407
+00:30:04,940 --> 00:30:11,940
+Das ist doch keine Tick, oder? Ja, das ist es, wenn man die Einsteinsummennotation verwendet, bei der man, ja.
+
+408
+00:30:11,940 --> 00:30:18,940
+Ja, das ist eine vereinfachte Sache. Sie lässt die Gleichung viel einfacher und harmloser aussehen, als sie tatsächlich ist.
+
+409
+00:30:18,940 --> 00:30:33,940
+Nun, ich sage euch, ihr habt es für mich viel einfacher aussehen lassen, weil ich keine Ahnung habe, wovon ihr redet, okay, ich bin einfach ehrlich, ey, ich sitze hier und es kommt selten vor, dass ich mich in einem Gespräch verlier.
+
+410
+00:30:33,940 --> 00:30:48,940
+Aber dieses hier ist echt abgefahren. Das ist echt cool. Also, er hat ja auch 7 Millionen Follower auf YouTube. Also macht er was richtig. Er macht was richtig. Okay, ja, heig, rent. Hallo, Dr. Tyson, ey, ich bin akja und komme ursprünglich aus Indien.
+
+411
+00:30:48,940 --> 00:30:59,940
+Aber ich lebe in San Francisco. Ich habe den letzten Podcast gehört, als rent hier war. Und ich war auf dem Weg ins Def Valley zu einem Dark Sky Festival, um Sterne zu beobachten. Und es war eine tolle Erfahrung.
+
+412
+00:30:59,940 --> 00:31:16,940
+Ich habe einen anderen Weg in einem Café angehalten und eine schöne Tasse Tee getrunken. Ich hatte Raging, meine Freundin Mary hatte, ich denke mir diesen Teil aus. Ich dachte mir, danke, akja, dass du all deine Informationen über deine Reise hier reingepackt hast. Meine Frage an dich, gerennt, ist.
+
+413
+00:31:16,940 --> 00:31:39,940
+Warum gibt es heute kein neues revolutionäres Paradigma in der Mathematik wie Analyse und Algebra? Das entdeckt wurde. Im Gegensatz zum letzten Jahrtausend, als viel weniger Menschen an mathematischen Problemen arbeiteten, vielen Dank an euch beide und dafür, dass ihr die Wissenschaft populär gemacht habt. Das klingt nach einer Scheibe. Wo ist der nächste Zweig der Mathematik?
+
+414
+00:31:39,940 --> 00:32:03,940
+Wichtig, was ist da los? Ihr habt nichts getan. Ich meine, es hat definitiv eine Menge Entwicklung in der Mathematik gegeben und neue Bereiche haben sich entwickelt, sogar die meisten neuen Bereiche, die meisten Mathematik, die es gibt, also, okay, Algebraische Geometrie in letzten Jahrhundert, besser gesagt in dessen zweiter Hälfte, tauchte ein interessantes Phänomen auf. Der Versuch einer großen Vereinheitlichten Theorie der Mathematik?
+
+415
+00:32:03,940 --> 00:32:13,940
+Um seltsame Verbindungen in scheinbar Disparaten Bereichen zu verstehen, M, eines dieser Gebiete, das dazu neigt, diese Perspektive einzunehmen, also einen Schritt zurückzutreten und zu sagen.
+
+416
+00:32:13,940 --> 00:32:32,940
+Hey, was wäre, wenn Primzahlen und Ähnliches Funktionen wirklich in der selben Welt leben würden und die Fakten? Die wir über die eine wissen, uns Fakten über die andere Verraten würden, M, viele Leute, die sich mit Algebraischer Geometrie beschäftigen. Das passt da irgendwie rein. Es gibt auch eine ziemlich große Revolution in der Art und Weise, wie Menschen über Mathematik denken, wo es etwas gibt, das ist, was es gibt.
+
+417
+00:32:32,940 --> 00:32:56,940
+Wo es etwas gibt, das Kategorientheorie genannt wird, das extrem schwer zu erklären ist, M, und es ist so etwas wie eine Sprache, es ist so etwas wie eine neue Sprache mit der Mathematiker über ihre Arbeit nachdenken. Die es vor 100 Jahren noch nicht gab, es ist eine ganz andere Denkweise und sie entsteht einfach still und leise in diesen Kreisen. Nicht auf eine Art und Weise, die sehr populär wäre. Es wird nie im Analyse unterricht in der Highschool vorkommen, aber es ist definitiv etwas Neues.
+
+418
+00:32:56,940 --> 00:33:19,940
+Das ist, dass es in der Mathematik gibt, aber keine, die in unseren K2-Leerbüchern aufgetaucht ist. Das sollten Sie auch nicht. Ich denke nicht, dass man die Kategorientheorie in ein K2-Leerbuch quetschen sollte. Ich muss sagen, was Grend gerade tut, ist, dass er all die Mathematiker dahinten schlecht macht, über die Akkir spricht. Er sagt, unsere Sachen sind im Moment so komplex, dass man sie nicht einmal lernen kann.
+
+419
+00:33:19,940 --> 00:33:41,940
+Okay, nein, okay, nur drei Leute auf der ganzen Welt können das lernen. Das ist alles, Baby, nein, ich weiß, dass du Witze machst. Ich weiß, du schärzt, aber ich finde es furchtbar, wenn das so ankommt. Oh, so kompliziert, es geht um Leute mit bestimmten Jobs. Zum Beispiel Forschungsmatematiker auf der Suche nach beweisen. Das sind die Werkzeuge für diese Arbeit. Es ist kein großartiges Werkzeug für andere Aufgaben.
+
+420
+00:33:41,940 --> 00:34:11,940
+Wie zum Beispiel das Schreiben von Programmen und die Verwendung mathematischer Modellierung für die Simulation, die man durchwürt, kein so gutes Werkzeug für diese Aufgabe, aber für ihre Aufgabe, Beweise zu schreiben. Es ist, als Geber ist da ein neues Werkzeug. Es kommt zur Erfindung, wenn man diesen Job machen möchte, können wir ihn so zugänglich machen, wie wir wollen. Aber ich denke nicht, dass jeder diesen Job machen sollte, wir sollten ihn nicht in die Schule bringen. Und vieles ist berufspätsiefisch und zu komplex für eine Beschreibung. Wenn man zum Beispiel verstehen will, wie Spritzgießen genau funktioniert oder so etwas. Das ist vielleicht etwas, das für einen Podcast ungeeignet ist, nicht, weil es
+
+421
+00:34:11,940 --> 00:34:39,940
+sich um ein hochtrabendes, mathematisches Superhörn handelt. Es liegt einfach daran, dass Dinge, die für einen Job sehr spezifisch sind, oft viel Fachagung und viel angenommenen Kontext von den Leuten beinhalten, die ihn lernen. Und das soll einfach nicht sein. Akea, Rathemal? Es ist da, aber du musst es nicht unbedingt wissen. Du musst es nicht unbedingt wissen, da haben wir es. Ok, das ist Gina, sie sagt. Hallo, Schlaumeier.
+
+422
+00:34:39,940 --> 00:35:08,940
+Ey, mir ging es gut. Ich liebe es, sie sagt. Gina Martin sagt, ich habe vor kurzem etwas über Kreise und Pi gelernt. Ich habe gelernt, dass der Umfang eines Kreises niemals eine ganze rationale Zahl sein kann. Ich habe wirklich große Schwierigkeiten, das zu begreifen. Wortspiel beabsichtigt. Ich habe Schwierigkeiten, das zu begreifen. Ok, ey, könntest du mir das bitte etwas besser erklären? Danke.
+
+423
+00:35:09,940 --> 00:35:19,940
+Warte, warte, warte, warte, hat sie recht? Sie kann doch nicht den Durchmesser eine irrationale Zahl sein und am Ende den Umfang.
+
+424
+00:35:19,940 --> 00:35:48,940
+Ja, um das klarzustellen, wenn du den Umfang willst, kann dir alles sein, was du willst, könnte auch die Zahl 5 sein. M, ich denke, die Absicht dieser Formulierung war, dass das Verhältnis von Umfang zu Durchmesser niemals sein könnte oder das, wenn der Durchmesser eine ganze Zahl ist, der Umfang niemals rational sein wird. Wie auch immer man es ausdrücken will, es ist die Beziehung zwischen diesen beiden, die im Grunde irrational ist. Es ist wie ein Wack Aolespiel. Eine Zahl machst du schön, die andere bleibt hässlich. Machst du eine der anderen schön, wird die erste hässlich. Hässlich.
+
+425
+00:35:49,940 --> 00:36:18,940
+Sie wird irrational, es wird schwer, sie aufzuschreiben. M, und deshalb ist es eine sehr tiefgründige Frage zu versuchen zu sagen, warum ist P dieses Verhältnis zwischen dem Umfang eines Kreises und seinen Durchmesser? Warum ist das eine irrationale Zahl? Es gibt keine Podcastfähige Antwort, die ich geben kann. Das ist vielleicht nicht zufriedenstellend, aber anstatt über Kreise zu sprechen, lasst uns über Quadrate sprechen. Wenn man ein Quadrat mit der Seitenlänge eins hat und fragt, wie weit man von einer Seite von einer Ecke zur gegenüberliegenden Ecke kommt.
+
+426
+00:36:18,940 --> 00:36:47,940
+Dann ist, dass die Quadratwurzel aus zwei, das folgt aus dem Satz des Pythagoras. Hier steht die geometrische Länge in irrationalem Verhältnis zu ersten gezeichneten Länge. Das Verhältnis zwischen dieser Diagonalen und der Seitenlänge des Quadrats ist also die Quadratwurzel aus zwei. Das ist irrational. Es ist auch viel einfacher, dir zu beweisen, warum es irrational sein muss. Und wenn du mir gestattest, ist das meiner Meinung nach in etwa 45 Sekunden möglich. Und wir können sehen, wie das funktioniert. Okay.
+
+427
+00:36:47,940 --> 00:37:02,940
+Bist du bereit? Los geht's! Der Beweis, dass die Quadratwurzel aus zwei Irrationales nehmen wir an. Du könntest die als rationale Zahl aufschreiben? Richtig? Vielleicht denkst du? Oh, vielleicht wird von zwei. Ich weiß nicht, 5-3 oder vielleicht etwas komplizierteres wie 153.
+
+428
+00:37:02,940 --> 00:37:25,940
+311 kann ich sicherlich große Zahlen finden, die diese Arbeit machen. Und was sie auch wählen, schreiben wir als P durch Q. Wir sagen, das ist das selbe, wie das von zweiter. Was würde das zuerst bedeuten, dass es vollständig reduziert ist, wenn sie also etwas wie um 4, 2 aufschreiben, könnten sie dies auf 2 einte reduzieren. Es gibt also keinen gemeinsamen Faktor zur Reduktion.
+
+429
+00:37:25,940 --> 00:37:54,940
+Wenn das war wahr, ist P, Q die gleiche wie die Quadratwurzel von 2. Per Definition sagen sie, dass P einschaltungszeichen 2, Q einschaltungszeichen 2 gleich 2. Das ist also per Definition. Das bedeutet also, wenn du alles mit dem unteren Ende multipliziertst, dass Q einschaltungszeichen 2, P einschaltungszeichen 2 gleich 2 Sternchen, Q einschaltungszeichen 2 ist. Wenn du also ein paar Zahlen finden könntest, bei denen das zutrifft, müsstest du zugeben, dass P einschaltungszeichen 2 dasselbe ist wie 2 Sternchen, Q einschaltungszeichen 2. Das bedeutet, dass P eine gerade Zahl ist, weil es das Zweifache von erzielen ist.
+
+430
+00:37:55,940 --> 00:38:24,940
+Wenn du etwas ist, P muss eine gerade Zahl sein. M, ja und dann denkst du dir. Ok, ich weiß nicht, nennen wir P einfach 2 Sternchen, K oder so, richtig M, es ist eine gerade Zahl. Wenn du das dann allgebraisch aufschreibst und durch 2 Sternchen, K ersetzt, wirst du zu dem Schluss kommen, dass Q auch eine gerade Zahl sein muss. Denn wenn du diese Schlüsselgleichung P einschaltungszeichen 2 ist gleich 2 Sternchen, Q einschaltungszeichen 2, nimmst, sieht das am Ende so aus. 4K einschaltungszeichen 2 ist gleich 2 Sternchen, Q einschaltungszeichen 2. Du teilst ein paar Sachen aus und sagst, hey, Q muss auch eine gerade Zahl sein. Also musst du vor.
+
+431
+00:38:25,940 --> 00:38:40,940
+4K einschaltungszeichen 2. Das ist gleich 2 Sternchen, wenn du diese Schlüsselgleichung P einschaltungszeichen 2. Das ist gleich 2 Sternchen, wenn du die Zahl nicht mehr aufschreiben kannst, wenn du siehst, wenn du die Zahl nicht mehr aufschreiben kannst.
+
+432
+00:38:40,940 --> 00:38:41,940
+5K einschaltungszeichen 2. Das ist gleich 3 Sternchen, wenn du die Zahl nicht mehr aufschreiben kannst, was du dir willst.
+
+433
+00:39:10,940 --> 00:39:13,200
+Also wollen sie beweisen, dass es unmöglich ist.
+
+434
+00:39:13,200 --> 00:39:17,380
+Die klassische Taktik ist, dass man sagt, ich gehe zunächst davon aus, dass es möglich ist.
+
+435
+00:39:17,380 --> 00:39:22,260
+Man schreibt eine Notation, um zu beschreiben, was wäre, wenn es möglich wäre, was daraus
+
+436
+00:39:22,260 --> 00:39:23,260
+folgen würde.
+
+437
+00:39:23,260 --> 00:39:25,059
+Wir stoßen auf einen Widerspruch.
+
+438
+00:39:25,059 --> 00:39:30,099
+Die Annahme der Möglichkeit führt zu einem unmöglichen Ergebnis also quasi falsch.
+
+439
+00:39:30,099 --> 00:39:32,940
+Das ist eine sehr verbreitete Sache unter Mathematikern.
+
+440
+00:39:32,940 --> 00:39:35,019
+Was du gerade gemacht hast, gefällt mir sehr.
+
+441
+00:39:35,019 --> 00:39:36,860
+Ich liebe es, mit dem Quadrat anzufangen.
+
+442
+00:39:36,860 --> 00:39:38,059
+Das ist sehr cool.
+
+443
+00:39:38,059 --> 00:39:39,579
+Hey Star Talk Fans.
+
+444
+00:39:39,579 --> 00:39:45,299
+Ich weiß nicht, ob ihr das wisst, aber die Audi version des Podcasts wird tatsächlich
+
+445
+00:39:45,299 --> 00:39:48,099
+eine Woche vor der Videoversion veröffentlicht.
+
+446
+00:39:48,099 --> 00:39:56,380
+Ihr könnt sie auf Spotify, Apple Podcast und den meisten anderen Podcast anbietern hören.
+
+447
+00:39:56,380 --> 00:40:01,099
+Verschiedene Möglichkeiten, alles kosmische auf Star Talk aufzunehmen.
+
+448
+00:40:01,099 --> 00:40:02,980
+Ich bin Teen aus Vietnam.
+
+449
+00:40:02,980 --> 00:40:10,659
+Wenn du ins Flache Land reisen würdest, welche Form würdest du einnehmen?
+
+450
+00:40:10,659 --> 00:40:18,179
+Ich meine, würdest du dich dort aufhalten und welche Aktivität würdest du dort gerne
+
+451
+00:40:18,179 --> 00:40:19,179
+ausüben?
+
+452
+00:40:19,179 --> 00:40:20,179
+Danke.
+
+453
+00:40:20,179 --> 00:40:22,940
+Ich bin ein langjähriger Fan von Star Talk und euch beiden.
+
+454
+00:40:22,940 --> 00:40:24,699
+Erzählt uns doch mal etwas über Flettland.
+
+455
+00:40:24,699 --> 00:40:27,460
+Ich habe zufällig gerade ein E exemplar hier auf meinem Schreibtisch stehen.
+
+456
+00:40:27,460 --> 00:40:28,460
+Oh, wirklich?
+
+457
+00:40:28,460 --> 00:40:29,460
+Das ist toll.
+
+458
+00:40:29,460 --> 00:40:30,460
+Ja.
+
+459
+00:40:30,460 --> 00:40:31,460
+Ich habe auch eins hier im Regal stehen.
+
+460
+00:40:31,460 --> 00:40:35,099
+Das ist ein sehr klassisches Buch, in dem der Autoreinen dazu auffordert, sich eine Welt
+
+461
+00:40:35,099 --> 00:40:37,019
+vorzustellen, die nur zwei Dimensionale ist.
+
+462
+00:40:37,019 --> 00:40:40,820
+In drei Dimensionen kann man nach links, rechts, oben, unten, hinein und hinaus schauen.
+
+463
+00:40:40,820 --> 00:40:44,860
+Aber er sagte, was wäre, wenn es nur diese zwei Dimensionale Welt gebe, und man hätte
+
+464
+00:40:44,860 --> 00:40:49,539
+dort eine Menge Kreaturen und er zog diese Analogie, um zu sagen, wäre es nicht wirklich schwer,
+
+465
+00:40:49,539 --> 00:40:52,860
+ihnen drei Dimensionale Formen zu beschreiben, wenn man zum Beispiel jemanden hat, der im
+
+466
+00:40:52,860 --> 00:40:57,019
+Flachland lebt, und man möchte ihm erklären, was ein Würfel oder eine Kugel oder ein Donat
+
+467
+00:40:57,019 --> 00:40:58,019
+ist.
+
+468
+00:40:58,019 --> 00:40:59,019
+Es gibt diese Formen.
+
+469
+00:40:59,019 --> 00:41:03,460
+Man ist ihm einfach nicht beschreiben, und der Zweck des Buches war dann zu sagen,
+
+470
+00:41:03,460 --> 00:41:09,059
+wenn es geometrische Formen in vier Dimensionen gibt, sind sie für uns genauso schwer zu beschreiben,
+
+471
+00:41:09,059 --> 00:41:10,860
+wie es für uns den Flachländer ist.
+
+472
+00:41:10,860 --> 00:41:14,659
+Aber auf die Frage, welche Form ich im Flachland hätte?
+
+473
+00:41:14,659 --> 00:41:15,659
+M, Kreis.
+
+474
+00:41:15,659 --> 00:41:19,579
+Ich meine, es ist vielleicht ein bisschen einfach, aber ein Kreis scheint nützlich zu sein.
+
+475
+00:41:19,579 --> 00:41:20,900
+Man kann sich darin rollen.
+
+476
+00:41:20,900 --> 00:41:22,900
+M, alles ist schön symmetisch.
+
+477
+00:41:22,900 --> 00:41:27,739
+M, man kann den Kreis umkehren, was der andere junge sicherlich zu schätzen weiß.
+
+478
+00:41:27,739 --> 00:41:31,259
+M, aber ey, das ist wahrscheinlich alles, was ich habe.
+
+479
+00:41:31,259 --> 00:41:36,419
+Wenn ich mich an die Geschichte erinnere, war man umso aristokratischer, je mehr Seiten
+
+480
+00:41:36,419 --> 00:41:37,419
+man hatte.
+
+481
+00:41:37,419 --> 00:41:42,299
+Oh, sie dich an, richtig, ein Dreieck wäre also der niedrigste Abschaum der Erde.
+
+482
+00:41:42,299 --> 00:41:47,299
+Diese Dreiecke, das kann ich nicht glauben, versuchen, sich hier zu bewegen, sie wissen es
+
+483
+00:41:47,299 --> 00:41:48,299
+besser.
+
+484
+00:41:48,299 --> 00:41:50,299
+Und dann die Quadrate und dann fünf Ecke, sechs Ecke.
+
+485
+00:41:50,299 --> 00:41:52,219
+Ich denke also, ich wäre ein Sechseck.
+
+486
+00:41:52,219 --> 00:41:55,779
+Ok, ich wäre ein Sechseck, du willst die Ebene testilieren?
+
+487
+00:41:55,779 --> 00:41:57,539
+Ja, das möchte ich mir ansehen.
+
+488
+00:41:57,539 --> 00:42:02,699
+Ja, obwohl jede Form testilieren kann, richtig, nun, nicht jede Form.
+
+489
+00:42:02,699 --> 00:42:05,659
+Ich meine, du hast deine Quadrate, du hast deine Dreiecke.
+
+490
+00:42:05,659 --> 00:42:06,659
+Nein, nein, nein.
+
+491
+00:42:06,659 --> 00:42:10,860
+Ich meine, wenn du dir echer gemälder ansiesst, ist das nicht testilierungen, wenn du zwei
+
+492
+00:42:10,860 --> 00:42:11,860
+hast, punkt.
+
+493
+00:42:11,860 --> 00:42:17,420
+Ja, ja, zwei Formen schneiden sich, richtig, der Unterschied ist also, dass ich ein so genanntes
+
+494
+00:42:17,420 --> 00:42:18,860
+regelmäßiges Polygon bin.
+
+495
+00:42:18,860 --> 00:42:22,900
+Bei dem alle meine Seiten gleich sind, dann ist es nur das Sechseck, aber ich denke, dass
+
+496
+00:42:22,900 --> 00:42:25,019
+testilierungen alle Formen betrifft, die das können.
+
+497
+00:42:25,019 --> 00:42:26,300
+Was wird Tessellierung genannt?
+
+498
+00:42:26,300 --> 00:42:27,500
+Ist das nicht richtig?
+
+499
+00:42:27,500 --> 00:42:28,900
+Nun, nicht jede Form kann testilieren.
+
+500
+00:42:28,900 --> 00:42:32,259
+Du hast also recht, der Druck zeigt, dass du diese unendliche Familie hast, die testilieren
+
+501
+00:42:32,259 --> 00:42:33,259
+kann.
+
+502
+00:42:33,259 --> 00:42:34,259
+Ich stimme zu.
+
+503
+00:42:34,259 --> 00:42:35,259
+Aber ja, wie Engel und Teufel, die sich testilieren.
+
+504
+00:42:35,259 --> 00:42:37,539
+Ja, ja, ja, aber das kann man testen.
+
+505
+00:42:37,539 --> 00:42:38,539
+Das nennt man Tessellation.
+
+506
+00:42:38,539 --> 00:42:39,539
+Nicht wahr?
+
+507
+00:42:39,539 --> 00:42:40,539
+Himm.
+
+508
+00:42:40,539 --> 00:42:41,539
+Ja, 100 Prozent.
+
+509
+00:42:41,539 --> 00:42:42,539
+Richtig, richtig.
+
+510
+00:42:42,539 --> 00:42:47,820
+Wenn man sich also auf eine Form, ein Polygon beschränkt, richtig, ein regelmäßiges Polygon,
+
+511
+00:42:47,820 --> 00:42:49,139
+dann sind wir eingeschränkt, richtig.
+
+512
+00:42:49,139 --> 00:42:52,820
+Aber ich möchte ein Sechseck, denn mit einem Sechseck kann man einen Boden fließen.
+
+513
+00:42:52,820 --> 00:42:53,820
+Ja, das kann man.
+
+514
+00:42:53,820 --> 00:42:57,820
+Ja, und wenn man andere Leute dazu bringt, mit einem zu fließen, kann man sich anschmiegen
+
+515
+00:42:57,820 --> 00:42:58,820
+und alles passt.
+
+516
+00:42:58,820 --> 00:43:00,340
+Sehr, sehr gut zusammen.
+
+517
+00:43:00,340 --> 00:43:01,660
+Gut, sehr cool.
+
+518
+00:43:01,660 --> 00:43:03,340
+Welche Form hättest du?
+
+519
+00:43:03,340 --> 00:43:07,820
+Jetzt, wo wir über Fliesen sprechen, vor ein paar Jahren wurde eine ganze Fliese entdeckt.
+
+520
+00:43:07,820 --> 00:43:11,420
+Das ist eine einzelne Fliese, die sich auf nichtperiodische Weise testiliert.
+
+521
+00:43:11,420 --> 00:43:14,980
+Sie kann sich nicht periodisch testilieren, sondern nur nicht periodisch.
+
+522
+00:43:14,980 --> 00:43:15,980
+Davon habe ich gehört.
+
+523
+00:43:15,980 --> 00:43:18,740
+Aber ist das ein regelmäßiges Polygon oder ist das nur eine andere Form?
+
+524
+00:43:18,740 --> 00:43:21,059
+Nein, nein, nein, es ist eine wilde.
+
+525
+00:43:21,059 --> 00:43:22,059
+Keine so seltsame Form.
+
+526
+00:43:22,059 --> 00:43:24,460
+Aber es sieht aus wie ein Hut, wie die Leute es nennen.
+
+527
+00:43:24,460 --> 00:43:27,460
+Aber das Kuhle ist, dass es von einem Amateur entdeckt wurde.
+
+528
+00:43:27,460 --> 00:43:32,099
+Eh, also wussten die Leute nicht, ob es so etwas gibt, das Dinge nicht periodisch anordnet
+
+529
+00:43:32,099 --> 00:43:33,860
+oder Dinge periodisch anordnet.
+
+530
+00:43:33,860 --> 00:43:37,699
+Ohne dass es eine periodische Kachelung gibt, das ist eine technische Frage.
+
+531
+00:43:37,699 --> 00:43:40,380
+Aber es ist einfach eine interessante Kachelungsfrage.
+
+532
+00:43:40,380 --> 00:43:44,380
+Ein Amateur hat sie gefunden und sie wurde vor ein paar Monaten zu einem kleinen, lustigen
+
+533
+00:43:44,380 --> 00:43:45,900
+star im matematischen Internet.
+
+534
+00:43:45,900 --> 00:43:49,860
+Der Unterschied zwischen periodischen und nicht periodischen Muster, großartig.
+
+535
+00:43:49,860 --> 00:43:52,340
+Die meisten Muster, die man sich vorstellen kann, sind periodisch.
+
+536
+00:43:52,340 --> 00:43:54,420
+Das ist fast das, was wir unter Muster verstehen.
+
+537
+00:43:54,420 --> 00:43:55,420
+Pungt.
+
+538
+00:43:55,420 --> 00:43:57,940
+Ja, wenn man das ganze Bild verschiebt, sieht es identisch aus.
+
+539
+00:43:57,940 --> 00:44:01,260
+Man nimmt also die 6-Sek-Kachelung und verschiebt dann die Ansicht um ein 6-Sek.
+
+540
+00:44:01,260 --> 00:44:02,460
+Und es sieht identisch aus.
+
+541
+00:44:02,460 --> 00:44:05,059
+Das ist es also, was wir unter periodisch verstehen.
+
+542
+00:44:05,059 --> 00:44:09,380
+M, es war lange Zeit nicht einmal bekannt, dass man nicht periodische Kacheln haben kann.
+
+543
+00:44:09,380 --> 00:44:14,460
+Penrose, der für seine Physik bekannt ist, fand einen Weg, mit zwei Rautenförmigen
+
+544
+00:44:14,460 --> 00:44:16,460
+Kacheln ein Muster zu erzeugen.
+
+545
+00:44:16,460 --> 00:44:19,820
+Das den Raum lücken los, aber nicht periodisch füllt.
+
+546
+00:44:19,820 --> 00:44:22,620
+Es ist also ein beschreibbares Muster.
+
+547
+00:44:22,620 --> 00:44:25,780
+Man kann beschreiben, wie es sein soll, aber es wiederholt sich nie.
+
+548
+00:44:25,780 --> 00:44:28,780
+Wenn man also seinen Blickwinkel ändert, wird es nie identisch aussehen.
+
+549
+00:44:28,780 --> 00:44:32,019
+Man kann, es also nicht mehr so verändern, wie es vorher war.
+
+550
+00:44:32,019 --> 00:44:35,740
+Ja, es ist ein bisschen wie die Ziffern von P oder diese irrationalen Zahlen.
+
+551
+00:44:35,740 --> 00:44:36,740
+Sie wiederholen sich nicht.
+
+552
+00:44:36,740 --> 00:44:40,380
+Sie setzen einfach auf vorhersehbare Weise fort, aber nicht ohne sich zu wiederholen.
+
+553
+00:44:40,380 --> 00:44:42,820
+Es ist das geometrische Equivalent dazu.
+
+554
+00:44:42,820 --> 00:44:44,300
+Ok, sehr cool.
+
+555
+00:44:44,300 --> 00:44:47,220
+Das ist William Walker und William Walker sagt.
+
+556
+00:44:47,219 --> 00:44:51,019
+Hallo, meine Herren aus Florida, aus dem Florida-Panhandle.
+
+557
+00:44:51,019 --> 00:44:56,139
+Ich habe gehört, dass wir mathematisch Eigenschaften kennen, von denen einige oder alle.
+
+558
+00:44:56,139 --> 00:45:01,019
+Ich bin mir nicht sicher, von Dimensionen, die höher sind als das, was wir beobachten.
+
+559
+00:45:01,019 --> 00:45:03,139
+Könnten Sie das bitte näher erläutern?
+
+560
+00:45:03,139 --> 00:45:05,539
+Was können wir über diese Dimensionen sagen?
+
+561
+00:45:05,539 --> 00:45:07,459
+Ja, wie kommen Sie darauf?
+
+562
+00:45:07,459 --> 00:45:10,779
+Helm, großartig, großartig, großartig, großartig.
+
+563
+00:45:10,779 --> 00:45:15,899
+Ich denke, das ist eines der großen Missverständnisse, wenn Mathematiker über höhere Dimensionen sprechen.
+
+564
+00:45:15,900 --> 00:45:20,660
+Die Leute gehen davon aus, dass sie über etwas sprechen, dass physikalisch realisiert sein sollte.
+
+565
+00:45:20,660 --> 00:45:25,619
+Aber wenn man Mathematik betreibt, hat man es manchmal mit etwas zu tun, dass sich durch mehrere Zahlen beschreiben lässt.
+
+566
+00:45:25,619 --> 00:45:33,019
+Man hat ein System wie ein kleines Teilchen, dass sich bewegt, und man beschreibt seine Geschwindigkeit mit einer Liste von Zahlen und seine Position mit einer Liste von Zahlen.
+
+567
+00:45:33,019 --> 00:45:36,860
+Und oft ist es müzzig, alle Zahlen zu nehmen und sie einfach zusammen aufzulissen.
+
+568
+00:45:36,860 --> 00:45:41,300
+Und wenn man eine Liste mit drei Zahlen hat, kann man sich das als einen Punkt in einem dreidimensionellen Raum vorstellen.
+
+569
+00:45:41,300 --> 00:45:44,660
+Eine Liste mit zwei Zahlen entspricht eindeutig einem Punkt im zwei Dimensionalen Raum.
+
+570
+00:45:44,659 --> 00:45:47,019
+Punkt, aber die Mathematik ist eindeutig.
+
+571
+00:45:47,019 --> 00:45:53,099
+Ja, und Mathematiker und Physiker erkennen, dass wir manchmal ein Problem lösen und eine Liste mit vier oder fünf Zahlen haben.
+
+572
+00:45:53,099 --> 00:45:58,579
+Und es war wirklich nützlich, visualisieren zu können, was passiert, wenn es sich um eine Liste mit drei Zahlen handelt.
+
+573
+00:45:58,579 --> 00:46:03,579
+In dem man diese eindeutige Assoziation zwischen einem Zahlen-Triplett und einem Punkt in einem Dreidimraum hat.
+
+574
+00:46:03,579 --> 00:46:05,980
+Sie fragten sich, warum können wir das nicht tun?
+
+575
+00:46:05,980 --> 00:46:09,500
+Warum können wir nicht sagen, dass es einen abstrakten vier Dimensionalen Raum gibt?
+
+576
+00:46:09,500 --> 00:46:12,699
+Nicht in der physischen Realität, sondern der einfach das Problem darstellt,
+
+577
+00:46:12,739 --> 00:46:17,739
+dass ich löse, bei dem ein Zahlen-Triplett auftaucht, oder heutzutage im Maschinellen lernen, nicht wahr,
+
+578
+00:46:17,739 --> 00:46:25,099
+wenn ein großes Sprachmodell deinen Text liest, wandelt es als erstes ein gegebenes Wort in eine richtig große Liste von Zahlen um,
+
+579
+00:46:25,099 --> 00:46:26,779
+etwa 10.000 von Zahlen.
+
+580
+00:46:26,779 --> 00:46:33,539
+Und es ist üblich, dass ich Forscher das als einen Punkt in einem wahnsinnig hochdimensionalen Raum vorstellen und geometrische Ideen verwenden,
+
+581
+00:46:33,539 --> 00:46:36,579
+um zu beschreiben, was mit diesem Punkt durch das Modell geschieht.
+
+582
+00:46:36,579 --> 00:46:41,379
+Aber natürlich behaupten wir nicht, dass es in der physischen Realität einen 12.000 Dimensionalen Raum gibt.
+
+583
+00:46:41,380 --> 00:46:46,900
+Es ist nur eine nette Möglichkeit, Listen mit Zahlen zu beschreiben, die ich hier in meinem Regal habe.
+
+584
+00:46:46,900 --> 00:46:49,300
+Diese Dimensionen sind also Platzhalter.
+
+585
+00:46:49,300 --> 00:46:49,820
+Was?
+
+586
+00:46:49,820 --> 00:46:52,019
+Ich habe es hier in meinem Regal.
+
+587
+00:46:52,019 --> 00:46:55,860
+Einen Flaschenöffner in Form einer kleinen Schenflasche.
+
+588
+00:46:55,860 --> 00:46:57,180
+Ich liebe ihn.
+
+589
+00:46:57,180 --> 00:47:03,059
+Dies ist also ein Versuch, ein vierdimensionales Objekt in drei Dimensionen darzustellen.
+
+590
+00:47:03,059 --> 00:47:06,220
+Ja, ja, Flaschen von Kunden sind also etwas,
+
+591
+00:47:06,220 --> 00:47:08,740
+dass sich in vier Dimensionen am Wohlsten fühlt.
+
+592
+00:47:08,740 --> 00:47:10,019
+Dort wollen sie leben.
+
+593
+00:47:10,019 --> 00:47:14,739
+Und wenn man versucht, sie in drei Dimensionen leben zu lassen, müssen sie sich auf unnatürliche Weise selbstkreuzen.
+
+594
+00:47:14,739 --> 00:47:18,019
+Sie lässt sich drei Dimensionen nicht darstellen, ohne sich selbst zukreuzen.
+
+595
+00:47:18,019 --> 00:47:19,259
+Keine Innenseite.
+
+596
+00:47:19,259 --> 00:47:20,380
+Die kleinische Flasche.
+
+597
+00:47:20,380 --> 00:47:23,219
+Ja, ja, ich denke, so kann man es richtig ausdrücken.
+
+598
+00:47:23,219 --> 00:47:25,420
+Man kann nicht zwischen Innen und Außen unterscheiden.
+
+599
+00:47:25,420 --> 00:47:30,259
+Ja, ich hatte ein paar Freunde im College, die wegen unbefugten Beträtens eines bestimmten Gebäudes in Schwierigkeiten gerieten.
+
+600
+00:47:30,259 --> 00:47:35,340
+Sie meinten, vielleicht können wir uns verteidigen, indem wir zum Zaun vor dem Gebäude gehen und ihn einmal verdrehen.
+
+601
+00:47:35,340 --> 00:47:39,300
+So dass der gesamte Zaun wie ein Meuerstreifen aussieht, dies ist eine weitere dieser Formen,
+
+602
+00:47:39,300 --> 00:47:42,140
+bei denen es keine klare Vorstellung von Innen und Außen gibt.
+
+603
+00:47:42,140 --> 00:47:47,460
+Dann können wir den Behörden argumentieren, dass ein Betreten des Bereichs unmöglich war,
+
+604
+00:47:47,460 --> 00:47:49,900
+da dessen Inneres und definiert ist.
+
+605
+00:47:49,900 --> 00:47:52,539
+Waren das Gelangwaldes denn fortstudenten?
+
+606
+00:47:52,539 --> 00:47:55,820
+Ja, ich weiß nicht, wie gelangwald sie waren.
+
+607
+00:47:55,820 --> 00:47:58,500
+Aber sie waren kreatives denn fortstudenten?
+
+608
+00:47:58,500 --> 00:48:03,460
+Ja, nicht kreativ genug, um nicht ins Gefängnis zu gehen.
+
+609
+00:48:03,460 --> 00:48:06,420
+Denn man geht trotzdem unter, aber das ist clever.
+
+610
+00:48:06,420 --> 00:48:08,500
+Man müsste den Zaun umdrehen und dann wieder befestigen.
+
+611
+00:48:08,500 --> 00:48:09,500
+Wieder befestigen.
+
+612
+00:48:09,500 --> 00:48:10,900
+Ja, ja, genau.
+
+613
+00:48:10,900 --> 00:48:14,780
+Also, mitten in der Nacht, während du tust, was auch immer du tust, während du dort eindringst.
+
+614
+00:48:14,780 --> 00:48:18,659
+Achter einfach darauf, dass du beim Gehen den Zaun durchschneidest, ihn verdrehst und wieder befestigt.
+
+615
+00:48:18,659 --> 00:48:21,380
+So dass er ein Möbius Zaun ist und dann ist eine verteidigung solide.
+
+616
+00:48:21,380 --> 00:48:26,059
+Eine kleinsche Flasche ist also eine vierdimensionale Version eines Möbiusbandes.
+
+617
+00:48:26,059 --> 00:48:26,700
+Punkt.
+
+618
+00:48:26,700 --> 00:48:28,980
+Ja, ich mag diese Beschreibung nicht.
+
+619
+00:48:28,980 --> 00:48:33,260
+Ich meine, wenn man versucht, ein Möbiusband zu nehmen und ein anderes Möbiusband zu nehmen und versucht,
+
+620
+00:48:33,260 --> 00:48:35,860
+ihre Kanten zusammen zu kleben, erhält man eine kleinsche Flasche.
+
+621
+00:48:35,860 --> 00:48:38,260
+Es ist eine sehr verwirrende Vorstellung davon.
+
+622
+00:48:38,260 --> 00:48:40,019
+M, es ist analog zum Möbiusband.
+
+623
+00:48:40,019 --> 00:48:41,300
+Dabei den nicht orientierbar sind.
+
+624
+00:48:41,300 --> 00:48:44,500
+Was bedeutet, dass man diese Vorstellung von keinem klaren Innen oder Außen hat?
+
+625
+00:48:44,500 --> 00:48:45,500
+Aber sie sind unterschiedlich.
+
+626
+00:48:45,500 --> 00:48:47,940
+Eine kleinsche Flasche ist wie eine geschlossene Form.
+
+627
+00:48:47,940 --> 00:48:49,180
+Sie hat keinen Rand.
+
+628
+00:48:49,180 --> 00:48:51,059
+Ein Möbiusband hat einen Rand.
+
+629
+00:48:51,059 --> 00:48:53,900
+Topologisch gesehen sind das ziemlich unterschiedliche Lebewesen.
+
+630
+00:48:53,900 --> 00:48:55,340
+Aber sie schwimmen im selben Gewässer.
+
+631
+00:48:55,340 --> 00:48:57,340
+Nun, es hat keine eindimensionale Kante.
+
+632
+00:48:57,340 --> 00:49:00,860
+Aber dieses hier hat eine zweidimensionale Kante, die wir als Oberfläche bezeichnen würden.
+
+633
+00:49:00,860 --> 00:49:03,620
+Eine Oberfläche ist eine Kante in vier Dimensionen.
+
+634
+00:49:03,620 --> 00:49:04,620
+Nicht wahr?
+
+635
+00:49:04,619 --> 00:49:09,420
+So ist die eindimensionale Kante eines Möbiusbandes eine Kante in drei Dimensionen.
+
+636
+00:49:09,420 --> 00:49:13,539
+Wenn du also auf der Erde lebst und versuchst, zum Rand der Erde zu laufen, ist sie eine Kugel.
+
+637
+00:49:13,539 --> 00:49:14,699
+Es gibt keinen Rand.
+
+638
+00:49:14,699 --> 00:49:18,019
+Du wirst nie an den Rand gelangen, an dem das ganze Wasser herunterfällt.
+
+639
+00:49:18,019 --> 00:49:19,019
+Richtig?
+
+640
+00:49:19,019 --> 00:49:21,940
+Wenn es eine flache Scheibe wäre, könntest du bis zum Rand laufen.
+
+641
+00:49:21,940 --> 00:49:26,299
+Wenn du ein kleines Möbiusband wirst, könntest du bis zum Rand laufen und irgendwann
+
+642
+00:49:26,299 --> 00:49:27,619
+über den Rand hinaus schauen.
+
+643
+00:49:27,619 --> 00:49:30,819
+Wenn du um die kleinsche Flasche herumläufst, triffst du auf diese Weise nie auf eine
+
+644
+00:49:30,819 --> 00:49:31,819
+Kante.
+
+645
+00:49:31,820 --> 00:49:34,620
+Und, mathematisch nennen wir sie in diesem Sinne eine geschlossene Oberfläche.
+
+646
+00:49:34,620 --> 00:49:36,019
+Beides sind also Oberflächen.
+
+647
+00:49:36,019 --> 00:49:37,220
+Beides sind zwei D.
+
+648
+00:49:37,220 --> 00:49:39,220
+Okay, es gibt also einen wichtigen Unterschied.
+
+649
+00:49:39,220 --> 00:49:40,220
+Geschlossene Oberfläche.
+
+650
+00:49:40,220 --> 00:49:41,220
+Das ist der Schlüssel.
+
+651
+00:49:41,220 --> 00:49:42,620
+Zeit für nur noch eine letzte Frage.
+
+652
+00:49:42,620 --> 00:49:43,620
+Okay, in Ordnung.
+
+653
+00:49:43,620 --> 00:49:46,220
+Wenn du dir uns an unseren alten Freund Kevin, den Samo.
+
+654
+00:49:46,220 --> 00:49:47,220
+Oh, okay.
+
+655
+00:49:47,220 --> 00:49:50,019
+Und Kevin sagt, dass sei sein Nachname, der Samo.
+
+656
+00:49:50,019 --> 00:49:51,019
+Okay.
+
+657
+00:49:51,019 --> 00:49:53,420
+Der zweite Vornahme ist der Nachnahme ist Samo.
+
+658
+00:49:53,420 --> 00:49:54,620
+Er sagt folgendes.
+
+659
+00:49:54,620 --> 00:49:55,620
+Okay.
+
+660
+00:49:55,620 --> 00:49:59,220
+Niel hat das drei Körperproblem in einer Erklärfolge kurz angesprochen.
+
+661
+00:49:59,219 --> 00:50:04,419
+Aber gibt es einen anderen Zweik der Mathematik, der noch nicht entdeckt wurde und der es
+
+662
+00:50:04,419 --> 00:50:08,219
+genauso lösen könnte, wie Newton es mit der Bewegung getan hat?
+
+663
+00:50:08,219 --> 00:50:16,019
+Zu Ehren von Söreiseck Newton gibt es einen spanischen Weinnamens Principer Mathematika,
+
+664
+00:50:16,019 --> 00:50:18,419
+ein strahlender Weißwein aus Scharello.
+
+665
+00:50:18,419 --> 00:50:22,019
+Ich werde diesen Wein finden.
+
+666
+00:50:22,019 --> 00:50:25,219
+Ja, Prinzipier ist also sein größtes Werk.
+
+667
+00:50:25,219 --> 00:50:28,619
+Äh, es sind die mathematischen Prinzipien der Naturphilosophie.
+
+668
+00:50:28,619 --> 00:50:31,619
+Aha, sinnvollerweise abgekürzt Prinzipier, Prinzipier.
+
+669
+00:50:31,619 --> 00:50:33,619
+Ja, aber es ist Prinzipier Mathematika.
+
+670
+00:50:33,619 --> 00:50:37,019
+Wenn du das ganze mal ganz genau sagen willst, okay, das ist eine großartige Arbeit.
+
+671
+00:50:37,019 --> 00:50:39,019
+Wenn es einen Wein mit diesem Namen gibt, werde ich ihn finden.
+
+672
+00:50:39,019 --> 00:50:41,819
+Danke, es gibt einen Wein mit diesem Namen.
+
+673
+00:50:41,819 --> 00:50:48,619
+Samo, also, ich mag diese Frage, denn ab wann sagt man, dass es unlösbar ist und ab wann sagt man,
+
+674
+00:50:48,619 --> 00:50:55,619
+dass die Person, die brillant genug ist, es zu lösen, noch nicht geboren ist und ihr Genie nicht darauf anwenden kann?
+
+675
+00:50:55,619 --> 00:51:00,619
+Ja, zwei Wege gibt es, um zu prüfen, ob ein Problem schwer lösbar ist.
+
+676
+00:51:00,619 --> 00:51:06,619
+Im Fall von Newton, der die Planeten modellierte, wusste man noch nicht einmal, welche Mathematik man dafür anwenden sollte,
+
+677
+00:51:06,619 --> 00:51:10,619
+welches mathematische Modell man verändern würde, um vorher sagen zu treffen und sein großer Beitrag bestand darin,
+
+678
+00:51:10,619 --> 00:51:14,019
+das geeignete Gebiet der Mathematik zu erfinden, mit dem man dann vorher sagen treffen konnte.
+
+679
+00:51:14,019 --> 00:51:18,819
+Ein Zweik der Mathematik, den man heute nicht mehr erfindet, wollte das nur noch mal sagen.
+
+680
+00:51:18,819 --> 00:51:25,420
+Okay, richtig, M und das Dreikörperproblem fühlt sich so anders an, weil es nicht so ist, dass wir nicht wissen,
+
+681
+00:51:25,420 --> 00:51:32,220
+welche Mathematik es beschreiben soll. Es heißt stattdessen, dass wir wissen, dass es sich um eine intrinsisch mathematische Frage handelt.
+
+682
+00:51:32,220 --> 00:51:38,420
+Sie sagen, wenn man dieses Stück Mathematik gibt, dass es exakt beschreibt, und es ist die Newtonche Analyse,
+
+683
+00:51:38,420 --> 00:51:45,619
+dann ist bekannt, dass man nicht vorher sagen kann, was passieren wird, wenn man einen kleinen Fehler in seinen ursprünglichen Vohersagen hat.
+
+684
+00:51:45,619 --> 00:51:50,420
+Das war also die große Überraschung der Chaos-Theorie, wo man zunächst denken könnte,
+
+685
+00:51:50,420 --> 00:51:56,220
+hey, wenn ich weiß, wie man eine Gleichung löst, oder wenn ich eine Gleichung habe, dann bin ich ausreichend schlauderen,
+
+686
+00:51:56,220 --> 00:52:01,619
+wenn ich dann den Anfangszustand kenne und einfach sehe, wie sich die Welt gemäß dieser Gleichung entwickelt,
+
+687
+00:52:01,619 --> 00:52:09,420
+kann ich die Zukunft vorher sagen, dann besagt die Chaos-Theorie, dass es diese Situationen gibt, einschließlich des Dreikörperproblems.
+
+688
+00:52:09,420 --> 00:52:15,220
+Bei denen selbst, wenn man alle Lösungen genau kennt, dieser Fehler bei der Messung so schnell anwächst,
+
+689
+00:52:15,219 --> 00:52:24,219
+dass die möglichen Zustände, die man nach relativ kurzer Zeit erreichen könnte, aufgrund dieses Fehleres einen so großen Bereich von Möglichkeiten abdecken,
+
+690
+00:52:24,219 --> 00:52:30,019
+dass das Ergebnis effektiv unvorhersehbar ist, es sei denn, man hätte unendliche Präzision,
+
+691
+00:52:30,019 --> 00:52:36,019
+aber so funktionieren Wissenschaft oder Technik überhaupt nicht, oder Planeten bewegen sich, richtig,
+
+692
+00:52:36,019 --> 00:52:43,619
+dass Ergebnis ist also aussagekräftig, die Antworten sind bekannt, es ist bekannt, dass die Antworten in gewisser Weise unerkennbar sind,
+
+693
+00:52:43,619 --> 00:52:48,420
+richtig, es ist bekannt, dass es chaotisch sein wird, in den Sinne, dass die Endergebnisse sehr heikel sind,
+
+694
+00:52:48,420 --> 00:52:53,019
+das ist also nicht die Art von Problem, die sich für diese Problemstellung eignet, richtig?
+
+695
+00:52:53,019 --> 00:52:56,619
+Ja, wir brauchen einfach eine intelligente Person, die mit kommt.
+
+696
+00:52:56,619 --> 00:52:58,619
+Nein, denn die Idee ist folgende.
+
+697
+00:52:58,619 --> 00:53:05,019
+Die Antwort ist, dass sie nicht erkennbar ist, das ist die eigentliche Lösung, das ist die Antwort, das ist die Antwort.
+
+698
+00:53:05,019 --> 00:53:07,019
+Es ist nicht so, dass wir sie nicht lösen können.
+
+699
+00:53:07,019 --> 00:53:11,019
+Wir haben sie gelöst und die Lösung ist ausgezeichnet, das ist unbekannt.
+
+700
+00:53:11,019 --> 00:53:14,619
+Stimmen Sie dem zu, das ist brillant, das ist eine großartige Zusammenfassung.
+
+701
+00:53:14,619 --> 00:53:16,820
+Ich denke, das ist eine großartige Zusammenfassung von Chaos.
+
+702
+00:53:16,820 --> 00:53:18,820
+Ich habe mir hier meinen Lebensunterhalt verdient.
+
+703
+00:53:18,820 --> 00:53:21,619
+Ich kann jetzt nach Hause gehen, gerade noch rechtzeitig.
+
+704
+00:53:21,619 --> 00:53:24,420
+Ich weiß es, wie spät ist es? Wirklich?
+
+705
+00:53:24,420 --> 00:53:26,420
+Chuck, zur letzten Frage.
+
+706
+00:53:28,420 --> 00:53:37,019
+Eines der Dinge, die ich an der Mathematik am meisten mag, ist, dass man durch Türen spälen kann, bevor man sie tatsächlich betritt.
+
+707
+00:53:38,019 --> 00:53:50,019
+Denn die Mathematik als Modell der Realität ermöglicht es einem, als Wissenschaftler gesprochen, die Welt zu erkunden, ohne jemals seinen Stuhl zu verlassen.
+
+708
+00:53:50,019 --> 00:54:02,019
+Wenn die Mathematik ein korrektes Modell des physikalischen Universums darstellt, dann hast du die Macht eines Gottes in deiner Hand, wenn du vorher sagen triffst.
+
+709
+00:54:02,019 --> 00:54:10,019
+Wenn diese Eintreffen gibt dir das umso mehr Vertrauen, dass die Mathematik und das Universum eins sind.
+
+710
+00:54:10,019 --> 00:54:15,019
+Und mit dieser Macht lebe ich beim Nachdenken über höhere Dimensionen auf.
+
+711
+00:54:15,019 --> 00:54:18,019
+Ein Thema, über das wir gesprochen haben.
+
+712
+00:54:18,019 --> 00:54:22,019
+Wie sehen die Dinge in vier, fünf oder sechs Dimensionen aus?
+
+713
+00:54:22,019 --> 00:54:24,019
+Das kannst du dir nicht vorstellen.
+
+714
+00:54:24,019 --> 00:54:31,019
+Nein, unsere Gehirne haben sich in den Ebenen der Serengetie entwickelt, um nicht von Löwen gefressen zu werden.
+
+715
+00:54:31,019 --> 00:54:40,019
+Wir sind nicht in der Lage, so zu denken, aber wir haben die geistige Kraft, auf diese Weise zu rechnen und uns all die Informationen zu liefern.
+
+716
+00:54:40,019 --> 00:54:46,019
+Die wir über höhere Dimensionen und andere Orte wissen, die wir noch nicht besucht haben.
+
+717
+00:54:46,019 --> 00:54:52,019
+Und das ist eine kosmische Perspektive. Also, erzähl uns noch einmal, was dein YouTube-Kanal ist.
+
+718
+00:54:52,019 --> 00:54:57,019
+Ja, der YouTube-Kanal heißt Friedblut, Warren Braun, ein zugegebener Massenseltsamer Name.
+
+719
+00:54:57,019 --> 00:55:03,019
+Du kannst auch nach 3B1-B suchen. Viele Themen, die wir hier besprochen haben, werden in diesem Kanal gesichtet.
+
+720
+00:55:03,019 --> 00:55:07,019
+Sehr ausgezeichnet. Und wie finden wir dich sonst noch in den sozialen Medien?
+
+721
+00:55:07,019 --> 00:55:11,019
+3 Blaue und Braune auf deiner bevorzugten Social Media App dieser Tage.
+
+722
+00:55:11,019 --> 00:55:16,019
+Okay, die drei und die und die eins sind ziffern und das Blaue und das Braune sind wortere.
+
+723
+00:55:16,019 --> 00:55:20,019
+Ja, richtig. Ziffern und Zahlen lassen sich kaum beschreiben.
+
+724
+00:55:20,019 --> 00:55:25,019
+Ja, oder einfach 3B1-B, wenn du danach suchst, findest du es normalerweise.
+
+725
+00:55:25,019 --> 00:55:30,019
+Okay, nun, herzlichen Glückwunsch zu deinem Erfolg und wie gesagt, du tust Gottes Werk.
+
+726
+00:55:30,019 --> 00:55:35,019
+Ja, denn man kann nicht durch 0 teilen. Wir hoffen also, noch mehr von dir zu sehen.
+
+727
+00:55:35,019 --> 00:55:38,019
+Mach weiter so und wir brauchen mehr mathematische Fähigkeiten auf dieser Welt.
+
+728
+00:55:38,019 --> 00:55:42,019
+Ja, das tun wir. Gott, bitte infiziere einfach das ganze Land.
+
+729
+00:55:42,019 --> 00:55:46,019
+Kannst du bitte mein bestes tun? In Ordnung. Schack, es ist immer schön, dich hier zu haben.
+
+730
+00:55:46,019 --> 00:55:48,019
+Man immer ein Vergnügen in Ordnung.
+
+731
+00:55:48,019 --> 00:55:54,019
+Das war die Star-Toc Cosmic Agrarios-Mathematik-Ausgabe. Nil der Gras-Teisen. Schau weiter nach oben.
+

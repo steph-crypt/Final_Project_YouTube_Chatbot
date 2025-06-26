@@ -1,0 +1,4216 @@
+1
+00:00:00,000 --> 00:00:09,279
+Es gibt einige wirklich gute Anwendungen von Key, die wir vorantreiben können, um darüber nachzudenken, wie wir Key einsetzen können, um tatsächlich alle Krankheiten vollständig zu heilen.
+
+2
+00:00:09,279 --> 00:00:14,759
+Biochemiker haben diese Proteinstrukturen in den letzten 50 Jahren von Hand ausgearbeitet.
+
+3
+00:00:14,759 --> 00:00:20,000
+Und jetzt haben wir all diese Daten genommen und ein neuronales Netzwerk trainiert.
+
+4
+00:00:20,000 --> 00:00:24,160
+Das nur anhand der Eingabe dieser Molekylbeschreibung versucht.
+
+5
+00:00:24,160 --> 00:00:26,640
+All diese Daten vorherzusagen.
+
+6
+00:00:26,640 --> 00:00:28,440
+Hier fängt es an.
+
+7
+00:00:28,720 --> 00:00:30,640
+Hier beginnt der Terminator.
+
+8
+00:00:32,359 --> 00:00:34,520
+Es ist immer der unschuldige Träumer.
+
+9
+00:00:34,520 --> 00:00:37,920
+Der sagt, dass dies die Welt zum Guten verändern kann.
+
+10
+00:00:39,719 --> 00:00:42,280
+Dies ist die Startock Sonderausgabe.
+
+11
+00:00:43,079 --> 00:00:46,719
+Niel der Gras teisen, ihr persönlicher Astrophysiker.
+
+12
+00:00:46,719 --> 00:00:48,880
+Sonderausgabe bedeutet das.
+
+13
+00:00:48,880 --> 00:00:50,799
+Wie er Gary O'Reilly im Haus haben.
+
+14
+00:00:50,799 --> 00:00:53,520
+Gary, Heineel, anscheinend ehemaliger Fußballprofi.
+
+15
+00:00:53,520 --> 00:00:54,040
+Punkt.
+
+16
+00:00:54,040 --> 00:00:54,520
+Ja.
+
+17
+00:00:54,520 --> 00:00:55,600
+Und Fußballansager.
+
+18
+00:00:55,600 --> 00:00:56,040
+Ja.
+
+19
+00:00:56,040 --> 00:00:56,719
+Definitiv.
+
+20
+00:00:56,719 --> 00:00:58,120
+Und das machst du immer noch nicht wahr?
+
+21
+00:00:58,119 --> 00:01:00,519
+Ich tu es, Chuck, schön, Baby.
+
+22
+00:01:00,519 --> 00:01:03,199
+Hey, ich verkünde, dass ich keine Ahnung von Fußball habe.
+
+23
+00:01:03,199 --> 00:01:04,679
+Dann bist du in meinem Verein.
+
+24
+00:01:04,679 --> 00:01:07,120
+Ich verkünde, dass du amerikaner bist.
+
+25
+00:01:07,120 --> 00:01:10,519
+Ein amerikanischer Hund, echte Fußballgewalt.
+
+26
+00:01:11,759 --> 00:01:13,519
+Wir sprechen heute über Key.
+
+27
+00:01:13,519 --> 00:01:15,200
+Das ist ein beliebtes Thema.
+
+28
+00:01:15,200 --> 00:01:16,840
+Wir greifen es oft auf.
+
+29
+00:01:16,840 --> 00:01:19,719
+Es geht um die Zukunft der ganzen Welt.
+
+30
+00:01:20,840 --> 00:01:22,599
+Key in der Biologie.
+
+31
+00:01:22,599 --> 00:01:23,680
+Oh, wow.
+
+32
+00:01:23,680 --> 00:01:25,319
+Das ist eine große Sache.
+
+33
+00:01:25,319 --> 00:01:26,159
+Ich weiß.
+
+34
+00:01:26,159 --> 00:01:26,719
+Aha.
+
+35
+00:01:26,719 --> 00:01:27,560
+Ich weiß.
+
+36
+00:01:27,560 --> 00:01:28,560
+Ja.
+
+37
+00:01:28,560 --> 00:01:33,920
+Denn die Leute denken darüber nach, ihre Hausarbeit zu schreiben oder beim Schach zu gewinnen.
+
+38
+00:01:33,920 --> 00:01:36,400
+Aber es gibt noch viel mehr zu entdecken.
+
+39
+00:01:36,400 --> 00:01:40,280
+Erzähl mir, was du und deine Produzenten heute ausgehekt habt.
+
+40
+00:01:40,280 --> 00:01:41,280
+Okay.
+
+41
+00:01:41,280 --> 00:01:44,320
+Wir versuchen diese Leute schon seit einiger Zeit mit einzubeziehen.
+
+42
+00:01:44,320 --> 00:01:45,800
+Aber sie sind so beschäftigt.
+
+43
+00:01:45,800 --> 00:01:47,240
+Also, los geht's.
+
+44
+00:01:47,240 --> 00:01:48,280
+Ich sage es dir.
+
+45
+00:01:48,280 --> 00:01:50,000
+Ich bestehe aus Proteinen.
+
+46
+00:01:50,000 --> 00:01:51,000
+Ja.
+
+47
+00:01:51,000 --> 00:01:55,920
+Du bestest aus Proteinen aus Amino-Säureketten, die sich zu Formen falten, die zusammen uns
+
+48
+00:01:55,920 --> 00:01:56,920
+ergeben.
+
+49
+00:01:56,920 --> 00:01:59,920
+Aber es gibt ein grundlegendes Problem in der Biologie.
+
+50
+00:01:59,920 --> 00:02:00,920
+Hey.
+
+51
+00:02:00,920 --> 00:02:03,240
+Das hat Auswirkungen auf die gesamte Medizin.
+
+52
+00:02:03,240 --> 00:02:05,439
+Wie falten sich diese Proteine?
+
+53
+00:02:05,439 --> 00:02:10,520
+Oh, für diese Lösung haben wir uns Key und ein Google-Dieb-Mein-Tool namens Alpha-Fold
+
+54
+00:02:10,520 --> 00:02:11,520
+angesehen.
+
+55
+00:02:11,520 --> 00:02:16,319
+Die zweite Version von Alpha-Fold 2 gewand letztes Jahr den Nobelpreis für Chemie für die
+
+56
+00:02:16,319 --> 00:02:18,319
+Beantwortung genau dieser Frage.
+
+57
+00:02:18,319 --> 00:02:21,120
+Wer hätte gedacht, dass Key so intelligent ist?
+
+58
+00:02:21,120 --> 00:02:22,120
+Nun.
+
+59
+00:02:22,120 --> 00:02:24,120
+Key gerind doch alle Nobelpreise, oder?
+
+60
+00:02:24,120 --> 00:02:25,120
+Ja.
+
+61
+00:02:25,120 --> 00:02:27,800
+Aber einfach, packt sie einfach alle ein, packt sie ein.
+
+62
+00:02:27,800 --> 00:02:32,400
+Isomorphic Labs hat zusammen mit Google-Dieb-Mein-Tool 3 entwickelt und veröffentlicht.
+
+63
+00:02:32,400 --> 00:02:33,400
+Ja.
+
+64
+00:02:33,400 --> 00:02:34,400
+Wir sind bei der dritten Version.
+
+65
+00:02:34,400 --> 00:02:38,240
+Das war letztes Jahr und hat diese neuen Key-Modelle für die Wirkstoffforschung eingesetzt.
+
+66
+00:02:38,240 --> 00:02:39,240
+Oh.
+
+67
+00:02:39,240 --> 00:02:40,240
+Das ist großartig.
+
+68
+00:02:40,240 --> 00:02:41,240
+Also, denk mal darüber nach.
+
+69
+00:02:41,240 --> 00:02:44,879
+Könnten unsere nächsten Generationen von Behandlungen computergeneriert sein?
+
+70
+00:02:44,879 --> 00:02:45,879
+Oh.
+
+71
+00:02:45,879 --> 00:02:46,879
+Ja.
+
+72
+00:02:46,879 --> 00:02:47,879
+Übrigens.
+
+73
+00:02:47,879 --> 00:02:48,879
+Neil, lass uns unseren Gast vorstellen.
+
+74
+00:02:48,879 --> 00:02:49,879
+Das werde ich.
+
+75
+00:02:49,879 --> 00:02:50,879
+Und wir haben Max-Jadah-Berg hier.
+
+76
+00:02:50,879 --> 00:02:51,879
+Hab ich das richtig ausgesprochen?
+
+77
+00:02:51,879 --> 00:02:52,879
+Ja.
+
+78
+00:02:52,879 --> 00:02:53,879
+Richtig.
+
+79
+00:02:53,879 --> 00:02:54,879
+Richtig.
+
+80
+00:02:54,879 --> 00:02:56,259
+Ja, lass es mich sagen hören.
+
+81
+00:02:56,259 --> 00:02:56,859
+Punkt.
+
+82
+00:02:56,859 --> 00:02:58,240
+Ja, Max Joderberg.
+
+83
+00:02:58,240 --> 00:02:59,519
+Das habe ich genau gesagt.
+
+84
+00:02:59,519 --> 00:03:00,759
+Er hat es nachgesprochen.
+
+85
+00:03:00,759 --> 00:03:01,740
+Er hat geübt.
+
+86
+00:03:01,740 --> 00:03:02,740
+Er hat geübt.
+
+87
+00:03:02,740 --> 00:03:04,659
+Sie haben also Key in Oxford studiert.
+
+88
+00:03:04,659 --> 00:03:05,419
+Das stimmt.
+
+89
+00:03:05,419 --> 00:03:06,159
+Das stimmt.
+
+90
+00:03:06,159 --> 00:03:06,960
+Ich habe gehört.
+
+91
+00:03:06,960 --> 00:03:08,299
+Das ist ein Community College.
+
+92
+00:03:08,299 --> 00:03:09,039
+Oxford.
+
+93
+00:03:09,039 --> 00:03:10,560
+Oxford Community College.
+
+94
+00:03:10,560 --> 00:03:11,800
+Das ist genau richtig.
+
+95
+00:03:11,800 --> 00:03:12,800
+In Oxford.
+
+96
+00:03:12,800 --> 00:03:13,500
+England.
+
+97
+00:03:13,500 --> 00:03:17,699
+Ja, Sie haben sich also auf die Learning Algorithmen spezialisiert.
+
+98
+00:03:17,699 --> 00:03:21,539
+Ich habe hier ihre kleine Biografie zum Thema Bildverständnis.
+
+99
+00:03:21,539 --> 00:03:22,079
+Schön.
+
+100
+00:03:22,080 --> 00:03:26,060
+Das war ein großer Fortschritt, als eine Suche in ein Bild einfließen konnte.
+
+101
+00:03:26,060 --> 00:03:29,980
+Ich dachte, ich wäre gestorben und im Computer Himmel gelandet, wo alles begann.
+
+102
+00:03:29,980 --> 00:03:33,500
+Ja, ja, ich meine, das war vor 1.015 Jahren.
+
+103
+00:03:33,500 --> 00:03:35,460
+Bevor Key angesagt war, richtig.
+
+104
+00:03:35,460 --> 00:03:38,820
+Man spricht ja von Key und es ist etwas aus einem Science-Fiction-Buch.
+
+105
+00:03:38,820 --> 00:03:42,780
+Aber Bilder und Videos zu verstehen, war damals das große Ding.
+
+106
+00:03:42,780 --> 00:03:44,620
+Das konnten wir noch nicht wirklich.
+
+107
+00:03:44,620 --> 00:03:48,060
+Ich habe meine 9.000 Bilder auf meinem Computer nach dem Wort,
+
+108
+00:03:48,060 --> 00:03:56,039
+Teleskop durch sucht und habe auf einem Foto, dass ich bei einem Besuch in China aus einem bestimmten Winkel aufgenommen habe.
+
+109
+00:03:56,039 --> 00:03:59,439
+Das Wort Teleskop in chinesischer Sprache gefunden.
+
+110
+00:03:59,439 --> 00:04:00,920
+Ja, das ist es.
+
+111
+00:04:00,920 --> 00:04:05,360
+Während meiner Doktorarbeit haben wir den gesamten Backkatalog der BBC durch sucht.
+
+112
+00:04:05,360 --> 00:04:09,840
+Nein, wir haben meinen Algorithmus darauf angewendet und eine Suchmaschine erstellt.
+
+113
+00:04:09,840 --> 00:04:15,840
+So können Sie Filmmaterial von vor Jahrzehnten abrufen, dass diesen Text oder diese Objekte enthält.
+
+114
+00:04:15,840 --> 00:04:20,879
+Wenn Sie das tun, verknüpfen Sie das also ernsthaft.
+
+115
+00:04:20,879 --> 00:04:24,879
+Wenn die Key ein Bild betrachtet, sieht Sie das Bild nicht so wie wir.
+
+116
+00:04:24,879 --> 00:04:26,980
+Wir sehen nicht einmal das ganze Bild.
+
+117
+00:04:26,980 --> 00:04:27,660
+Punkt.
+
+118
+00:04:27,660 --> 00:04:31,780
+Unser Gehirn erfasst ein Bild nur intuitiv, wenn wir es so sehen, wie wir es tun.
+
+119
+00:04:31,780 --> 00:04:34,240
+Aber die Key ist wie ein ganzheitlicher Prozess.
+
+120
+00:04:34,240 --> 00:04:39,019
+Die Key mit ganzheitlicher Verarbeitung sieht das Bild tatsächlich und was Sie sieht, sind Pixel.
+
+121
+00:04:39,019 --> 00:04:40,199
+Das ist richtig.
+
+122
+00:04:40,199 --> 00:04:42,259
+Und im Grunde genommen tut Sie nur folgendes.
+
+123
+00:04:42,259 --> 00:04:45,740
+Oh, dieses Pixel, dieses Pixel, dieses Pixel in dieser Anordnung.
+
+124
+00:04:45,740 --> 00:04:46,740
+Das ist dieses Bild.
+
+125
+00:04:46,740 --> 00:04:51,400
+Verknüpfen Sie das also mit Sprache und Suchen so oder ist die Suche nur die Kenntnis
+
+126
+00:04:51,400 --> 00:04:53,960
+des eigentlichen Bildes durch die Key selbst?
+
+127
+00:04:53,960 --> 00:04:58,240
+Das war damals der große Durchbruch, als ich meine Doktorarbeit geschrieben habe.
+
+128
+00:04:58,240 --> 00:05:00,639
+Und genau darum geht es auch beim Deep Learning.
+
+129
+00:05:00,639 --> 00:05:01,639
+Nicht wahr?
+
+130
+00:05:01,639 --> 00:05:02,639
+Stellen Sie sich vor.
+
+131
+00:05:02,639 --> 00:05:04,439
+Sie haben dieses Bild voller Pixel.
+
+132
+00:05:04,439 --> 00:05:05,840
+Wie programmieren Sie dann?
+
+133
+00:05:05,840 --> 00:05:07,240
+Wie man daraus Text liest?
+
+134
+00:05:07,240 --> 00:05:09,639
+Wie verknüpfen Sie ihn mit der Sprache des Textes?
+
+135
+00:05:09,639 --> 00:05:10,639
+Fragezeichen.
+
+136
+00:05:10,639 --> 00:05:13,740
+Es ist unvorstellbar schwer, das von Hand zu programmieren.
+
+137
+00:05:13,740 --> 00:05:17,540
+Stattdessen setzen Sie diese sogenannten neuronalen Netze ein.
+
+138
+00:05:17,540 --> 00:05:19,540
+Sie betrachten alle Pixel des Bildes.
+
+139
+00:05:19,540 --> 00:05:24,540
+Und Sie geben Ihnen viele, viele Beispiele von Bildern, in denen sich irgendwo Text befindet.
+
+140
+00:05:24,540 --> 00:05:27,840
+Und Sie teilen dem neuronalen Netz mit, um welchen Texte sich handelt.
+
+141
+00:05:27,840 --> 00:05:28,840
+Ich verstehe.
+
+142
+00:05:28,840 --> 00:05:34,439
+Und ein neuronales Netz beginnt nach vielen, vielen Trainings einheiten, seinen internen Algorithmus zu entwickeln,
+
+143
+00:05:34,439 --> 00:05:37,139
+um die Informationen aus diesen Pixel zu extraheren.
+
+144
+00:05:37,139 --> 00:05:40,939
+Alles zusammenzusetzen und den eigentlichen Text oder die Objekte auszuspucken.
+
+145
+00:05:40,939 --> 00:05:41,939
+Wow.
+
+146
+00:05:41,939 --> 00:05:45,139
+Also derzeit schief Eirofisser bei Isomorphic Labs.
+
+147
+00:05:45,139 --> 00:05:46,839
+Das ist ein biologischer Ort.
+
+148
+00:05:46,839 --> 00:05:48,040
+Das ist richtig.
+
+149
+00:05:48,040 --> 00:05:49,639
+Haben Sie einen biologischen Hintergrund?
+
+150
+00:05:49,639 --> 00:05:50,639
+Formale Biologie?
+
+151
+00:05:50,639 --> 00:05:51,139
+Nein.
+
+152
+00:05:51,139 --> 00:05:51,639
+Nein.
+
+153
+00:05:51,639 --> 00:05:52,139
+Okay.
+
+154
+00:05:52,139 --> 00:05:52,639
+Nein.
+
+155
+00:05:52,639 --> 00:05:53,839
+Sie wollen Sie also für Ihre Kie.
+
+156
+00:05:53,839 --> 00:05:54,540
+Das stimmt.
+
+157
+00:05:54,540 --> 00:05:55,240
+Das stimmt.
+
+158
+00:05:55,240 --> 00:05:57,540
+Ich war vorher an einem Ort namens DeepMind.
+
+159
+00:05:57,540 --> 00:05:58,939
+Google Google DeepMind.
+
+160
+00:05:58,939 --> 00:05:59,540
+Genau.
+
+161
+00:05:59,540 --> 00:06:00,839
+Ich war lange dort.
+
+162
+00:06:00,839 --> 00:06:04,439
+Ich liebe diese Kie Kerntechnologie namens Deep Learning.
+
+163
+00:06:04,439 --> 00:06:07,540
+Daran habe ich meine ganze Karriere lange gearbeitet.
+
+164
+00:06:07,540 --> 00:06:10,839
+Bei DeepMind haben wir an verrückten Sachen gearbeitet.
+
+165
+00:06:10,839 --> 00:06:14,939
+Schachspielen gelernt und Top Profis in Spielen wie StarCraft geschlagen.
+
+166
+00:06:14,939 --> 00:06:16,939
+Damals war das eine große Sache.
+
+167
+00:06:16,939 --> 00:06:17,439
+Ja.
+
+168
+00:06:17,439 --> 00:06:20,539
+Und weil die Welt nicht wusste, was Kie ist, versuchten wir zu beweisen.
+
+169
+00:06:20,539 --> 00:06:21,839
+Dass es so etwas überhaupt gibt.
+
+170
+00:06:21,839 --> 00:06:22,339
+Richtig.
+
+171
+00:06:22,339 --> 00:06:23,039
+Richtig.
+
+172
+00:06:23,039 --> 00:06:24,139
+Heute klingt das verrückt.
+
+173
+00:06:24,139 --> 00:06:26,939
+Aber damals ging es nur darum, zu beweisen, dass es das wirklich gibt.
+
+174
+00:06:26,939 --> 00:06:29,239
+Aber im Kern liebe ich diese Technologie.
+
+175
+00:06:29,239 --> 00:06:32,239
+Ich will tiefgreifende Wirkung auf unsere Welt sehen.
+
+176
+00:06:32,239 --> 00:06:35,239
+Und ich habe überlegt, wo alles beginnt.
+
+177
+00:06:35,239 --> 00:06:36,239
+Genau.
+
+178
+00:06:36,239 --> 00:06:38,039
+Dort fängt Terminator an.
+
+179
+00:06:38,039 --> 00:06:40,139
+Es ist immer der unschuldige Träume.
+
+180
+00:06:40,139 --> 00:06:43,240
+Der sagt, das kann die Welt so sehr zum guten verändern.
+
+181
+00:06:43,240 --> 00:06:45,240
+Und es ist jetzt in meinem Schrank.
+
+182
+00:06:45,240 --> 00:06:46,240
+Möchtest du es sehen?
+
+183
+00:06:46,240 --> 00:06:46,740
+Genau.
+
+184
+00:06:46,740 --> 00:06:49,240
+Und dann ist es immer wie ein böser Geschäftsman.
+
+185
+00:06:49,240 --> 00:06:53,439
+Der einfach sagt, mit meiner Wettermaschine werde ich eines Tages die Welt beherrschen.
+
+186
+00:06:53,439 --> 00:06:55,339
+Abgesehen davon, mach weiter.
+
+187
+00:06:55,339 --> 00:07:00,439
+Ja, das Gute ist, dass es einige ziemlich durch und durch gute Anwendungen von Kie gibt,
+
+188
+00:07:00,439 --> 00:07:01,939
+die wir vorantreiben können.
+
+189
+00:07:01,939 --> 00:07:06,839
+Demi hat Isomorphic Labs gegründet und das aus Google Deep Mind entwickelt,
+
+190
+00:07:06,839 --> 00:07:10,139
+um wirklich darüber nachzudenken, wie wir Kie einsetzen können,
+
+191
+00:07:10,139 --> 00:07:12,739
+um tatsächlich alle Krankheiten vollständig zu heilen.
+
+192
+00:07:12,739 --> 00:07:16,139
+Okay, es hat genetische Wurzeln in seiner Entstehungsgeschichte.
+
+193
+00:07:16,139 --> 00:07:17,439
+Es war in Deep Mind.
+
+194
+00:07:17,439 --> 00:07:19,239
+Jetzt fühle ich mich besser dabei.
+
+195
+00:07:19,239 --> 00:07:21,239
+Okay, ich bin jetzt glücklicher.
+
+196
+00:07:21,239 --> 00:07:23,639
+Ja, ich bin also als Teil des Gründungsteams dazu übergegangen,
+
+197
+00:07:23,639 --> 00:07:24,939
+die Kie in diesem Bereich zu leiten.
+
+198
+00:07:24,939 --> 00:07:26,639
+Und das ist jetzt ungefähr drei und einhalb Jahre her.
+
+199
+00:07:26,639 --> 00:07:29,239
+Es war eine verrückte Reise, aber es ist faszinierend.
+
+200
+00:07:29,239 --> 00:07:30,739
+Es macht so viel Spaß.
+
+201
+00:07:30,739 --> 00:07:33,539
+Sie verfügen also über diese Kie Expertise
+
+202
+00:07:33,540 --> 00:07:37,140
+und Alper-Fold entwickelt daraus eine biologische Anwendung.
+
+203
+00:07:37,140 --> 00:07:39,939
+Erklären Sie mir zunächst das Wort Isomorph.
+
+204
+00:07:39,939 --> 00:07:44,140
+Was bedeutet das in der Biologie Isomorph ist ein Fachbegriff,
+
+205
+00:07:44,140 --> 00:07:48,540
+der eine eins zu eins Abbildung von Raum bezeichnet, richtig und der Grund,
+
+206
+00:07:48,540 --> 00:07:52,240
+warum wir uns Isomorphic Labs nennen, ist, dass wir davon überzeugt sind,
+
+207
+00:07:52,240 --> 00:07:54,540
+dass Biologie wirklich wirklich kompliziert ist.
+
+208
+00:07:54,540 --> 00:07:57,140
+In der Welt der Physik können wir mit Hilfe von Mathematik-Gleichungen
+
+209
+00:07:57,140 --> 00:07:58,140
+für die Physik aufstellen.
+
+210
+00:07:58,140 --> 00:08:00,939
+Und Mathematik ist die perfekte Beschreibungssprache für die Physik,
+
+211
+00:08:00,939 --> 00:08:04,639
+aber man kann nicht einfach mathematische Gleichungen für die Biologie aufstellen,
+
+212
+00:08:04,639 --> 00:08:06,740
+denn die Zelle ist einfach zu kompliziert.
+
+213
+00:08:06,740 --> 00:08:10,040
+Biologie ist der komplexeste Ausdruck von Chemie, den wir kennen.
+
+214
+00:08:10,040 --> 00:08:11,740
+Oh, das liegt daran, dass es...
+
+215
+00:08:11,740 --> 00:08:13,240
+So viele bewegliche Teile gibt.
+
+216
+00:08:13,240 --> 00:08:14,740
+Haben Sie sich das gerade ausgedacht?
+
+217
+00:08:14,740 --> 00:08:15,240
+Ja.
+
+218
+00:08:15,240 --> 00:08:18,540
+Das ist wie eine Rose auf dem Stein für die Sprache der Biologie.
+
+219
+00:08:18,540 --> 00:08:19,040
+Genau.
+
+220
+00:08:19,040 --> 00:08:22,240
+Wie könnte also die perfekte Beschreibungssprache für die Biologie aussehen?
+
+221
+00:08:22,240 --> 00:08:25,040
+Wir glauben, dass Kie und Maschinelles lernen dazu dienen,
+
+222
+00:08:25,040 --> 00:08:28,240
+dass es einen Isomorphismus, eine Zuordnung zwischen der biologischen Welt
+
+223
+00:08:28,340 --> 00:08:31,639
+und der Welt der Kie, das Maschinellen lernen es geben könnte, daher der Name,
+
+224
+00:08:31,639 --> 00:08:35,139
+daher der Name, verstanden, verstanden, verstanden.
+
+225
+00:08:35,139 --> 00:08:38,139
+Okay, erzähl uns doch etwas über die Proteinfaltung,
+
+226
+00:08:38,139 --> 00:08:42,139
+denn wenn wir Chemie lernen, lernen wir etwas über chemische Reaktionen.
+
+227
+00:08:42,139 --> 00:08:44,539
+Und uns wird nicht wirklich beigembracht,
+
+228
+00:08:44,539 --> 00:08:48,139
+dass die Form des Moleküls irgendetwas mit irgendetwas zu tun hat.
+
+229
+00:08:48,139 --> 00:08:50,539
+Es geht nur um das chemische Symbol.
+
+230
+00:08:50,539 --> 00:08:53,340
+Und wenn man die chemischen Gleichungen aufschreibt,
+
+231
+00:08:53,340 --> 00:08:55,139
+gibt es da keine Form.
+
+232
+00:08:55,240 --> 00:08:59,740
+Es geht nur darum, aus welchen Elementen und Molekülen sie bestehen.
+
+233
+00:09:00,740 --> 00:09:05,240
+Und diese Gleichungen bilden nie wirklich die drei dimensionale Natur ab.
+
+234
+00:09:05,240 --> 00:09:08,539
+Genau, man weiß nicht einmal, ob es eine Händigkeit hat.
+
+235
+00:09:08,539 --> 00:09:09,539
+Ja, richtig.
+
+236
+00:09:09,539 --> 00:09:11,539
+Nehmen wir den Punkt als Ausgangspunkt.
+
+237
+00:09:11,539 --> 00:09:12,939
+Wir denken an Proteine.
+
+238
+00:09:12,939 --> 00:09:15,240
+Proteine sind die grundlegenden Bausteine des Lebens.
+
+239
+00:09:15,240 --> 00:09:17,439
+Ja, sie sind in jedem von uns vorhanden.
+
+240
+00:09:17,439 --> 00:09:19,740
+Sie bilden im Grunde alles, was wir haben.
+
+241
+00:09:19,740 --> 00:09:22,740
+Und sie bestehen aus einer sogenannten Aminosäure-Seklenz.
+
+242
+00:09:22,840 --> 00:09:24,940
+Jede Aminosäure ist ein Molekül.
+
+243
+00:09:24,940 --> 00:09:27,940
+Helm, es gibt etwa 20 verschiedene Aminosäuren
+
+244
+00:09:27,940 --> 00:09:30,039
+und man setzt sie im Laufe des Lebens zusammen.
+
+245
+00:09:30,039 --> 00:09:33,139
+Punkt, im Leben kann man auch nicht natürliche Aminosäuren haben,
+
+246
+00:09:33,139 --> 00:09:34,240
+die man herstellen kann.
+
+247
+00:09:34,240 --> 00:09:35,440
+Man kann sie herstellen.
+
+248
+00:09:35,440 --> 00:09:38,139
+Man kann sie herstellen und tatsächlich für Medikamente verwenden.
+
+249
+00:09:38,139 --> 00:09:41,740
+Manchmal reit man diese Aminosäuren aneinander und das wirbt zu einem Protein.
+
+250
+00:09:41,740 --> 00:09:43,639
+Aber sie existieren nicht als diese Ketten.
+
+251
+00:09:43,639 --> 00:09:46,139
+Sie falten sich spontan in der Zelle zusammen.
+
+252
+00:09:46,139 --> 00:09:48,440
+Um diese drei D-Formen zu bilden.
+
+253
+00:09:48,440 --> 00:09:50,240
+Und warum das wichtig ist, ist,
+
+254
+00:09:50,340 --> 00:09:53,440
+dass diese Proteine im Grunde molekulare Maschinen sind.
+
+255
+00:09:53,440 --> 00:09:55,940
+Sie existieren nicht einfach nur für sich allein.
+
+256
+00:09:55,940 --> 00:09:58,539
+Sie bilden tatsächlich diese kleinen Maschinenteile.
+
+257
+00:09:58,539 --> 00:10:00,639
+Sie interagieren mit anderen Proteinen.
+
+258
+00:10:00,639 --> 00:10:03,840
+Sie interagieren mit anderen Biomolekülen wie DNA und RNA.
+
+259
+00:10:03,840 --> 00:10:04,940
+Richtig, M.
+
+260
+00:10:04,940 --> 00:10:07,539
+Und diese Interaktion ist eine Formanpassung.
+
+261
+00:10:07,539 --> 00:10:08,840
+Genau, genau.
+
+262
+00:10:08,840 --> 00:10:11,740
+Diese schützen also ein 3D-Puzzle.
+
+263
+00:10:11,740 --> 00:10:13,340
+Und es ist nicht statisch.
+
+264
+00:10:13,340 --> 00:10:15,340
+Das ist viel schwieriger als ein 2D-Puzzle.
+
+265
+00:10:15,340 --> 00:10:16,840
+Und das sind keine statischen Dinge.
+
+266
+00:10:16,840 --> 00:10:19,139
+Es sind nicht einfach nur statische Puzzleteile, die zusammenkommen.
+
+267
+00:10:19,240 --> 00:10:20,439
+Sie verändern ihre Form.
+
+268
+00:10:20,439 --> 00:10:23,939
+Also kommt etwas in Kontakt und das öffnet etwas anderes auf der anderen Seite des Proteins.
+
+269
+00:10:23,939 --> 00:10:25,840
+Was die Maschine verändert und so weiter und so fort.
+
+270
+00:10:25,840 --> 00:10:27,439
+Und das wollte ich dich fragen.
+
+271
+00:10:27,439 --> 00:10:29,939
+Mit welcher Geschwindigkeit findet diese Faltung statt?
+
+272
+00:10:29,939 --> 00:10:31,240
+Ist sie kontinuierlich?
+
+273
+00:10:31,240 --> 00:10:33,340
+Wenn sie sich einmal gefaltet hat, ist sie fertig.
+
+274
+00:10:33,340 --> 00:10:34,639
+Aber du hast mir gerade gesagt,
+
+275
+00:10:34,639 --> 00:10:36,939
+nein, sie bewegt sich einfach weiter durch das ganze Ding.
+
+276
+00:10:36,939 --> 00:10:40,240
+Ja, das sind wirklich sehr komplexe dynamische Systeme.
+
+277
+00:10:40,240 --> 00:10:42,639
+Weißt du, die aus Tausenden, Millionen,
+
+278
+00:10:42,639 --> 00:10:44,740
+Billionen von Atomen in unseren Zellen,
+
+279
+00:10:44,740 --> 00:10:48,340
+bestehen, die sich im Laufe von Mikrosekunden und und und noch weiter entfalten.
+
+280
+00:10:48,340 --> 00:10:52,139
+Und dieses Wort, von dem du sprichst, ist das Dinosaurier.
+
+281
+00:10:52,139 --> 00:10:53,139
+Das ist ein Wort.
+
+282
+00:10:53,139 --> 00:10:54,240
+Ist das nicht ein Wort?
+
+283
+00:10:54,240 --> 00:10:55,040
+Dinosaurier.
+
+284
+00:10:55,040 --> 00:10:56,840
+Ich glaube, ich habe es mir gerade ausgedacht.
+
+285
+00:10:56,840 --> 00:10:58,040
+Oh, Dinosaurier.
+
+286
+00:10:58,040 --> 00:11:00,639
+Nein, Dynamik, Dynamik, Danke.
+
+287
+00:11:00,639 --> 00:11:02,040
+Ich korrigiere die Grammatik.
+
+288
+00:11:02,040 --> 00:11:03,440
+Das ist eine Premiere.
+
+289
+00:11:03,440 --> 00:11:05,740
+Das ist Dynamik, Dynamik.
+
+290
+00:11:05,740 --> 00:11:08,240
+Eine Art Dinosaurier, Dynamik.
+
+291
+00:11:08,240 --> 00:11:11,639
+Dinosaurier, Dinosaurier, Dinosaurier, Dinosaurier.
+
+292
+00:11:11,639 --> 00:11:14,139
+Nicht Dinosaurier, aber die Dynamik,
+
+293
+00:11:14,139 --> 00:11:16,540
+von der sie innerhalb der Zelle sprechen.
+
+294
+00:11:16,639 --> 00:11:19,139
+Wenn sie jeden Einzelnen von uns betrachten,
+
+295
+00:11:19,139 --> 00:11:22,039
+der jeder Einzelne von uns so unterschiedlich ist,
+
+296
+00:11:22,039 --> 00:11:25,839
+obwohl es eine allgemeine Art von Ausführung und Blaupause gibt,
+
+297
+00:11:25,839 --> 00:11:27,639
+sind wir alle so unterschiedlich.
+
+298
+00:11:27,639 --> 00:11:31,339
+Ist das Teil des Prozesses, den sie betrachten und abbilden?
+
+299
+00:11:31,339 --> 00:11:34,339
+Ich würde sagen, dass wir alle identisch aussehen,
+
+300
+00:11:34,339 --> 00:11:36,339
+wenn man an Qualen denkt, stimmt.
+
+301
+00:11:36,339 --> 00:11:37,740
+Okay, sie sagen nicht,
+
+302
+00:11:37,740 --> 00:11:40,939
+oh, ist deine Hautfarbe etwas anders oder bist du etwas größer?
+
+303
+00:11:40,939 --> 00:11:44,339
+Ja, sie beschreiben Funktionen auf zelluläre Ebene.
+
+304
+00:11:44,339 --> 00:11:45,839
+Ist es ihre Aufgabe?
+
+305
+00:11:46,840 --> 00:11:48,639
+Oder ist es ihre Aufgabe,
+
+306
+00:11:48,639 --> 00:11:52,139
+zusätzliche Möglichkeiten zum Falten von Proteinen zu finden?
+
+307
+00:11:52,139 --> 00:11:55,639
+Die die Biologie vielleicht noch nicht einmal herausgefunden hat?
+
+308
+00:11:55,639 --> 00:11:57,440
+Um dann Probleme zu lösen?
+
+309
+00:11:57,440 --> 00:12:00,639
+Auf die wir stoßen und die das natürliche Universum nicht hat?
+
+310
+00:12:00,639 --> 00:12:02,840
+Also, das war eine gute Frage.
+
+311
+00:12:02,840 --> 00:12:05,240
+Also, sind sie heute zufrieden mit sich selbst?
+
+312
+00:12:05,240 --> 00:12:06,639
+Sehr zufrieden mit sich selbst.
+
+313
+00:12:06,639 --> 00:12:08,639
+Sehr zufrieden mit mir selbst heute.
+
+314
+00:12:08,639 --> 00:12:10,639
+Ja, das ist wirklich interessant.
+
+315
+00:12:10,639 --> 00:12:12,840
+Wir haben diese kleinen molekularen Maschinen,
+
+316
+00:12:12,840 --> 00:12:15,240
+diese Proteine und uns sind ihre 3D-Struktur
+
+317
+00:12:15,240 --> 00:12:17,539
+und ihre Funktionsweise aus 2 Gründen wichtig.
+
+318
+00:12:17,539 --> 00:12:20,940
+Erstens wollen wir verstehen, wie unsere Zellen funktionieren.
+
+319
+00:12:20,940 --> 00:12:24,440
+Denn wenn etwas schief geht, was bei Krankheiten der Fall ist,
+
+320
+00:12:24,440 --> 00:12:25,940
+dann wollen wir verstehen,
+
+321
+00:12:25,940 --> 00:12:28,840
+wo können wir ansetzen und das Problem beheben?
+
+322
+00:12:28,840 --> 00:12:30,539
+Und wie können wir verhindern,
+
+323
+00:12:30,539 --> 00:12:32,240
+dass überhaupt etwas schief geht?
+
+324
+00:12:32,240 --> 00:12:33,440
+Genau, genau.
+
+325
+00:12:33,440 --> 00:12:34,840
+Das ist eine Sache.
+
+326
+00:12:34,840 --> 00:12:36,740
+Und wenn wir dann darüber nachdenken,
+
+327
+00:12:36,740 --> 00:12:38,740
+wie wir das Problem beheben können,
+
+328
+00:12:38,740 --> 00:12:41,639
+dann meinen wir bei der Entwicklung von Medikamenten.
+
+329
+00:12:41,639 --> 00:12:43,940
+Können wir ein anderes molekulentwickeln,
+
+330
+00:12:43,940 --> 00:12:47,640
+dass in die Zelle gelangt und diese molekularen Maschinen moduliert?
+
+331
+00:12:47,640 --> 00:12:50,940
+Dieses Medikamenten-Molekul bindet sich an dieses Protein hier,
+
+332
+00:12:50,940 --> 00:12:52,040
+und das führt dazu,
+
+333
+00:12:52,040 --> 00:12:53,940
+dass sich die Form des Proteins verändert,
+
+334
+00:12:53,940 --> 00:12:55,840
+so dass es nicht mehr wie gewohnt funktioniert.
+
+335
+00:12:55,840 --> 00:12:57,840
+Oder wir verhindern, dass das Protein arbeitet,
+
+336
+00:12:57,840 --> 00:12:59,740
+oder sorgen dafür, dass es besser funktioniert.
+
+337
+00:12:59,740 --> 00:13:01,340
+Das sind die Dinge, die wir tun.
+
+338
+00:13:01,340 --> 00:13:01,840
+Das.
+
+339
+00:13:01,840 --> 00:13:04,440
+Erinnert mich ein bisschen an die boten RNA-Impfstoffe,
+
+340
+00:13:04,440 --> 00:13:06,740
+die wir für die Behandlung von COVID-19 entwickeln.
+
+341
+00:13:06,740 --> 00:13:07,340
+Punkt.
+
+342
+00:13:07,340 --> 00:13:11,840
+Wissen Sie, es gibt so viele verschiedene Arten von molekularen Mechanismen,
+
+343
+00:13:11,840 --> 00:13:13,640
+die wir für das Wirkstoff die sein nutzen.
+
+344
+00:13:13,639 --> 00:13:14,639
+Wow!
+
+345
+00:13:14,639 --> 00:13:17,939
+Folgen die Faltenden Proteine im Allgemeinen
+
+346
+00:13:17,939 --> 00:13:20,539
+einem festgelegten Muster in der Art und Weise,
+
+347
+00:13:20,539 --> 00:13:21,740
+wie sie sich falten,
+
+348
+00:13:21,740 --> 00:13:23,340
+und können sie sie kartieren,
+
+349
+00:13:23,340 --> 00:13:24,939
+und wenn sie sich falsch falten,
+
+350
+00:13:24,939 --> 00:13:26,340
+können sie das markieren.
+
+351
+00:13:26,340 --> 00:13:29,240
+Oder habe ich gerade etwas Neuerfunden oder unsin erzählt,
+
+352
+00:13:29,240 --> 00:13:30,139
+das wäre cool.
+
+353
+00:13:30,139 --> 00:13:31,139
+Nein, nein,
+
+354
+00:13:31,139 --> 00:13:32,340
+sie sind auf etwas gestoßen.
+
+355
+00:13:32,340 --> 00:13:34,340
+Also, so großartig,
+
+356
+00:13:34,340 --> 00:13:35,139
+wissen Sie,
+
+357
+00:13:35,139 --> 00:13:36,539
+das faszinierende ist,
+
+358
+00:13:36,539 --> 00:13:38,740
+dass wir tatsächlich vorher sagen können,
+
+359
+00:13:38,740 --> 00:13:40,539
+wie sich diese Proteine falten.
+
+360
+00:13:40,539 --> 00:13:42,340
+Sie modellieren das also,
+
+361
+00:13:42,340 --> 00:13:44,940
+mit Deep Learning und Neuronalen Netzen.
+
+362
+00:13:44,940 --> 00:13:48,540
+Darum geht es bei Alpha-Fault und all seinen Generationen.
+
+363
+00:13:48,540 --> 00:13:49,639
+Und das bedeutet,
+
+364
+00:13:49,639 --> 00:13:52,940
+dass wir tatsächlich einfach eine Aminosäure-Sekwenz nehmen können,
+
+365
+00:13:52,940 --> 00:13:55,440
+ohne vorher etwas über dieses Protein zu wissen,
+
+366
+00:13:55,440 --> 00:13:57,340
+und dann die 3D-Struktur erhalten.
+
+367
+00:13:57,340 --> 00:13:59,540
+Und normalerweise würde es monat,
+
+368
+00:13:59,540 --> 00:14:00,940
+wenn nicht Jahre dauern,
+
+369
+00:14:00,940 --> 00:14:03,540
+diese 3D-Struktur zu erarbeiten.
+
+370
+00:14:04,540 --> 00:14:06,840
+Woher weiß Alpha-Fault also,
+
+371
+00:14:06,840 --> 00:14:10,340
+wie sich ein großes molekulfhalten möchte?
+
+372
+00:14:11,340 --> 00:14:12,139
+Wieder,
+
+373
+00:14:12,139 --> 00:14:14,340
+muss es das irgendwie wissen.
+
+374
+00:14:14,340 --> 00:14:18,340
+Es hat das aus ein paar 100.000 Beispielen gelernt.
+
+375
+00:14:18,340 --> 00:14:22,840
+Chemiker und Biochemiker haben in den letzten 50 Jahren.
+
+376
+00:14:22,840 --> 00:14:25,840
+Diese Protein-Strukturen von Hand erarbeitet.
+
+377
+00:14:25,840 --> 00:14:28,139
+Sie haben buchstäblich Proteine synthetisiert,
+
+378
+00:14:28,139 --> 00:14:30,840
+kristallisiert und dann mit Wändgenstrahlen bestrahlt,
+
+379
+00:14:30,840 --> 00:14:32,740
+um die Elektronen-Streuung zu betrachten.
+
+380
+00:14:32,740 --> 00:14:35,139
+Daraus konnte man die Protein-Struktur auflösen.
+
+381
+00:14:35,139 --> 00:14:36,840
+Es ist ein ziemlich aufwendiger Prozess,
+
+382
+00:14:36,840 --> 00:14:38,139
+aber die Leute haben das getan.
+
+383
+00:14:38,139 --> 00:14:38,639
+Auf!
+
+384
+00:14:38,639 --> 00:14:40,240
+Diese Weise kann man die Form des Molecules-Fotoren,
+
+385
+00:14:40,240 --> 00:14:41,240
+fotografieren, auf!
+
+386
+00:14:41,240 --> 00:14:42,440
+Diese Weise kann man,
+
+387
+00:14:42,440 --> 00:14:43,940
+mit einem Elektronen-Mikroskop
+
+388
+00:14:43,940 --> 00:14:45,440
+im Grunde genommen-Fotos machen.
+
+389
+00:14:45,440 --> 00:14:46,440
+Ja, ähnlich!
+
+390
+00:14:46,440 --> 00:14:48,440
+Es ist wie Elektronen-Streuung.
+
+391
+00:14:48,440 --> 00:14:49,440
+Ja, genau!
+
+392
+00:14:49,440 --> 00:14:52,940
+Und die Leute haben das in den letzten 50 Jahren getan
+
+393
+00:14:52,940 --> 00:14:54,840
+und diese Strukturen abgelegt.
+
+394
+00:14:54,840 --> 00:14:57,440
+Und jetzt haben wir all diese Daten genommen
+
+395
+00:14:57,440 --> 00:14:59,940
+und ein neuronales Netzwerk trainiert.
+
+396
+00:14:59,940 --> 00:15:02,740
+Um nur anhand der Eingabe der Beschreibung
+
+397
+00:15:02,740 --> 00:15:04,740
+dieses molekulst zu versuchen,
+
+398
+00:15:04,740 --> 00:15:06,740
+all diese Daten vorherzusagen,
+
+399
+00:15:06,740 --> 00:15:08,639
+richtig, das erstaunliche daran
+
+400
+00:15:08,639 --> 00:15:10,340
+und das ist wirklich bemerkenswert ist,
+
+401
+00:15:10,340 --> 00:15:11,639
+dass man das Ganze mit Daten
+
+402
+00:15:11,639 --> 00:15:13,539
+aus den letzten 50 Jahren trainieren kann.
+
+403
+00:15:13,539 --> 00:15:15,740
+Das sind ein paar 100.000 Proteine
+
+404
+00:15:15,740 --> 00:15:17,740
+und biomolekulare Systeme.
+
+405
+00:15:17,740 --> 00:15:20,539
+Aber man kann es scheinbar auf alles anwenden,
+
+406
+00:15:20,539 --> 00:15:24,039
+was wir über das Protein-Universum im Proteom wissen.
+
+407
+00:15:28,039 --> 00:15:31,439
+Es hat eine Proteeration mit seinen Vorhersagen.
+
+408
+00:15:31,439 --> 00:15:33,639
+Denn Ki gibt es schon eine Weile,
+
+409
+00:15:33,639 --> 00:15:35,240
+wie sie bereits sagten,
+
+410
+00:15:35,340 --> 00:15:38,639
+und sie sind nicht das einzige Kietool auf dem Markt.
+
+411
+00:15:41,840 --> 00:15:44,539
+Aber wie genau ist dieses spezielle Tool?
+
+412
+00:15:44,539 --> 00:15:47,039
+Ja, Alpha-Fold 2.
+
+413
+00:15:47,039 --> 00:15:48,840
+War also der große Sprung,
+
+414
+00:15:48,840 --> 00:15:50,139
+bei dem wir anfingen,
+
+415
+00:15:50,139 --> 00:15:51,840
+experimentelle Genauigkeit
+
+416
+00:15:51,840 --> 00:15:53,539
+nur für Proteine zu erreichen.
+
+417
+00:15:53,539 --> 00:15:55,639
+Und dafür wurde der Nobelpreis gewonnen.
+
+418
+00:15:55,639 --> 00:15:58,340
+Man gleicht es also mit empirischen Experimenten ab.
+
+419
+00:15:58,340 --> 00:16:01,039
+Der Maßstab ist die eigentliche Laborarbeit selbst.
+
+420
+00:16:01,039 --> 00:16:03,940
+Richtig, Alpha-2 hat dieses Niveau erreicht.
+
+421
+00:16:04,040 --> 00:16:07,340
+Alpha-Fold 3 erweitert sich nun von reinen Proteinen
+
+422
+00:16:07,340 --> 00:16:09,340
+auf andere biomolekulare Typen.
+
+423
+00:16:09,340 --> 00:16:11,340
+Also Proteine mit anderen Proteinen,
+
+424
+00:16:11,340 --> 00:16:12,840
+Proteine mit DNA,
+
+425
+00:16:12,840 --> 00:16:13,840
+mit RNA,
+
+426
+00:16:13,840 --> 00:16:15,340
+mit sogenannten kleinen Molekühlen,
+
+427
+00:16:15,340 --> 00:16:16,540
+die in der Nachbarschaft sind.
+
+428
+00:16:16,540 --> 00:16:17,940
+Sie vermischen all das
+
+429
+00:16:17,940 --> 00:16:20,040
+oder vielleicht auch nicht in der Nachbarschaft.
+
+430
+00:16:20,040 --> 00:16:23,040
+Vielleicht bekommt diese Nachbarschaft ein kleines Abgrät.
+
+431
+00:16:23,740 --> 00:16:25,740
+Nein, das ist der Zeitpunkt,
+
+432
+00:16:25,740 --> 00:16:27,740
+an dem du den Übermenschen erschaffst.
+
+433
+00:16:27,740 --> 00:16:29,840
+Es wird also nicht der Terminator sein.
+
+434
+00:16:29,840 --> 00:16:31,440
+Es wird der Übermensch sein.
+
+435
+00:16:31,540 --> 00:16:33,240
+Und dann werden sie wie wir sein
+
+436
+00:16:33,240 --> 00:16:35,240
+und auf uns herabblicken und sagen,
+
+437
+00:16:35,240 --> 00:16:36,840
+wozu brauchen wir euch?
+
+438
+00:16:36,840 --> 00:16:39,040
+Und das ist alles wie auch immer.
+
+439
+00:16:39,040 --> 00:16:41,840
+Du bist in der Lage, diese Dinge vorher zu sagen.
+
+440
+00:16:41,840 --> 00:16:45,240
+Hast du tatsächlich eine der modellierten Vorhersagen genommen
+
+441
+00:16:45,240 --> 00:16:47,040
+und die Proteine erstellt?
+
+442
+00:16:47,040 --> 00:16:50,340
+Ja, oh ja, oder sag uns, wo du erwartest,
+
+443
+00:16:50,340 --> 00:16:53,840
+dass diese zu neuen und innovativen Medikamenten führen.
+
+444
+00:16:53,840 --> 00:16:56,040
+Denn sonst ist es nur ein Puzzlespiel.
+
+445
+00:16:56,040 --> 00:16:58,440
+Ja, es ist ein tolles Lego-Set,
+
+446
+00:16:58,440 --> 00:17:00,040
+Lego-Set-Punkt.
+
+447
+00:17:01,540 --> 00:17:04,340
+Wir wollen, dass die Gäste es genießen.
+
+448
+00:17:04,340 --> 00:17:07,340
+Ja, es ist wie, oh mein Gott,
+
+449
+00:17:07,340 --> 00:17:09,340
+wie viel hat dieses Lego-Set gekostet,
+
+450
+00:17:09,340 --> 00:17:10,840
+nur 10 Milliarden Dollar?
+
+451
+00:17:13,640 --> 00:17:15,140
+Entschuldigung, bitte.
+
+452
+00:17:15,140 --> 00:17:16,740
+Ja, ja, also,
+
+453
+00:17:16,740 --> 00:17:18,940
+wenn man sich eine bestimmte Krankheit fornimmt
+
+454
+00:17:18,940 --> 00:17:19,940
+und wir denken,
+
+455
+00:17:19,940 --> 00:17:22,740
+dass wir diese Krankheit tatsächlich heilen können,
+
+456
+00:17:22,740 --> 00:17:25,140
+indem wir ein bestimmtes Protein modulieren.
+
+457
+00:17:25,140 --> 00:17:27,340
+Die Frage ist, wie wir das machen.
+
+458
+00:17:27,340 --> 00:17:29,840
+Wir designieren ein Wirkstoffmolekül für
+
+459
+00:17:29,939 --> 00:17:32,240
+passgenauere Bindung an dieses Protein.
+
+460
+00:17:32,240 --> 00:17:32,740
+Oh!
+
+461
+00:17:33,939 --> 00:17:37,240
+Und hier müsste man traditionell entweder nur raten
+
+462
+00:17:37,240 --> 00:17:40,439
+oder jede dieser Kombinationen kristallisieren
+
+463
+00:17:40,439 --> 00:17:42,439
+und sie dann fotografieren,
+
+464
+00:17:42,439 --> 00:17:44,740
+um zu sehen, ob es funktioniert.
+
+465
+00:17:45,539 --> 00:17:47,439
+Aber jetzt kann man es modellieren
+
+466
+00:17:47,439 --> 00:17:51,039
+und die Key kann in etwa eine Minute tausend davon erstellen.
+
+467
+00:17:51,039 --> 00:17:53,240
+Nennen Sie das nicht die Zielproteine,
+
+468
+00:17:53,240 --> 00:17:54,639
+wow, punkt,
+
+469
+00:17:54,639 --> 00:17:57,939
+wissen Sie also, welches Zielprotein Sie haben,
+
+470
+00:17:57,939 --> 00:17:59,240
+vergleichen Sie es dann nicht
+
+471
+00:17:59,240 --> 00:18:01,839
+mit einer Liste von Medikamenten und Überlegen,
+
+472
+00:18:01,839 --> 00:18:05,039
+ob Wirkstoff A, D oder ein anderer besser wirkt?
+
+473
+00:18:06,839 --> 00:18:09,640
+Und jetzt werden wir zu einer Art detektiv.
+
+474
+00:18:09,640 --> 00:18:11,839
+Wie viele Hinweise und wie viele Antworten
+
+475
+00:18:11,839 --> 00:18:13,839
+hat Alpha-Voll 3 geliefert,
+
+476
+00:18:13,839 --> 00:18:15,839
+oder ringen wir noch damit?
+
+477
+00:18:15,839 --> 00:18:17,440
+Ja, anstatt zu versuchen,
+
+478
+00:18:17,440 --> 00:18:18,839
+das Medikament zu entwickeln,
+
+479
+00:18:18,839 --> 00:18:20,740
+entwickelt die Key das Medikament für Sie.
+
+480
+00:18:20,740 --> 00:18:22,240
+Medikamentenentdeckung,
+
+481
+00:18:22,240 --> 00:18:22,839
+genau,
+
+482
+00:18:22,839 --> 00:18:24,839
+wenn Sie den Typen sprechen lassen,
+
+483
+00:18:24,839 --> 00:18:26,339
+hören wir Sie beide vielleicht.
+
+484
+00:18:26,339 --> 00:18:27,039
+Okay,
+
+485
+00:18:27,039 --> 00:18:29,139
+wir entwickeln diese ganze Branche selbst.
+
+486
+00:18:29,139 --> 00:18:29,639
+Gary,
+
+487
+00:18:29,639 --> 00:18:30,639
+ja, punkt.
+
+488
+00:18:31,639 --> 00:18:33,639
+Genau darauf läuft es hinaus.
+
+489
+00:18:33,639 --> 00:18:36,440
+Wir können also tatsächlich damit beginnen,
+
+490
+00:18:36,440 --> 00:18:38,940
+diese Medikamente rational zu entwickeln.
+
+491
+00:18:38,940 --> 00:18:41,639
+Richtig, traditionell würde man eine Million
+
+492
+00:18:41,639 --> 00:18:43,240
+zufälliger Moleküle nehmen
+
+493
+00:18:43,240 --> 00:18:46,240
+und sie einfach auf diese Proteine werfen und sehen,
+
+494
+00:18:46,240 --> 00:18:47,240
+was hängen bleibt.
+
+495
+00:18:47,240 --> 00:18:49,039
+Und so wurden in der Vergangenheit
+
+496
+00:18:49,039 --> 00:18:50,740
+so viele Medikamente entwickelt.
+
+497
+00:18:50,740 --> 00:18:51,240
+Ja,
+
+498
+00:18:51,240 --> 00:18:52,240
+man geht noch weiter zurück
+
+499
+00:18:52,240 --> 00:18:53,440
+und durchfostet den Schlamm,
+
+500
+00:18:53,440 --> 00:18:55,139
+um diese Art von Molekülen zu finden.
+
+501
+00:18:55,139 --> 00:18:55,940
+Aus.
+
+502
+00:18:56,039 --> 00:18:58,039
+Diesen Grund sind die Erfolgsraten
+
+503
+00:18:58,039 --> 00:19:00,840
+bei Medikamenten für das jeweilige Problem so gering.
+
+504
+00:19:02,539 --> 00:19:04,340
+Das liegt zum Teil daran,
+
+505
+00:19:04,340 --> 00:19:06,340
+dass wir nicht unbedingt verstehen,
+
+506
+00:19:06,340 --> 00:19:08,140
+wie diese Moleküle wirken.
+
+507
+00:19:08,140 --> 00:19:10,340
+M aber mit etwas wie Alpha-Olt3
+
+508
+00:19:10,340 --> 00:19:11,539
+kann man das Molekül,
+
+509
+00:19:11,539 --> 00:19:13,539
+das Zielprotein in das System,
+
+510
+00:19:13,539 --> 00:19:15,539
+in das neuronale Netzwerk einfügen
+
+511
+00:19:15,539 --> 00:19:17,340
+und erhält die 3D-Struktur.
+
+512
+00:19:17,340 --> 00:19:19,539
+Und als Chemiker kann man dann anfangen
+
+513
+00:19:19,539 --> 00:19:20,340
+zu verstehen,
+
+514
+00:19:20,340 --> 00:19:22,740
+wie dieses niedermolekulare Medikament
+
+515
+00:19:22,740 --> 00:19:24,240
+dieses Protein moduliert.
+
+516
+00:19:24,240 --> 00:19:25,740
+Das Problem ist immer noch,
+
+517
+00:19:25,839 --> 00:19:28,640
+wie findet man überhaupt das niedermolekulare Medikament?
+
+518
+00:19:28,640 --> 00:19:30,539
+Das für dieses Protein geeignet ist,
+
+519
+00:19:30,539 --> 00:19:31,339
+man schätzt,
+
+520
+00:19:31,339 --> 00:19:35,640
+dass es etwa 10 hoch 60 mögliche Wirkstoffinnliche Moleküle gibt.
+
+521
+00:19:35,640 --> 00:19:38,039
+Das sind, weißt du, 10 mit 60 Nullen.
+
+522
+00:19:38,039 --> 00:19:39,039
+Das ist so gerade,
+
+523
+00:19:39,039 --> 00:19:40,539
+punkt die Leute wissen,
+
+524
+00:19:40,539 --> 00:19:42,039
+was 10 hoch 16 ist.
+
+525
+00:19:42,039 --> 00:19:42,539
+Ja,
+
+526
+00:19:43,140 --> 00:19:45,039
+also sei nicht unhöflich.
+
+527
+00:19:46,140 --> 00:19:49,339
+Selbst wenn du die perfekte Alpha-Faltung hättest,
+
+528
+00:19:49,339 --> 00:19:50,240
+müsstest du,
+
+529
+00:19:50,240 --> 00:19:52,839
+dass über 10 hoch 60 Moleküle laufen lassen,
+
+530
+00:19:52,839 --> 00:19:54,940
+was rechnerisch einfach und möglich ist.
+
+531
+00:19:55,039 --> 00:19:56,340
+Es ist undurchführbar,
+
+532
+00:19:56,340 --> 00:19:57,840
+bis es Quantencomputing gibt.
+
+533
+00:19:58,340 --> 00:19:59,840
+Und dann brauchen wir etwas,
+
+534
+00:19:59,840 --> 00:20:01,640
+das wir ein generatives Modell
+
+535
+00:20:01,640 --> 00:20:02,840
+oder einen Agente nennen.
+
+536
+00:20:03,140 --> 00:20:04,340
+Der in der Lage ist,
+
+537
+00:20:04,340 --> 00:20:06,440
+diesen Raum tatsächlich zu durchsuchen,
+
+538
+00:20:06,740 --> 00:20:09,039
+den gesamten Molekularenraum zu verstehen
+
+539
+00:20:09,039 --> 00:20:11,140
+und Moleküle-Diseins für dich zu entwickeln.
+
+540
+00:20:11,140 --> 00:20:12,640
+Oh, denn die 10 hoch 60 sind,
+
+541
+00:20:12,640 --> 00:20:14,140
+als würdest du es einfach zufällig machen.
+
+542
+00:20:14,140 --> 00:20:15,340
+Genau, richtig,
+
+543
+00:20:15,340 --> 00:20:15,940
+richtig,
+
+544
+00:20:15,940 --> 00:20:16,940
+aber es einfach so raushauen,
+
+545
+00:20:16,940 --> 00:20:17,539
+richtig,
+
+546
+00:20:17,539 --> 00:20:18,240
+richtig,
+
+547
+00:20:18,240 --> 00:20:18,740
+punkt,
+
+548
+00:20:18,740 --> 00:20:19,840
+wenn du es nicht zufällig machst,
+
+549
+00:20:19,840 --> 00:20:20,440
+dann kannst du,
+
+550
+00:20:20,440 --> 00:20:20,740
+ja,
+
+551
+00:20:20,740 --> 00:20:22,740
+aber aber aber zufällig ist die modernste Methode.
+
+552
+00:20:22,740 --> 00:20:23,140
+Richtig,
+
+553
+00:20:23,140 --> 00:20:24,340
+so machen es die Leute,
+
+554
+00:20:24,339 --> 00:20:25,339
+derzeit,
+
+555
+00:20:25,339 --> 00:20:27,339
+so machen es die Leute derzeit.
+
+556
+00:20:27,339 --> 00:20:27,839
+Nun,
+
+557
+00:20:27,839 --> 00:20:29,339
+ein neues Stamm der Technik.
+
+558
+00:20:29,339 --> 00:20:31,339
+Sie sind auf dem neuesten Stamm der Technik.
+
+559
+00:20:31,339 --> 00:20:31,839
+Vielen Dank.
+
+560
+00:20:31,839 --> 00:20:33,339
+Verwenden wir das Wort hier richtig.
+
+561
+00:20:33,339 --> 00:20:34,339
+Was ist,
+
+562
+00:20:34,339 --> 00:20:35,839
+wenn das Protein nach links abbiegt?
+
+563
+00:20:35,839 --> 00:20:37,339
+Wenn sie es so kartiert haben,
+
+564
+00:20:37,339 --> 00:20:38,339
+dass es nach rechts abbiegt,
+
+565
+00:20:38,339 --> 00:20:39,839
+haben wir dann Probleme,
+
+566
+00:20:39,839 --> 00:20:42,839
+mit denen sogar Alper-Fold 3 zu kämpfen hat?
+
+567
+00:20:43,339 --> 00:20:43,839
+Genau.
+
+568
+00:20:44,339 --> 00:20:45,339
+Das sind letzten Endes
+
+569
+00:20:45,339 --> 00:20:47,339
+keine perfekten Modelle.
+
+570
+00:20:47,339 --> 00:20:48,339
+Sie sind sehr,
+
+571
+00:20:48,339 --> 00:20:49,339
+sehr genau.
+
+572
+00:20:49,339 --> 00:20:50,839
+Aber sie werden Fehler machen.
+
+573
+00:20:50,839 --> 00:20:52,339
+Daher müssen sie derzeit
+
+574
+00:20:52,339 --> 00:20:53,839
+immer noch gelegentlich ins Labor gehen.
+
+575
+00:20:54,339 --> 00:20:57,339
+Aber der Umfang der Laborarbeit ist sehr viel geringer,
+
+576
+00:20:57,339 --> 00:20:58,339
+nicht wahr,
+
+577
+00:20:58,339 --> 00:21:01,339
+und oft können sie den Bereich des molecularen Raums finden,
+
+578
+00:21:01,339 --> 00:21:04,339
+indem diese Modelle wirklich sehr gut funktionieren.
+
+579
+00:21:04,339 --> 00:21:06,339
+Und dann gehen wir später ins Labor,
+
+580
+00:21:06,339 --> 00:21:08,339
+kristallisieren diese Dinge und sehen.
+
+581
+00:21:08,339 --> 00:21:08,839
+Ja,
+
+582
+00:21:08,839 --> 00:21:10,839
+das ist eine perfekte Abbildung dessen,
+
+583
+00:21:10,839 --> 00:21:12,339
+was das Modell vorher gesagt hat.
+
+584
+00:21:12,339 --> 00:21:13,339
+Alles klar,
+
+585
+00:21:13,339 --> 00:21:14,339
+also,
+
+586
+00:21:14,339 --> 00:21:15,839
+zurück zu einem früheren Punkt.
+
+587
+00:21:15,839 --> 00:21:16,339
+Ja,
+
+588
+00:21:16,339 --> 00:21:16,839
+früher,
+
+589
+00:21:16,839 --> 00:21:18,339
+wie letzten Monat,
+
+590
+00:21:18,339 --> 00:21:20,339
+haben die Farmaunternehmen,
+
+591
+00:21:20,339 --> 00:21:22,339
+die großen Farma-Konzerne,
+
+592
+00:21:22,339 --> 00:21:23,339
+Millionen,
+
+593
+00:21:23,339 --> 00:21:25,339
+vielleicht nicht ganz eine Milliarde,
+
+594
+00:21:25,339 --> 00:21:27,339
+hunderte Millionen Dollar
+
+595
+00:21:27,339 --> 00:21:30,339
+für die Entwicklung eines Medikaments ausgegeben.
+
+596
+00:21:30,339 --> 00:21:32,339
+Wir glauben,
+
+597
+00:21:32,339 --> 00:21:33,339
+dass,
+
+598
+00:21:33,339 --> 00:21:36,339
+wenn man mal von möglichen Preismissbrauch absieht,
+
+599
+00:21:36,339 --> 00:21:37,339
+die Tatsache,
+
+600
+00:21:37,339 --> 00:21:41,339
+dass die erste Pille 50 Millionen Dollar gekostet hat,
+
+601
+00:21:41,339 --> 00:21:43,339
+etwas wahres daran ist.
+
+602
+00:21:43,339 --> 00:21:46,339
+Die zweite Pille hat 10 Cent gekostet,
+
+603
+00:21:46,339 --> 00:21:48,339
+weil sie forschen mussten,
+
+604
+00:21:48,339 --> 00:21:50,339
+um die Formel für die erste Pille zu finden.
+
+605
+00:21:51,339 --> 00:21:53,339
+Wenn man den Suchraum eingrenzt,
+
+606
+00:21:53,339 --> 00:21:56,339
+können die Kosten für die Entwicklung der ersten Pille
+
+607
+00:21:56,339 --> 00:21:58,339
+um ein vielfaches Gehringer sein.
+
+608
+00:21:58,339 --> 00:22:02,339
+Neue Medikamente kosten durchschnittlich 3 Milliarden Dollar.
+
+609
+00:22:02,339 --> 00:22:03,339
+Wow,
+
+610
+00:22:03,339 --> 00:22:04,339
+das ist der Durchschnitt.
+
+611
+00:22:04,339 --> 00:22:05,339
+Ja,
+
+612
+00:22:05,339 --> 00:22:06,339
+und ja, das war niedrig,
+
+613
+00:22:06,339 --> 00:22:08,339
+als ich 100 Milliarden sagte.
+
+614
+00:22:08,339 --> 00:22:09,339
+Sie haben es zu niedrig angesetzt.
+
+615
+00:22:09,339 --> 00:22:10,339
+Okay,
+
+616
+00:22:10,339 --> 00:22:12,339
+das ist also eine riesige Gelegenheit.
+
+617
+00:22:12,339 --> 00:22:13,339
+Die Kosten,
+
+618
+00:22:13,339 --> 00:22:14,339
+die Geschwindigkeit,
+
+619
+00:22:14,339 --> 00:22:15,339
+das Geschäftsmodell,
+
+620
+00:22:15,339 --> 00:22:16,339
+die Wirksamkeit und das Geschäftsmodell komplett zu verändern.
+
+621
+00:22:16,339 --> 00:22:17,339
+Während wir das tun,
+
+622
+00:22:17,339 --> 00:22:19,339
+ist es urheberrechtlich geschützt,
+
+623
+00:22:19,339 --> 00:22:20,339
+um mein eigentlicher Grund.
+
+624
+00:22:20,339 --> 00:22:22,339
+Hier würden sie revolutionieren.
+
+625
+00:22:22,339 --> 00:22:25,339
+Wenn ich mir also etwas ausdenke und ich bin Firma A,
+
+626
+00:22:25,339 --> 00:22:28,339
+richtig, dann gehört es mir und ich bestimme alles,
+
+627
+00:22:28,339 --> 00:22:31,339
+wenn du eine Keyfirma bist und das nur machst,
+
+628
+00:22:31,339 --> 00:22:32,339
+um es zu verkaufen,
+
+629
+00:22:32,339 --> 00:22:34,339
+dann gehört es dir.
+
+630
+00:22:34,339 --> 00:22:38,339
+Welche davon wird die Preise für den Verbraucher senken?
+
+631
+00:22:38,339 --> 00:22:39,339
+Unser Ziel ist es,
+
+632
+00:22:39,339 --> 00:22:40,339
+die Art und Weise,
+
+633
+00:22:40,339 --> 00:22:42,339
+wie man Arzneimittel entwickelt,
+
+634
+00:22:42,339 --> 00:22:44,339
+wirklich neu zu definieren,
+
+635
+00:22:44,339 --> 00:22:45,339
+damit es viel billiger wird.
+
+636
+00:22:45,339 --> 00:22:48,339
+Wir haben so viel mehr potenzielle Arzneimittel
+
+637
+00:22:48,339 --> 00:22:49,339
+und Chemikalien,
+
+638
+00:22:49,339 --> 00:22:50,339
+das ist das Geschäftsmodell
+
+639
+00:22:50,339 --> 00:22:51,339
+und die Wirtschaftlichkeit
+
+640
+00:22:51,339 --> 00:22:53,339
+in diesem Bereich wirklich verändert.
+
+641
+00:22:53,339 --> 00:22:54,339
+Man kann also tatsächlich
+
+642
+00:22:54,339 --> 00:22:56,339
+die Kosten für die Herstellung
+
+643
+00:22:56,339 --> 00:22:58,339
+von Arzneimitteln revolutionieren.
+
+644
+00:22:58,339 --> 00:22:59,339
+Ja,
+
+645
+00:22:59,339 --> 00:23:00,339
+das ist unser Ziel,
+
+646
+00:23:00,339 --> 00:23:01,339
+das ist unser Ziel.
+
+647
+00:23:01,339 --> 00:23:02,339
+Alles klar.
+
+648
+00:23:02,339 --> 00:23:05,339
+Einer der nächsten Schritte mit Alpha-Fold,
+
+649
+00:23:05,339 --> 00:23:07,339
+egal ob es sich um die dritte
+
+650
+00:23:07,339 --> 00:23:09,339
+oder die nächste Interation handelt,
+
+651
+00:23:09,339 --> 00:23:10,339
+ist die Untersuchung der Gründe
+
+652
+00:23:10,339 --> 00:23:13,339
+und der Ursachen für die Fehlfaltung eines Proteins.
+
+653
+00:23:13,339 --> 00:23:15,339
+So kann man der Geschichte
+
+654
+00:23:15,339 --> 00:23:17,339
+dieses Ereignisses sogar einen Schritt voraus sein.
+
+655
+00:23:18,339 --> 00:23:19,339
+Punkt, wow!
+
+656
+00:23:20,339 --> 00:23:22,339
+Die Fehlfaltung eines Proteins
+
+657
+00:23:22,339 --> 00:23:25,339
+ist also ein weiterer Grund für einige Krankheiten.
+
+658
+00:23:25,339 --> 00:23:28,339
+Ja, dabei liegt eine genetische Mutation vor.
+
+659
+00:23:28,339 --> 00:23:30,339
+Eine Mutation in der DNA,
+
+660
+00:23:30,339 --> 00:23:31,339
+die eine bestimmte Aminosäure
+
+661
+00:23:31,339 --> 00:23:33,339
+in diesem Protein verändert.
+
+662
+00:23:33,339 --> 00:23:35,339
+So dass es sich nicht wie vorgesehen faltet
+
+663
+00:23:35,339 --> 00:23:36,339
+und nicht wie vorgesehen
+
+664
+00:23:36,339 --> 00:23:38,339
+als molekulare Maschine funktioniert.
+
+665
+00:23:38,339 --> 00:23:40,339
+Mit Hilfe von Verfahren wie Alpha-Fold
+
+666
+00:23:40,339 --> 00:23:41,339
+können wir verstehen,
+
+667
+00:23:41,339 --> 00:23:43,339
+welche Mutationen Fehlfaltungen verursachen.
+
+668
+00:23:43,339 --> 00:23:46,339
+Sie werden als Missense-Mutationen bezeichnet.
+
+669
+00:23:47,339 --> 00:23:50,339
+Diese könnten potentielle Angriffspunkte für Medikamente sein.
+
+670
+00:23:50,339 --> 00:23:52,339
+Wir könnten also über molekühlen nachdenken,
+
+671
+00:23:52,339 --> 00:23:54,339
+die dem entgegenwirken könnten,
+
+672
+00:23:54,339 --> 00:23:56,339
+wenn ich das richtig verstanden habe.
+
+673
+00:23:56,339 --> 00:23:58,339
+Wenn Sie sich das PDR ansehen,
+
+674
+00:23:58,339 --> 00:24:00,339
+ist es so dick und was ist das PDR,
+
+675
+00:24:00,339 --> 00:24:03,339
+das Nachschlagewerk für den Arzt Danke Punkt?
+
+676
+00:24:03,339 --> 00:24:04,339
+Ist es so dick,
+
+677
+00:24:04,339 --> 00:24:07,339
+es ist so dick wie ein altes Telefonbuch aus Menhetten.
+
+678
+00:24:07,339 --> 00:24:09,339
+Okay, es ist sehr dick,
+
+679
+00:24:09,339 --> 00:24:11,339
+mehrere Zentimeter breit.
+
+680
+00:24:11,339 --> 00:24:14,339
+Und es ist voll mit bereits verfügbaren Medikamenten,
+
+681
+00:24:14,339 --> 00:24:16,339
+die der Arzt verschreiben kann.
+
+682
+00:24:18,339 --> 00:24:19,339
+Stimmt es,
+
+683
+00:24:19,339 --> 00:24:21,339
+dass ein 100% dieser Medikamente
+
+684
+00:24:21,339 --> 00:24:24,339
+chemisch mit dem Patienten interagieren
+
+685
+00:24:24,339 --> 00:24:26,339
+und nicht über Proteinfaltung?
+
+686
+00:24:28,339 --> 00:24:30,339
+Wenn das der Fall ist,
+
+687
+00:24:30,339 --> 00:24:31,339
+bedeutet das dann,
+
+688
+00:24:31,339 --> 00:24:33,339
+dass wir bei Fehlfaltungen von Proteinen
+
+689
+00:24:33,339 --> 00:24:35,339
+nicht mit einem Faltungsalgorithmus
+
+690
+00:24:35,339 --> 00:24:37,339
+dagegen vorgehen können?
+
+691
+00:24:37,339 --> 00:24:39,339
+Wir verschreiben dem Körper
+
+692
+00:24:39,339 --> 00:24:41,339
+einfach chemische Mittel,
+
+693
+00:24:41,339 --> 00:24:43,339
+um mit den Auswirkungen umzugehen.
+
+694
+00:24:43,339 --> 00:24:45,339
+Habe ich das richtig gesagt?
+
+695
+00:24:45,339 --> 00:24:46,339
+Ich denke,
+
+696
+00:24:46,339 --> 00:24:48,339
+das gilt für die meisten Medikamente.
+
+697
+00:24:48,339 --> 00:24:49,339
+Es handelt sich um Chemikalien,
+
+698
+00:24:49,339 --> 00:24:50,339
+die wir einnehmen.
+
+699
+00:24:50,339 --> 00:24:51,339
+Wir wissen, das.
+
+700
+00:24:51,339 --> 00:24:53,339
+Chemikalien die Faltung nicht beheben werden.
+
+701
+00:24:53,339 --> 00:24:56,339
+Sie behandeln nur die Symptome der Fehlfaltung,
+
+702
+00:24:56,339 --> 00:24:57,339
+die auftritt.
+
+703
+00:24:57,339 --> 00:24:59,339
+Wir verändern nicht die Mutationen der Proteine.
+
+704
+00:24:59,339 --> 00:25:02,339
+Das könnte so etwas wie eine Genterapie sein.
+
+705
+00:25:02,339 --> 00:25:03,339
+Aber das sind Chemikalien,
+
+706
+00:25:03,339 --> 00:25:06,339
+die eindringen und sich an diese Proteine anheften
+
+707
+00:25:06,339 --> 00:25:08,339
+und so irgendwie die Fehlfaltung abschwächen
+
+708
+00:25:08,339 --> 00:25:10,339
+oder eine Schnittstelle verändern
+
+709
+00:25:10,339 --> 00:25:12,339
+und die Funktionsweise dieser molekularen Maschine.
+
+710
+00:25:12,339 --> 00:25:15,339
+Gibt es deshalb eine bestimmte Krankheit,
+
+711
+00:25:15,339 --> 00:25:18,339
+auf die sich Isomorfe-Laborer im Moment konzentrieren,
+
+712
+00:25:18,339 --> 00:25:20,339
+oder ist das ein breiteres Spektrum?
+
+713
+00:25:20,339 --> 00:25:24,339
+Nehmen wir uns Proteine vor und suchen uns bestimmte Dinge heraus,
+
+714
+00:25:24,339 --> 00:25:27,339
+oder konzentrieren wir uns auf eine bestimmte Technologie,
+
+715
+00:25:27,339 --> 00:25:29,339
+die wir entwickeln.
+
+716
+00:25:29,339 --> 00:25:31,339
+Sie ist sehr allgemein gehalten.
+
+717
+00:25:31,339 --> 00:25:34,339
+Diese Wirkstoffdesign-Engine soll auf alle Proteine,
+
+718
+00:25:34,339 --> 00:25:37,339
+Ziele und Krankheitsbereiche anwendbar sein.
+
+719
+00:25:37,339 --> 00:25:40,339
+Wenn wir das als Unternehmen praktisch angehen
+
+720
+00:25:40,339 --> 00:25:44,339
+und uns auf einen bestimmten Bereich konzentrieren wollen,
+
+721
+00:25:44,339 --> 00:25:48,339
+konzentrieren wir uns im Moment stark auf Krebs und Immunologie.
+
+722
+00:25:48,339 --> 00:25:50,339
+Das sind zwei große Bereiche,
+
+723
+00:25:50,339 --> 00:25:53,339
+die sich wahrscheinlich am besten für das Eignen,
+
+724
+00:25:53,339 --> 00:25:55,339
+was sie erreichen wollen.
+
+725
+00:25:55,339 --> 00:25:58,339
+Okay, die Frage, die mir jetzt alle stellen wollen,
+
+726
+00:25:58,339 --> 00:26:01,339
+die das hier sehen und hören, ist, wie geht es Ihnen?
+
+727
+00:26:01,339 --> 00:26:05,339
+Ich meine, es läuft wirklich gut, um ehrlich zu sein.
+
+728
+00:26:05,339 --> 00:26:08,339
+Wir sehen, dass diese Algorithmen tatsächlich die Art
+
+729
+00:26:08,339 --> 00:26:10,339
+und Weise verändern, wie wir Wirkstoffe entwickeln.
+
+730
+00:26:10,339 --> 00:26:13,339
+Wir sind in der Lage, völlig neuartige chemische Stoffe
+
+731
+00:26:13,339 --> 00:26:15,339
+gegen einige dieser Zielmolekühle zu entdecken,
+
+732
+00:26:15,339 --> 00:26:18,339
+an denen die Leute schon seit über einem Jahrzehnt arbeiten.
+
+733
+00:26:18,339 --> 00:26:20,339
+Also wirklich, wirklich schwierige Sache.
+
+734
+00:26:20,339 --> 00:26:22,339
+Wir machen erstaunliche Fortschritte.
+
+735
+00:26:22,339 --> 00:26:24,339
+Wir sind noch ganz am Anfang des Unternehmens,
+
+736
+00:26:24,339 --> 00:26:26,339
+aber es ist super aufregend.
+
+737
+00:26:26,339 --> 00:26:28,339
+Und hast du schon etwas zum Fotografieren geschickt?
+
+738
+00:26:28,339 --> 00:26:32,339
+Wir haben ein paar Sachen für molekulare Fotos geschickt.
+
+739
+00:26:32,339 --> 00:26:35,339
+Okay, ich weiß, dass du nicht darüber sprechen darfst.
+
+740
+00:26:35,339 --> 00:26:36,339
+Ich weiß, ich verstehe.
+
+741
+00:26:37,339 --> 00:26:38,339
+Wir freuen uns sehr.
+
+742
+00:26:38,339 --> 00:26:39,339
+Okay, da hast du es.
+
+743
+00:26:39,339 --> 00:26:40,339
+Das ist.
+
+744
+00:26:40,339 --> 00:26:41,339
+Hör zu.
+
+745
+00:26:41,339 --> 00:26:42,339
+Ich bin bei dir.
+
+746
+00:26:42,339 --> 00:26:43,339
+Ich verstehe, was du meinst.
+
+747
+00:26:43,339 --> 00:26:44,339
+Das ist cool.
+
+748
+00:26:44,339 --> 00:26:45,339
+Punkt.
+
+749
+00:26:45,339 --> 00:26:47,339
+Aber wenn du diese Arbeit als Grundlagenforschung ansiesst
+
+750
+00:26:47,339 --> 00:26:50,339
+und du ein Ergebnis veröffentlicht, veröffentlichst du das Bild.
+
+751
+00:26:50,339 --> 00:26:53,339
+So wie sie das Bild des DNA-Moleküls veröffentlicht haben,
+
+752
+00:26:53,339 --> 00:26:56,339
+um zu wissen, dass es sich um eine Doppelheliks handelt.
+
+753
+00:26:56,339 --> 00:26:58,339
+Das wird zu diesem Zeitpunkt öffentlich bekannt.
+
+754
+00:26:58,339 --> 00:27:02,339
+Wenn also jemand mit Werkzeugen Zugriff auf Alper folgt, drei hat,
+
+755
+00:27:02,339 --> 00:27:04,339
+hätte dann ein Unternehmen Zugriff darauf.
+
+756
+00:27:04,339 --> 00:27:06,339
+Sobald sie die Blaupause dafür veröffentlicht haben,
+
+757
+00:27:06,339 --> 00:27:10,339
+solche Blaupauseen stehen oft in Arzneimittelpatenten.
+
+758
+00:27:10,339 --> 00:27:12,339
+Wenn sie also klinische Studien durchführen möchten,
+
+759
+00:27:12,339 --> 00:27:14,339
+müssen sie diese molekühle Patentieren lassen.
+
+760
+00:27:14,339 --> 00:27:16,339
+In diesen Patenten finden sie zahlreiche Daten zu den molekühlen,
+
+761
+00:27:16,339 --> 00:27:18,339
+ihre Formel und ihrer Wirkungsweise.
+
+762
+00:27:18,339 --> 00:27:19,339
+Ich habe vorhin darüber gesprochen.
+
+763
+00:27:19,339 --> 00:27:22,339
+Ja, ja, ja, okay, ja.
+
+764
+00:27:22,339 --> 00:27:23,339
+Alles klar.
+
+765
+00:27:23,339 --> 00:27:26,339
+Das Immunsystem und der Krebs.
+
+766
+00:27:26,339 --> 00:27:31,339
+Himm, das sind die häufigsten Ursachen für Krankheiten auf der Welt.
+
+767
+00:27:32,339 --> 00:27:39,339
+Was ist mit den genetischen Erkrankungen, von denen einer von 100.000 Menschen betroffen ist?
+
+768
+00:27:39,339 --> 00:27:41,339
+Wow, wenn man.
+
+769
+00:27:41,339 --> 00:27:43,339
+Sie zusammenbringt, gibt es genug davon.
+
+770
+00:27:43,339 --> 00:27:46,339
+Sie würden ein ganzes Stadion füllen,
+
+771
+00:27:46,339 --> 00:27:48,339
+aber das ist so ungewöhnlich,
+
+772
+00:27:48,339 --> 00:27:50,339
+dass es niemanden wirklich interessiert.
+
+773
+00:27:50,339 --> 00:27:53,339
+Ja, es ist auch nicht profitabel.
+
+774
+00:27:53,339 --> 00:27:55,339
+Weil es keinen ausreichend großen Markt gibt,
+
+775
+00:27:55,339 --> 00:27:57,339
+um das Medikament zu verkaufen.
+
+776
+00:27:57,339 --> 00:28:00,339
+Ich meine, wissen Sie, genau das ist der Punkt.
+
+777
+00:28:00,339 --> 00:28:04,339
+Chuck, traditionell ist es vielleicht kommerziell nicht so attraktiv,
+
+778
+00:28:04,339 --> 00:28:07,339
+sich an sehr kleine Patientengruppen zu wenden.
+
+779
+00:28:07,339 --> 00:28:11,339
+Aber in einer Welt, in der es so viel billiger und einfacher ist,
+
+780
+00:28:11,339 --> 00:28:13,339
+an diese Wirkstoffmoleküle zu gelangen,
+
+781
+00:28:13,339 --> 00:28:16,339
+eröffnen sich dadurch ganz viele Möglichkeiten.
+
+782
+00:28:16,339 --> 00:28:20,339
+Je billiger es ist, desto leichter lässt sich das eingehen dieses Risikos rechtfertigen,
+
+783
+00:28:20,339 --> 00:28:22,339
+die Risikoliste senken.
+
+784
+00:28:22,339 --> 00:28:23,339
+Und das ist für uns ein wichtiger Leitstern.
+
+785
+00:28:23,339 --> 00:28:24,339
+Deshalb machen wir das.
+
+786
+00:28:24,339 --> 00:28:25,339
+Das ist wunderbar.
+
+787
+00:28:25,339 --> 00:28:27,339
+Ich, verstehe, was Sie da gemacht haben.
+
+788
+00:28:27,339 --> 00:28:28,339
+Ein Leitstern.
+
+789
+00:28:28,339 --> 00:28:29,339
+Ja, wissen Sie, es wäre trotzdem toll.
+
+790
+00:28:29,339 --> 00:28:30,339
+Da ist in der Umgebung aufgetaucht.
+
+791
+00:28:30,339 --> 00:28:31,339
+Er sitzt nicht herum.
+
+792
+00:28:31,339 --> 00:28:33,339
+Wie geht es dem Schief-Ey-Office?
+
+793
+00:28:33,339 --> 00:28:34,339
+Ja.
+
+794
+00:28:34,339 --> 00:28:41,339
+Mich interessiert, wie aktiv das Unternehmen die Politik in Bezug auf Ihre Aktivitäten mitbestimmt.
+
+795
+00:28:41,339 --> 00:28:44,339
+Denn es wird eine Menge Gesetzgebung geben,
+
+796
+00:28:44,339 --> 00:28:46,339
+die mit ihren Aktivitäten verknüpft ist.
+
+797
+00:28:46,339 --> 00:28:51,339
+All die Patent-Implikationen, es wird Implikationen für die Forschung geben.
+
+798
+00:28:51,339 --> 00:28:54,339
+Es wird viele Dinge geben, die damit zusammenhängen.
+
+799
+00:28:54,339 --> 00:28:55,339
+Ja, ja, ja.
+
+800
+00:28:55,339 --> 00:28:58,339
+Wir haben uns in diesem Gespräch mit dem Thema Wirkstoffentwicklung befasst,
+
+801
+00:28:58,339 --> 00:29:02,339
+wenn man ein Medikament entwickelt hat, muss man es in klinischen Studien an Patiententesten.
+
+802
+00:29:02,339 --> 00:29:04,339
+Das ist ein sehr langer Prozess.
+
+803
+00:29:04,339 --> 00:29:05,339
+Genau.
+
+804
+00:29:05,339 --> 00:29:06,339
+Deshalb haben wir Meuse.
+
+805
+00:29:06,339 --> 00:29:09,339
+Aber selbst diese Mausmodelle sind nicht wirklich aussagekräftig.
+
+806
+00:29:09,339 --> 00:29:11,339
+Man führt all diese Studien an Meuse durch.
+
+807
+00:29:11,339 --> 00:29:13,339
+Aber sie lassen sich nicht auf den Erfolg bei Menschen übertragen.
+
+808
+00:29:13,339 --> 00:29:17,339
+Man muss die Evolutionsstufe hinaufgehen und sich dann dem Menschen zu wenden.
+
+809
+00:29:17,339 --> 00:29:18,339
+Genau.
+
+810
+00:29:18,339 --> 00:29:22,339
+Man kann sich also eine Welt vorstellen, in der wir massenhaft neue Medikamente entwickeln können.
+
+811
+00:29:22,339 --> 00:29:24,339
+Wir müssen die Art und Weise ändern,
+
+812
+00:29:24,339 --> 00:29:26,339
+wie wir klinische Studien durchführen.
+
+813
+00:29:26,339 --> 00:29:29,339
+Damit wir diese Medikamente zeitnah zu den Patiententen bringen können,
+
+814
+00:29:29,339 --> 00:29:30,339
+die sie wirklich brauchen.
+
+815
+00:29:30,339 --> 00:29:33,339
+M, ich denke, es gibt noch viel zu tun.
+
+816
+00:29:33,339 --> 00:29:38,339
+Und das ist das ultimative Ziel für Alper-Fold und die medizinische Wissenschaft insgesamt.
+
+817
+00:29:38,339 --> 00:29:42,339
+Wir wollen maßgeschneiderte Medikamente für sie als Einzelperson entwickeln,
+
+818
+00:29:42,339 --> 00:29:47,339
+anstatt die Breitspektrum-Medikamente mit all den Nebenwirkungen zu verschreiben.
+
+819
+00:29:47,339 --> 00:29:54,339
+Können sie also ein Medikament entwickeln, das keinerlei Nebenwirkungen hat und genau bei mir wirkt?
+
+820
+00:29:54,339 --> 00:29:56,339
+Das ist das Ziel, richtig?
+
+821
+00:29:56,339 --> 00:29:58,339
+Das ist es, was wir anstreben.
+
+822
+00:29:58,339 --> 00:30:03,339
+Stellen Sie sich eine Welt vor, in der wir Ihre speziellen Krebsmutationen sequenzieren können.
+
+823
+00:30:03,339 --> 00:30:04,339
+Richtig?
+
+824
+00:30:04,339 --> 00:30:10,339
+Und dann basierend auf diesen individuellen Mutationen spezifische Medikamente für sie entwickeln können.
+
+825
+00:30:10,339 --> 00:30:11,339
+Richtig?
+
+826
+00:30:11,339 --> 00:30:14,339
+Dass diese sogar in 3D gedruckt wären können oder so etwas, das bald in Arbeit ist?
+
+827
+00:30:14,339 --> 00:30:15,339
+Okay.
+
+828
+00:30:15,339 --> 00:30:16,339
+Ja, so weitrennt wir noch nicht.
+
+829
+00:30:16,339 --> 00:30:17,339
+Richtig?
+
+830
+00:30:17,339 --> 00:30:22,339
+Wir befinden uns gerade in einem sehr frühen Stadium der Immuntherapie für Krebsbehandlungen.
+
+831
+00:30:23,339 --> 00:30:30,339
+Aber wie viele dieser noch zu heilenden Krankheiten eignen sich für Lösungen, die Proteinfaltung beinhalten?
+
+832
+00:30:30,339 --> 00:30:33,339
+Und wie viele sind einfach nur Altmodische Chemie?
+
+833
+00:30:33,339 --> 00:30:37,339
+Proteine machen so ziemlich unsere gesamte molekulare Maschinerie aus.
+
+834
+00:30:37,339 --> 00:30:41,339
+Es gibt also eine Klasse von Krankheiten, die auf Fehlfaltung zurückzuführen sind.
+
+835
+00:30:41,339 --> 00:30:45,339
+Aber dann gibt es noch viele, viele andere Krankheiten, die beispielsweise darauf zurückzuführen sind,
+
+836
+00:30:45,339 --> 00:30:51,339
+dass ein Protein nicht richtig expliziert wird oder eine Zelle in einem bestimmten Gewebel nicht richtig funktioniert.
+
+837
+00:30:51,339 --> 00:30:56,339
+Wenn ich eine Bakterielle Infektion habe, gebe ich mir antibacterielle Chemikalien.
+
+838
+00:30:56,339 --> 00:30:58,339
+Und dann bin ich fertig.
+
+839
+00:30:58,339 --> 00:30:59,339
+Brauche ich die dafür?
+
+840
+00:30:59,339 --> 00:31:03,339
+Aber diese Chemikalien interagieren mit den Proteinen in den Bakterien.
+
+841
+00:31:03,339 --> 00:31:07,339
+Okay, Proteine sind also die grundlegende Maschinerie und die Chemikalien.
+
+842
+00:31:07,339 --> 00:31:11,339
+Also die Medikamente, modulieren diese Proteine, sei es in unseren Zellen oder in Bakterien.
+
+843
+00:31:11,339 --> 00:31:13,339
+Alles klar, im!
+
+844
+00:31:13,339 --> 00:31:17,339
+Grunde genommen geschieht also alles, worüber sie sprechen, auf zelluläre Ebene.
+
+845
+00:31:17,339 --> 00:31:26,339
+Wenn das, was sie beschreiben, in Zellen passiert, Proteine ihr Ding machen, ein Dreidepusel und sie eine Lösung dafür haben, ein Heilmittel.
+
+846
+00:31:26,339 --> 00:31:31,339
+Ihr Heilmittel braucht Zellkontakt zur Interaktion mit dem Faltungstransportsystem, punkt.
+
+847
+00:31:31,339 --> 00:31:36,339
+Und wie machen sie das anders als mit einem Trojanischen Fert oder so etwas?
+
+848
+00:31:36,339 --> 00:31:40,339
+Denn wir in gelangen da quasi auf Befehl rein.
+
+849
+00:31:40,339 --> 00:31:44,339
+Ja, wenn man sich Medikamente wie Tabletten vorstellt, ist das Wirkstoff die sein wirklich schwierig.
+
+850
+00:31:44,339 --> 00:31:47,339
+Da ist nicht nur darum geht, diese Proteine anzugreifen.
+
+851
+00:31:47,339 --> 00:31:49,339
+Wir müssen sie an die richtige Stelle bringen.
+
+852
+00:31:49,339 --> 00:31:51,339
+Wir wollen zum Beispiel eine Tablette, die man einnimmt.
+
+853
+00:31:51,339 --> 00:31:53,339
+Wenn man diese Tablette einnimmt, muss sie vom Körper aufgenommen werden.
+
+854
+00:31:53,339 --> 00:31:57,339
+Sie muss also lösslich sein, richtig, sie muss die Damen Wand durchdringen.
+
+855
+00:31:57,339 --> 00:32:01,339
+Sie muss über den Blutkreislauf zu dem jeweiligen Gewebetüb gelangen, dem Zelltyp der wichtig ist.
+
+856
+00:32:01,339 --> 00:32:06,339
+Dann muss sie die Zellmembran durchdringen, um tatsächlich ein Ziel innerhalb der Zelle zu erreichen.
+
+857
+00:32:06,339 --> 00:32:10,339
+Man braucht also all diese Eigenschaften in einem einzigen Molekyl.
+
+858
+00:32:11,339 --> 00:32:16,339
+Diese Molekyl sollen nicht nur das Protein treffen, sondern auch lösslich und zellpermeabel sein.
+
+859
+00:32:16,339 --> 00:32:20,339
+Viele Faktoren spielen eine Rolle, und Toxizität ist unerwünscht.
+
+860
+00:32:20,339 --> 00:32:24,339
+Man möchte also, dass es das Ziel von Interesse trifft, aber nichts anderes.
+
+861
+00:32:24,339 --> 00:32:27,339
+Ich verstehe, wie ein Molekyl durch die Zellwand gelandt.
+
+862
+00:32:27,339 --> 00:32:32,339
+Ja, ein einfaches Molekyl, aber ein vollwertiges Protein, ein rotes Protein.
+
+863
+00:32:32,339 --> 00:32:34,339
+Wie gelandt das durch die Zellwand?
+
+864
+00:32:34,339 --> 00:32:36,339
+Genau, es gibt verschiedene Arten von Medikamenten.
+
+865
+00:32:36,339 --> 00:32:39,339
+Einige sind so genannte kleine Molekyle, Dinge, die man als Zelltyp,
+
+866
+00:32:39,339 --> 00:32:41,339
+Dinge, die man als Tabletten einnehmen kann.
+
+867
+00:32:41,339 --> 00:32:43,339
+Andere bestehen aus Proteinen.
+
+868
+00:32:43,339 --> 00:32:45,339
+Sie werden oft direkt indiziert.
+
+869
+00:32:45,339 --> 00:32:48,339
+Einige davon sind möglicherweise Zell durchlässig.
+
+870
+00:32:48,339 --> 00:32:52,339
+Dazu gehören beispielsweise Peptide, aber häufig werden diese Protein-basierte Medikamente.
+
+871
+00:32:52,339 --> 00:32:55,339
+Beispielsweise Antikörper, indiziert, gelangen aber nicht in die Zelle.
+
+872
+00:32:55,339 --> 00:32:58,339
+Sie interagieren lediglich mit Proteinen auf der Zelloberfläche.
+
+873
+00:32:58,339 --> 00:33:00,339
+Man benötigt diese Durchlässigkeit also nicht.
+
+874
+00:33:00,339 --> 00:33:05,339
+Es hängt also wirklich davon ab, was das Ziel ist und wie man möchte, dass die Menschen das Medikament einnehmen.
+
+875
+00:33:05,339 --> 00:33:09,339
+Manchmal ist eine Tablette das beste, aber manchmal ist tatsächlich eine Injektion am besten.
+
+876
+00:33:09,339 --> 00:33:13,339
+Ja, und erinnern Sie mich noch einmal daran, was ein Peptid ist.
+
+877
+00:33:13,339 --> 00:33:15,339
+Ein Peptid ist ein wirklich kleines Protein.
+
+878
+00:33:15,339 --> 00:33:19,339
+M, man hat also vollentwickelte Proteine, die diese großen molekularen Maschinen sind.
+
+879
+00:33:19,339 --> 00:33:24,339
+Und dann hat man kleine Proteine, die aus, weißt du, 5-50 Aminosäuren bestehen.
+
+880
+00:33:24,339 --> 00:33:27,339
+Das sind Peptide, das sind Peptide, sie sind kleiner.
+
+881
+00:33:27,339 --> 00:33:32,339
+Daher können sie in manchen Konfigurationen manchmal durch die Zellwand gelangen.
+
+882
+00:33:32,339 --> 00:33:42,339
+Stellen wir also mit dieser Informatik die Chemie, wie wir sie kennen, auf den Kopf, werden wir feststellen, dass sie sich irgendwie mit der Kie auseinandersetzt wird.
+
+883
+00:33:42,339 --> 00:33:48,339
+Sie sich dann irgendwie in anderen Wissenschaften ausbreiten, wird sie nur in einen bestimmten Bereich bleiben?
+
+884
+00:33:48,339 --> 00:33:50,339
+Chemie wird es immer geben.
+
+885
+00:33:50,339 --> 00:33:57,339
+Sie ist wie jedes andere Wissenschaftsgebiet, das derzeit betrieben wird, wie Chemie, ohne Mathematik.
+
+886
+00:33:57,339 --> 00:34:01,339
+Darüber würde man jetzt nicht mehr nachdenken und mit der Kie wird es genauso sein.
+
+887
+00:34:01,339 --> 00:34:05,339
+Ich denke schon darüber nach, man würde einfach keine Chemie ohne Kie betreiben.
+
+888
+00:34:05,339 --> 00:34:07,339
+Man würde keine Biologie ohne Kie betreiben.
+
+889
+00:34:07,339 --> 00:34:10,340
+Sie ist das grundlegende Werkzeug, um die Welt besser zu verstehen.
+
+890
+00:34:10,340 --> 00:34:13,340
+Chemiker werden also eines Tages nicht mehr wie Bergläute sein.
+
+891
+00:34:13,340 --> 00:34:17,340
+Mein Großvater ging, so weit ich mich erinnere, ins Labor.
+
+892
+00:34:22,340 --> 00:34:26,340
+Es geht also um den Geruch von Chemikalien nach Hause zu kommen.
+
+893
+00:34:27,340 --> 00:34:32,340
+Wer wird tatsächlich auf Alfa-Fold 3 oder Eis dieser Interation zugreifen können?
+
+894
+00:34:32,340 --> 00:34:36,340
+Ist es exklusiv bei Isomäorfik-Labs oder wird es in Lizenz veröffentlicht?
+
+895
+00:34:36,340 --> 00:34:39,340
+Ich möchte ein Homekit. Das ist es. Genau.
+
+896
+00:34:39,340 --> 00:34:42,340
+Richtig, richtig, richtig. Meine DNA wird eingegeben.
+
+897
+00:34:42,340 --> 00:34:45,340
+Da wird Alfa-Fold verwendet. Eine Pille erscheint. Ich nehme sie dich nicht mehr.
+
+898
+00:34:45,340 --> 00:34:50,340
+Das wäre so cool. Du stichst einfach in den Finger oder legst deinen Finger auf einen Sensor oder so.
+
+899
+00:34:50,340 --> 00:34:52,340
+Und das Unternehmen findet alles heraus.
+
+900
+00:34:53,340 --> 00:34:59,340
+Stelle deine eigene Pille zu Hause her. Zu Hause. Ja, ja. Schau dir dazu die Geschichte von Tranos an.
+
+901
+00:34:59,340 --> 00:35:03,340
+Wow, das ist die Frau, die ins Gefängnis ging. Richtig? Aber nein.
+
+902
+00:35:03,340 --> 00:35:09,340
+Du kannst auf Alfa-Fold zugreifen. Wenn du also nach Alpold Server suchst, gibt es ein ganzes webbasierte System.
+
+903
+00:35:09,340 --> 00:35:12,340
+Mit dem du Proteine für akademische Zwecke falten kannst.
+
+904
+00:35:12,340 --> 00:35:18,340
+Das ist echt cool. Du kannst einfach dein System installieren. Die 3D-Falt-Version von Alpold 3 herunterladen.
+
+905
+00:35:18,340 --> 00:35:23,340
+Ja, oh, cool. Man. Ich meine, wie weit sind wir noch davon entfernt, einen ganzen Menschen zu modellieren?
+
+906
+00:35:23,340 --> 00:35:30,340
+Das berührt vermutlich deine Ängste. Modellieren oder erschaffen. Entweder oder. Modell fertig? Weiter geht's mit dem erschaffen.
+
+907
+00:35:30,340 --> 00:35:32,340
+Ja, das stimmt. Mehr gibt es dazu nicht zu sagen.
+
+908
+00:35:32,340 --> 00:35:33,340
+Das ist wahr.
+
+909
+00:35:33,340 --> 00:35:36,340
+Das ist der Traum. Wir müssen hier die Maßstäbe irgendwie erhöhen.
+
+910
+00:35:36,340 --> 00:35:41,340
+Wir können modellieren, wie zwei Atome interagieren. Wir können diese Gleichungen aufschreiben.
+
+911
+00:35:41,340 --> 00:35:43,340
+Wir können kleine Atomare-Systeme simulieren.
+
+912
+00:35:43,340 --> 00:35:46,340
+Mit Dingen wie Alpavold gelangen wir zu größeren Atomarensystemen,
+
+913
+00:35:46,340 --> 00:35:49,340
+Dingen in der Größenordnung von mehreren Proteinen.
+
+914
+00:35:49,340 --> 00:35:52,340
+Wir haben jetzt ein sehr, sehr präzises Alfa-3.
+
+915
+00:35:52,340 --> 00:35:56,340
+Vielleicht können wir das tatsächlich ausbauen, um zu noch größeren Systemen zu gelangen,
+
+916
+00:35:56,340 --> 00:36:00,340
+zu dem, was wir fahrt nennen, und wie all diese Dinge interagieren.
+
+917
+00:36:00,340 --> 00:36:02,340
+Es klickt gerade erst bei mir.
+
+918
+00:36:02,340 --> 00:36:10,340
+Denn man kann in einem Buch die Tabellen der Aktionspotenziale für die Wechselwirkungen von Atomen und molekülen Nachschlagen.
+
+919
+00:36:10,340 --> 00:36:14,340
+Und so hätte man ein sehr gutes Gespür dafür, welche moleküle sich verbinden werden.
+
+920
+00:36:14,340 --> 00:36:19,340
+Ist es exotherm? Ist es endotherm? Aber das sind Atome und moleküle.
+
+921
+00:36:19,340 --> 00:36:28,340
+Und so leistungsstark und praktisch das auch ist, das ist nur die erste Sprosse auf dieser aufsteigenden Leiter der Komplexität,
+
+922
+00:36:28,340 --> 00:36:30,340
+über die man die Kontrolle erlandt.
+
+923
+00:36:30,340 --> 00:36:37,340
+Ja, und es gibt Billionen von Atomen in einer einzigen Zelle, geschweige denn im gesamten menschlichen Körper.
+
+924
+00:36:38,340 --> 00:36:42,340
+Richtig? Es ist einfach nicht machbar, das ganze zu simulieren.
+
+925
+00:36:42,340 --> 00:36:48,340
+Aber was man tun kann, ist, dass wir gute Messtechniken auf verschiedenen Maßstabsäbenen haben.
+
+926
+00:36:48,340 --> 00:36:51,340
+Wir können also Dinge wie die Proteinfaltung messen.
+
+927
+00:36:51,340 --> 00:36:54,340
+Wir können die Proteinmenge in einer Zelle messen.
+
+928
+00:36:54,340 --> 00:36:57,340
+Wir können die Anzahl der Zellen eines bestimmten Typs in einem Gewebe messen.
+
+929
+00:36:57,340 --> 00:37:01,340
+Und je, größer diese sind, desto einfacher lassen sie sich messen.
+
+930
+00:37:01,340 --> 00:37:04,340
+Wir haben also diese kleinen Fenster in dieser Art von mikroskopischer Welt.
+
+931
+00:37:04,340 --> 00:37:11,340
+Und dann können wir mit Hilfe von Kidi lückenfüllen und die Dinge, die wir auf Atomara ebene gut können, ausbauen und mit dem Aufbau dieser Modellierungskala beginnen.
+
+932
+00:37:11,340 --> 00:37:15,340
+Wenn das reicht, dann habe ich diesen Artikel gelesen.
+
+933
+00:37:15,340 --> 00:37:18,340
+Gott weiß, wie lange hast du den Artikel gelesen?
+
+934
+00:37:18,340 --> 00:37:26,340
+Denn weißt du, Gott weiß, erhandelte davon, wenn eine befruchtete Zelle anfängt, sich zu vermehren und zu einer Person zu werden.
+
+935
+00:37:26,340 --> 00:37:32,340
+Und im Grunde genommen stellten die Wissenschaftler zu diesem Zeitpunkt fest, und das ist viele Jahre her,
+
+936
+00:37:32,340 --> 00:37:37,340
+dass die einzige Möglichkeit, dies zu beschreiben, darin besteht, dass es eine Menge Rauschen gibt.
+
+937
+00:37:37,340 --> 00:37:42,340
+Es gibt einfach nur Rauschen. Wir können nichts davon wirklich sehen.
+
+938
+00:37:42,340 --> 00:37:50,340
+Wir können nichts davon verstehen, denn wenn wir es als Daten betrachten würden, wäre es im Grunde nur Rauschen.
+
+939
+00:37:50,340 --> 00:37:53,340
+Kannst du diesen Schleier durchdringen und dahin einsehen?
+
+940
+00:37:53,340 --> 00:37:57,340
+Ich meine, wir haben uns diese spezifische Sache nicht angesehen.
+
+941
+00:37:57,340 --> 00:38:02,340
+Okay, aber genau hier fängt man an, mehr über eine wirklich granolares Kala zu verstehen.
+
+942
+00:38:02,340 --> 00:38:08,340
+Dann kann man das integrieren und diese Art von ich weiß nicht gröberen Messungen und gröberen Vorhersagen erstellen.
+
+943
+00:38:08,340 --> 00:38:14,340
+Das machen wir doch in vielen Bereichen der Wissenschaft, oder wir simulieren nicht das gesamte Universum auf Atomare Ebene.
+
+944
+00:38:14,340 --> 00:38:19,340
+Aber wir finden diese Faustregeln oder Möglichkeiten, um größere Ansammlungen von Molekülen zu beschreiben.
+
+945
+00:38:19,340 --> 00:38:23,340
+Und genau das können wir mit diesen neuronalen Netzen aufbauen und tatsächlich lernen.
+
+946
+00:38:23,340 --> 00:38:27,340
+Cool! Also, eine Frage im Namen von Schack.
+
+947
+00:38:27,340 --> 00:38:35,340
+Könnte Alpha ein Halluzino-Gene entdecken, mit dem er Gott oder eine andere Gortheid oder ein anderes Wesen sehen könnte?
+
+948
+00:38:35,340 --> 00:38:37,340
+Danke für die Frage!
+
+949
+00:38:37,340 --> 00:38:40,340
+Gerne, ich hätte gerne eine ganz konkrete Antwort.
+
+950
+00:38:40,340 --> 00:38:44,340
+Du kannst auf den Alpha-Eels-Hörber gehen und das ausprobieren.
+
+951
+00:38:44,340 --> 00:38:46,340
+Okay, in Ordnung, Einladung.
+
+952
+00:38:46,340 --> 00:38:49,340
+Hey, hört mal zu, ich bin ganz dafür.
+
+953
+00:38:50,340 --> 00:38:56,340
+Wir haben uns in früheren Sendungen mit Biome-Medical-Engineering befasst.
+
+954
+00:38:56,340 --> 00:39:05,340
+Und wenn wir außerhalb der Erde und in den Weltraum reisen wollen, brauchen wir wahrscheinlich andere Abgräts, um das tun zu können.
+
+955
+00:39:05,340 --> 00:39:10,340
+Können wir uns mit Alpha-Fold oder Key wie dieser selbst verbessern, um?
+
+956
+00:39:10,340 --> 00:39:16,340
+Diese Art von Weltraumreise zu unternehmen oder uns für alles mögliche zu verbessern?
+
+957
+00:39:16,340 --> 00:39:23,340
+Ja, jetzt sind wir so zu sagen über das Heil in von Krankheiten hinaus und können uns tatsächlich selbst verbessern?
+
+958
+00:39:23,340 --> 00:39:32,340
+Ich weiß nicht, ich denke, es gibt wahrscheinlich das Potenzial, über die Entwicklung chemischer Stoffe nachzudenken, die wir einnehmen oder zu uns nehmen können.
+
+959
+00:39:33,340 --> 00:39:38,340
+Das, Altern allein wäre eine riesige Anwendung dafür. Es gibt verrückte Forschungen über das Altern.
+
+960
+00:39:38,340 --> 00:39:41,340
+Altern ist im Grunde genommen zelluläre Degeneration.
+
+961
+00:39:41,340 --> 00:39:48,340
+Und wenn man in der Lage ist, diesen Prozess auf molekulare Ebene neu zu starten oder anzukurbeln oder zu beschleunigen, ist das.
+
+962
+00:39:48,340 --> 00:39:55,340
+Ein interessantes Beispiel, das ist ein wirklich interessantes Forschungsgebiet, in den die Leute gerade erst anfangen, herauszufinden.
+
+963
+00:39:55,340 --> 00:39:57,340
+Welche Faktoren das Altern von Zellen umkehren können?
+
+964
+00:39:58,340 --> 00:40:00,340
+Das sind diese sogenannten Yamana-Kaffaktoren.
+
+965
+00:40:00,340 --> 00:40:06,340
+Ja, es gibt sogar das Potenzial, molekule zu entwickeln, die bestimmte Protäine stabilisieren.
+
+966
+00:40:06,340 --> 00:40:08,340
+Yamana-Kaffaktoren sind Protäine.
+
+967
+00:40:08,340 --> 00:40:12,340
+Das sind Transkriptionsfaktoren, die DNA lesen und diese Dinge stabilisieren können.
+
+968
+00:40:12,340 --> 00:40:15,340
+Vielleicht ist das das, was das Alter einiger Zellen umkehrt.
+
+969
+00:40:15,340 --> 00:40:16,340
+Das ist supernen.
+
+970
+00:40:16,340 --> 00:40:24,340
+Welcher Zusammenhang besteht zwischen Genonveränderung und der Proteinfaltung für die Interaktion mit unserer Physiologie?
+
+971
+00:40:24,340 --> 00:40:31,340
+Ich habe das gefragt, weil ich mich an eines Zähne im Film Gatka erinnere, in der sie dein Genon nicht manipuliert haben.
+
+972
+00:40:31,340 --> 00:40:36,340
+Sondern dein bereits vorhandenes Genon aufgrund bestimmter Eigenschaften ausgewählt haben.
+
+973
+00:40:36,340 --> 00:40:40,340
+Und da gibt jemand ein Klavierkonzert und es hat einen sehr satten Klang.
+
+974
+00:40:40,340 --> 00:40:45,340
+Ich meine, es war wunderschön und dann schwenkte die Kamera nach vorne und die Person hatte zwölf Finger.
+
+975
+00:40:45,340 --> 00:40:48,340
+Das ist richtig und dafür gibt es Brot.
+
+976
+00:40:48,340 --> 00:40:49,340
+Ja, richtig.
+
+977
+00:40:49,340 --> 00:40:51,340
+Man bekommt für alles zwei zusätzliche Noten.
+
+978
+00:40:51,340 --> 00:40:52,340
+Punkt, richtig.
+
+979
+00:40:52,340 --> 00:40:54,340
+Alles, was passiert?
+
+980
+00:40:54,340 --> 00:40:56,340
+Sie konnte nur das Zeug spielen, mit dem niemand spielen konnte.
+
+981
+00:40:56,340 --> 00:40:58,340
+Niemand konnte mit niemandem spielen.
+
+982
+00:40:58,340 --> 00:41:04,340
+Es ginge also um eine Veränderung, die die Vielfalt der Menschheit bereichern soll, nicht unbedingt Raumfahrt.
+
+983
+00:41:04,340 --> 00:41:08,340
+Wir führen keine genetische Veränderung durch.
+
+984
+00:41:08,340 --> 00:41:13,340
+Er sagt also, er sei Engländer, du musst ihm vertrauen, um ehrlich zu sein.
+
+985
+00:41:13,340 --> 00:41:16,340
+Ja, danke. Danke. Gut gemacht.
+
+986
+00:41:16,340 --> 00:41:18,340
+Gut gespielt.
+
+987
+00:41:18,340 --> 00:41:22,340
+Warte. Also, aber kannst du sagen, ist das das selbe?
+
+988
+00:41:22,340 --> 00:41:27,340
+Einige bestimmte Arten von Medikamenten sind Dinge, die dein Genon manipulieren.
+
+989
+00:41:27,340 --> 00:41:31,340
+Auf diese Weise fangen die Leute an, bestimmte Krankheiten zu bekämpfen.
+
+990
+00:41:31,340 --> 00:41:34,340
+Das ist keine Medikamentenklasse, an der wir arbeiten.
+
+991
+00:41:34,340 --> 00:41:39,340
+Wenn wir über das große Ziel nachdenken, alle Krankheiten zu heilen, ist das vielleicht etwas, dass wir im Laufe der Zeit tun müssen,
+
+992
+00:41:39,340 --> 00:41:42,340
+da wir wirklich das gesamte Spektrum der Krankheiten erfassen wollen.
+
+993
+00:41:42,340 --> 00:41:50,340
+Richtig ist es überhaupt möglich, das in Betracht zu ziehen, ohne den gesamten Bereich zu betrachten, da alles irgendwann ineinander greift?
+
+994
+00:41:50,340 --> 00:42:02,340
+Ja, ich meine, wir müssen das Genom verstehen und alle Auswirkungen, wie die Veränderung eines bestimmten Basenpas in deiner DNA die exprimierten Proteine oder deren Häufigkeit beeinflusst
+
+995
+00:42:02,340 --> 00:42:05,340
+und wie sich das alles auf die Signalwege auswirkt.
+
+996
+00:42:05,340 --> 00:42:13,340
+Du willst diese virtuelle Zelle wirklich haben, um sie auf einem Computer manipulieren zu können, um Experimente durchzuführen?
+
+997
+00:42:13,340 --> 00:42:18,340
+Ich möchte, dass du deine Zellvorlage hast, von der du sprichst, dass du sie priorisierst.
+
+998
+00:42:18,340 --> 00:42:29,340
+Ich verlange nicht viel, denn das passiert im Tierreich schon seit Jahrzehnten, sogar Jahrhunderten, haben wir uns an der Spitze einer evolutionären Evolution wehnt.
+
+999
+00:42:29,340 --> 00:42:32,340
+Ohne jegliche Aroganz.
+
+1000
+00:42:32,340 --> 00:42:34,340
+Und?
+
+1001
+00:42:34,340 --> 00:42:37,340
+Trotzdem kann ein Tier ein Glied regenerieren.
+
+1002
+00:42:37,340 --> 00:42:39,340
+Wir aber nicht.
+
+1003
+00:42:39,340 --> 00:42:40,340
+Ja.
+
+1004
+00:42:40,340 --> 00:42:42,340
+Und so scheint es, sie sind Wirbeltiere.
+
+1005
+00:42:42,340 --> 00:42:52,340
+Daher scheint es mir, dass es eine Möglichkeit geben sollte, austieren, die etwas tun, Dinge zu extraheren, von denen wir profitieren könnten und diese dann zu einer Priorität zu machen.
+
+1006
+00:42:52,340 --> 00:43:00,340
+Menschen, insbesondere Veteranen, die Gliedmaßen verloren haben, in Konflikten oder sogar Geckos mit ihren klebrigen Händen,
+
+1007
+00:43:00,340 --> 00:43:06,340
+wie zum Beispiel ich könnte eines Tages Spider-Men sein, also, priorisiere diesen Traff.
+
+1008
+00:43:06,340 --> 00:43:09,340
+Sie werden zu Superhelden.
+
+1009
+00:43:09,340 --> 00:43:14,340
+Die Regeneration von Gliedmaßen muss also eine Proteinsache sein, nicht wahr?
+
+1010
+00:43:14,340 --> 00:43:15,340
+Ja.
+
+1011
+00:43:15,340 --> 00:43:18,340
+Ich meine, alle unsere Mechanismen basieren auf Proteinen.
+
+1012
+00:43:18,340 --> 00:43:22,340
+Das gilt auch für Atomwaffen. Es gibt also einen Mechanismus. Ich weiß nicht, um welchen es sich handelt.
+
+1013
+00:43:22,340 --> 00:43:27,340
+Okay. Ja, aber das wäre ein Mechanismus, den man nachamen könnte, wenn man könnte. Wenn man könnte. Ja.
+
+1014
+00:43:27,340 --> 00:43:29,340
+Und ihn dann in unsere eigene Physiologie einbauen könnte.
+
+1015
+00:43:29,340 --> 00:43:36,340
+Das ist ein großes Wenn. Ja. Das ist eine Menge. Ja. Wie wäre es damit, könnte man sich Medikamente ansehen, die es bereits gibt.
+
+1016
+00:43:36,340 --> 00:43:40,340
+Und es gibt einige Medikamente, die einfach nicht gut vertragen werden.
+
+1017
+00:43:40,340 --> 00:43:45,340
+Und man könnte sie so umgestalten, dass man den Nutzen des Medikaments ohne die Nebenwirkungen erhält.
+
+1018
+00:43:45,340 --> 00:43:51,340
+Ja. Genau. Es gibt also oft diese Medikamente der ersten Generation, die etwas bewirken. Aber diese Nebenwirkungen haben.
+
+1019
+00:43:52,340 --> 00:44:01,340
+Dann gibt es eine große Chance, besser zu verstehen, wie diese Medikamente wirken. Dinge wie Alpha B3S, Dinge wie unsere Modelle, die die Toxizität von Medikamente verstehen, können es uns dann ermöglichen.
+
+1020
+00:44:01,340 --> 00:44:06,340
+Diese möglicherweise so zu modifizieren, dass sie zu besseren Medikamenten mit weniger Nebenwirkungen und weniger toxischen Wirkungen werden.
+
+1021
+00:44:06,340 --> 00:44:13,340
+Cool. Nun, das bedeutet, den medizinischen Katalog noch einmal durchzudehen und ihn erneut zu analysieren. Und genau dafür wäre eine Keyperfekt.
+
+1022
+00:44:13,340 --> 00:44:19,340
+Oder genau. Ja. Ja. Ihr werdet eine Menge Geld verdienen. Man. Ich weiß nicht, wie ich Dollarzeichen sehen kann.
+
+1023
+00:44:19,340 --> 00:44:26,340
+Ich sehe, ein großes Unternehmen für eure Investition. Ihr müsst ein Stück von diesen Unternehmen abhaben, dass ihr da aufbauen werdet.
+
+1024
+00:44:26,340 --> 00:44:32,340
+Ich meine, ich kann mir nicht einmal vorstellen, wie viel Geld das ist, mehr Geld als Zellen in meinem Körper.
+
+1025
+00:44:32,340 --> 00:44:43,340
+Das ist unglaublich. Wir stehen vor dem Quanten-Computing. Und ich weiß dessen Auswirkungen auf mein Fachgebiet. Würde dein gesamtes Lebenswerk aber kussartig in deinem Fachgebiet wirken?
+
+1026
+00:44:44,340 --> 00:44:52,340
+Ja. Ich meine, das wird die Dinge verändern. Auf eine Frage. Einfluss auf Maschinelles lernen? Was kann Key mit Quanten-Computern leisten?
+
+1027
+00:44:52,340 --> 00:45:01,340
+In der Chemie gibt es schon kurzfristig einige reale Anwendungen von Quanten-Computern. Um die Eigenschaften von Niedermolekularen Wirkstoffen zu verstehen.
+
+1028
+00:45:01,340 --> 00:45:08,340
+Denn Quanten-Computer werden heute unter anderem zur Simulation dieser kleinen chemischen Systeme eingesetzt.
+
+1029
+00:45:08,340 --> 00:45:19,340
+Wir haben sogar im Unternehmen ein Team für Quanten-Simulationen. Dieses Team verwendet zwar keine Quanten-Computer, simuliert aber die Quanten-Effekte von Molekülen.
+
+1030
+00:45:19,340 --> 00:45:30,340
+Wenn man einen Quanten-Computer hätte, der in dieser Größenordnung arbeiten könnte, könnte man ihn stattdessen verwenden. Ich denke an die vielen Bedürfnisse an der Grenze der Chemie in der modernen Gesellschaft.
+
+1031
+00:45:30,340 --> 00:45:46,340
+Eine davon ist, was wir mit all dem Plastik in unserer Umwelt und im Meer machen, gibt es eine Lebensform, die man erschaffen kann, um den Kunststoff zu verdauen und ihn wieder in seine ursprünglichen Moleküle umzuwandeln, könnte man Proteine dort einsetzen?
+
+1032
+00:45:46,340 --> 00:45:55,340
+Wenn das in ihrer Welt nicht der Fall ist, dann beschreiben sie eher eine Fähigkeit als eine spezifische Lösung für ein Problem.
+
+1033
+00:45:56,340 --> 00:46:06,340
+Sie stärken Chemiker auf eine Weise, die man sich nie zuvor vorstellen konnte. Ja, sie können die Möglichkeiten von Alfa-Folten nutzen, um Struktur-Protäene zu verstehen.
+
+1034
+00:46:06,340 --> 00:46:17,340
+Das wird auch außerhalb der Arzneimittelentwicklung eingesetzt. Man verwendet es beispielsweise, um Bakterien mit Entzümen zu entwickeln, die möglicherweise Kunststoffe verdauen könnten, wie sie es gerade tun.
+
+1035
+00:46:17,340 --> 00:46:29,340
+Man könnte es auch für die Entwicklung widerstandsfähigerer nutztflanzen und ähnliche Dinge nutzen. Genau wie bei Ki ist dies eine Plattform, auf der man die Technologie eines beliebigen Bereichs aufbauen kann.
+
+1036
+00:46:29,340 --> 00:46:37,340
+Das ist das faszinierende am Problem der Proteinfaltung. Wenn man anfängt, es zu lösen, erschließt sich so viel Neues für ein breites Spektrum der Wissenschaft.
+
+1037
+00:46:37,340 --> 00:46:44,340
+Ich würde sagen, es gibt viele nachgelagerte Vorteile. Ok, eine letzte Sache. Hier ist die letzte Sache. Wie bekomme ich ein Stück davon?
+
+1038
+00:46:44,340 --> 00:46:48,340
+Jack hat Dollarzeichen in den Augen. Wie bekomme ich ein Stück davon? Die.
+
+1039
+00:46:48,340 --> 00:46:53,340
+Letzte Sache. Die letzte Sache. Was ist das schlimmste mögliche Ergebnis ihrer Arbeit?
+
+1040
+00:46:53,340 --> 00:46:59,340
+Oh, was für eine Frage, welche Leitplanken sind notwendig, wenn wir voranschreiten?
+
+1041
+00:46:59,340 --> 00:47:03,340
+Jede neue Technologie mit großer Leistung fordert große Verantwortung.
+
+1042
+00:47:03,340 --> 00:47:11,340
+Ja, ich denke, wenn man Ki betrachtet, hat man das Problem, neue Biologie oder Chemikalien zu entwickeln.
+
+1043
+00:47:11,340 --> 00:47:20,340
+Man muss sich einfach überlegen, wie man das verantwortungsvoll einsetzt. Also was man offen in die Welt setzt und was man aus Sicherheitsgründen unterbindet.
+
+1044
+00:47:20,340 --> 00:47:24,340
+Ich denke, es gibt da viele Dinge zu bedenken. Punkt. Ja.
+
+1045
+00:47:24,340 --> 00:47:35,340
+Ja. In einem der Juressigparkfilme wurde einem der Dinosaurier die Aminosäure Luzin vorenthalten, für den Fall, dass er entkommen würde.
+
+1046
+00:47:35,340 --> 00:47:41,340
+Helm. Er würde sterben, weil er das Luzin zum Überleben bräuchte.
+
+1047
+00:47:41,340 --> 00:47:47,340
+Das war eine Art Versicherungsplan, aber das Leben findet immer einen Weg.
+
+1048
+00:47:47,340 --> 00:47:50,340
+Ja, da haben wir es.
+
+1049
+00:47:50,340 --> 00:47:59,340
+Wie auch immer, Maxwell Jettaberg. Ja, vielen Dank, dass Sie bei Startock dabei waren. Wir werden Ihre Firma verfolgen und Chuck möchte ein Stück davon.
+
+1050
+00:47:59,340 --> 00:48:09,340
+Ja, ich weiß nicht, was das bedeutet, aber wie auch immer, ich freue mich sehr, durch Ihre Linse auf die Geburt eines neuen Gebietes der menschlichen Physiologie blicken zu können.
+
+1051
+00:48:09,340 --> 00:48:16,340
+Ich meine, was für eine Zeit das ist, nein, vielen Dank. Es hat super viel Spaß gemacht, sich zu unterhalten. Nein, Danke, ausgezeichnet, ausgezeichnet.
+
+1052
+00:48:16,340 --> 00:48:26,340
+Okay, ich denke, wir sind hier fertig. Helm. Eh, das war eine weitere Folge der Startock Sonderausgabe, in der es um Ki, menschliche Physiologie und die Zukunft der Medizin ging.
+
+1053
+00:48:26,340 --> 00:48:32,340
+Oh ja, Gary, schön, dich hier zu haben. Gerne, Niel. Okay, Chuck, immer wieder gern.
+
+1054
+00:48:32,340 --> 00:48:38,340
+Wie immer war das Startock mit Niel de Gras Tyson, deinem persönlichen Astrophysiker. Schaut immer wieder nach oben.
+

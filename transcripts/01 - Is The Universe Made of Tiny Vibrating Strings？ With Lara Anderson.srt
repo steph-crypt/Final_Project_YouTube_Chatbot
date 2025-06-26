@@ -1,0 +1,3680 @@
+1
+00:00:00,000 --> 00:00:05,000
+Could such extra dimensions exist, and if so, how would we try and probe whether that's the case?
+
+2
+00:00:05,000 --> 00:00:11,000
+If you imagine looking at an extended object like a wire, it just looks one-dimensional, it just looks like it has a length.
+
+3
+00:00:11,000 --> 00:00:15,000
+But if you were able to get really close to that wire, you'd see that it also has something like a thickness.
+
+4
+00:00:15,000 --> 00:00:18,000
+And so that extra direction is what's called compact.
+
+5
+00:00:18,000 --> 00:00:21,000
+Is it possible to have a compactified time dimension as well?
+
+6
+00:00:21,000 --> 00:00:24,000
+Oh wow! Yeah, imagine two dimensions of time. Wow!
+
+7
+00:00:24,000 --> 00:00:29,000
+The problem with two-time dimensional theories and compact time dimensions in general is that it's very hard to measure.
+
+8
+00:00:29,000 --> 00:00:31,000
+And that it's very hard to maintain causality.
+
+9
+00:00:31,000 --> 00:00:33,000
+Higher dimensions look down on us.
+
+10
+00:00:33,000 --> 00:00:35,000
+Let's go!
+
+11
+00:00:45,000 --> 00:00:47,000
+This is Star Talk.
+
+12
+00:00:47,000 --> 00:00:50,000
+You'll digress Tyson, you're a personal astrophysicist.
+
+13
+00:00:50,000 --> 00:00:52,000
+Got Chuck Nice with me. How you doing Chuck?
+
+14
+00:00:52,000 --> 00:00:53,000
+Hey, I'm doing great, man.
+
+15
+00:00:53,000 --> 00:00:55,000
+All right. A comedian, actor?
+
+16
+00:00:55,000 --> 00:00:57,000
+Yeah. You've seen your food TV commercials here and there?
+
+17
+00:00:57,000 --> 00:01:00,000
+Yeah, you know, I'm about to listen. Sometimes I have nothing to do.
+
+18
+00:01:00,000 --> 00:01:02,000
+Okay.
+
+19
+00:01:02,000 --> 00:01:08,000
+Well, today we've got a really cool topic that's always on everybody's mind.
+
+20
+00:01:08,000 --> 00:01:10,000
+What everybody who cares about the universe.
+
+21
+00:01:10,000 --> 00:01:13,000
+You know, even people who don't, but I'll get into that later.
+
+22
+00:01:13,000 --> 00:01:18,000
+Yeah, what we're talking about, I've heard some really weird stuff from people that, you know.
+
+23
+00:01:18,000 --> 00:01:21,000
+They want to get into it. Yeah, okay. Yeah. All right.
+
+24
+00:01:21,000 --> 00:01:23,000
+All right. We're talking today about string theory.
+
+25
+00:01:23,000 --> 00:01:24,000
+Yeah.
+
+26
+00:01:24,000 --> 00:01:28,000
+And now we have our man about town, so he fears Brian Green right up to street.
+
+27
+00:01:28,000 --> 00:01:29,000
+Right.
+
+28
+00:01:29,000 --> 00:01:32,000
+But I said, you know, all the universe is not Brian Green.
+
+29
+00:01:32,000 --> 00:01:34,000
+You know, he would beg to differ.
+
+30
+00:01:34,000 --> 00:01:36,000
+It's a accent.
+
+31
+00:01:36,000 --> 00:01:39,000
+So we reached out to the cosmos.
+
+32
+00:01:39,000 --> 00:01:40,000
+Yes.
+
+33
+00:01:40,000 --> 00:01:42,000
+All right. And we found Laura Anderson.
+
+34
+00:01:42,000 --> 00:01:44,000
+Laura, welcome to Star Talk.
+
+35
+00:01:44,000 --> 00:01:46,000
+Thank you very much. It's a pleasure to be here.
+
+36
+00:01:46,000 --> 00:01:50,000
+Yeah. So you're associate professor of physics at Virginia Tech.
+
+37
+00:01:51,000 --> 00:01:53,000
+One of our producers is from Virginia Tech.
+
+38
+00:01:53,000 --> 00:01:56,000
+So you're right at home here among us.
+
+39
+00:01:56,000 --> 00:01:57,000
+Yeah, we're family now.
+
+40
+00:01:57,000 --> 00:01:58,000
+Yeah, you're family.
+
+41
+00:01:58,000 --> 00:02:00,000
+Did to be among friends.
+
+42
+00:02:00,000 --> 00:02:06,000
+Also, like Brian Green, you have a double affiliation also with the mathematics department.
+
+43
+00:02:06,000 --> 00:02:11,000
+I do. I'm an affiliate professor of mathematics, which means I can supervise math grad students as well.
+
+44
+00:02:11,000 --> 00:02:14,000
+Oh, so you just, you just taken jobs from everybody.
+
+45
+00:02:15,000 --> 00:02:19,000
+His professors out on the street because of Laura Anderson.
+
+46
+00:02:19,000 --> 00:02:21,000
+It's possible.
+
+47
+00:02:27,000 --> 00:02:29,000
+I can try to picture that.
+
+48
+00:02:29,000 --> 00:02:33,000
+How they, they're like, I'll do your math homework for money.
+
+49
+00:02:33,000 --> 00:02:34,000
+Yeah, we can exactly.
+
+50
+00:02:34,000 --> 00:02:36,000
+We'll math for food.
+
+51
+00:02:36,000 --> 00:02:38,000
+I think unfortunately that is a job.
+
+52
+00:02:38,000 --> 00:02:40,000
+I mean, it's called tutors, really, really.
+
+53
+00:02:40,000 --> 00:02:41,000
+Exactly.
+
+54
+00:02:41,000 --> 00:02:48,000
+And your research includes, I have here, the geometry and particle phenomenology in string theory.
+
+55
+00:02:48,000 --> 00:02:49,000
+Ooh.
+
+56
+00:02:49,000 --> 00:02:53,000
+So we just want to, let's just get to the bottom of this.
+
+57
+00:02:53,000 --> 00:02:54,000
+What is string theory?
+
+58
+00:02:54,000 --> 00:02:55,000
+Yes.
+
+59
+00:02:55,000 --> 00:03:04,000
+String theory is an attempt to reconcile Einstein's theory of general relativity, a theory of gravity, with the formalism of quantum mechanics and quantum field theory.
+
+60
+00:03:04,000 --> 00:03:07,000
+So it is a consistent quantum theory of gravity.
+
+61
+00:03:08,000 --> 00:03:17,000
+It may not be the way that quantum gravity works in our universe, but at the very least, it's a theoretical playground where we get to ask questions about quantum gravity.
+
+62
+00:03:17,000 --> 00:03:23,000
+Now, you've made an assumption in there, and I agree with this assumption, but I want to hear you defend it.
+
+63
+00:03:23,000 --> 00:03:30,000
+You, you are trying to absorb Einstein's general theory of relativity, our modern understanding of gravity, right?
+
+64
+00:03:30,000 --> 00:03:33,000
+Into a quantum description.
+
+65
+00:03:33,000 --> 00:03:39,000
+Why aren't you trying to take the quantum and absorb it into a general relativity description?
+
+66
+00:03:39,000 --> 00:03:47,000
+Because inherent in what both of you said, there must be an incongruency that would cause you to have to do that exactly.
+
+67
+00:03:47,000 --> 00:03:51,000
+So once you start with that, Laura, what is the incongruency here that you're trying to resolve?
+
+68
+00:03:51,000 --> 00:04:01,000
+Two of the greatest intellectual accomplishments of the 20th century, in my opinion, are Einstein's theory of gravity, and the description of fundamental interactions in nature,
+
+69
+00:04:01,000 --> 00:04:04,000
+as described by particle physics.
+
+70
+00:04:04,000 --> 00:04:15,000
+So things like a description of quarks, fundamental particles, have they interact with each other that gives us a description of things like electromagnetism and the strong and weak nuclear forces.
+
+71
+00:04:15,000 --> 00:04:23,000
+These sort of basic building blocks of matter, these fundamental Legos that we can hook together, they're described very well by quantum field theory.
+
+72
+00:04:23,000 --> 00:04:31,000
+The issue, the sort of discrepancy between these two, is that each separately are able to make predictions that are incredibly accurate in our modern world.
+
+73
+00:04:31,000 --> 00:04:36,000
+So we can make predictions to like 13 significant figures using either of these theoretical frameworks.
+
+74
+00:04:36,000 --> 00:04:38,000
+That would be 13 decimal places, right?
+
+75
+00:04:38,000 --> 00:04:41,000
+13 significant figures, yeah. I'm going to say that's pretty accurate.
+
+76
+00:04:41,000 --> 00:04:46,000
+It's pretty great. Yeah, and like things like modern GPS wouldn't work without general relativity.
+
+77
+00:04:46,000 --> 00:04:53,000
+But we have a lot of ways of testing these theories. They seem really robust and that they're telling us really important things about how the world behaves.
+
+78
+00:04:53,000 --> 00:04:59,000
+Unfortunately, if you try and combine the two, so you try and describe phenomena that might need both tools.
+
+79
+00:04:59,000 --> 00:05:07,000
+So for example, things where the interaction of particles and very short distance scales are in play, but also where there's really strong gravitation.
+
+80
+00:05:07,000 --> 00:05:16,000
+So for example, inside a black hole, that would be a regime where you need both of these, these theories, these frameworks to agree and give you concrete predictions.
+
+81
+00:05:16,000 --> 00:05:22,000
+And unfortunately, the theories break down when you try and combine them and you don't end up getting useful answers.
+
+82
+00:05:22,000 --> 00:05:26,000
+You get very manifestly wrong answers. They're called disastrous infinities.
+
+83
+00:05:26,000 --> 00:05:29,000
+Things that just don't predict anything.
+
+84
+00:05:30,000 --> 00:05:36,000
+Disaster is disastrous infinities. You can't get more distant than that. It sounds like the worst marriage ever.
+
+85
+00:05:36,000 --> 00:05:39,000
+Yeah, it's not great. Disaster is infinities.
+
+86
+00:05:39,000 --> 00:05:50,000
+So what gives you the confidence that it is the quantum physics understanding that will absorb gravity and not gravity absorbing quantum physics?
+
+87
+00:05:50,000 --> 00:05:54,000
+It's a great question. I think that it should be a two way street.
+
+88
+00:05:54,000 --> 00:06:00,000
+So in order to describe either phenomena, you need something that can be described in both frameworks.
+
+89
+00:06:00,000 --> 00:06:12,000
+Einstein's theory is sort of intrinsically classical, meaning that this picture of the curvature of space and time, it's not designed for sort of the quantum mechanical uncertainties that we know of and observe in particle physics.
+
+90
+00:06:12,000 --> 00:06:21,000
+So in that sense, we know that Einstein's theory, probably at a granular level, if you sort of zoom in, should evolve into something quantum mechanical.
+
+91
+00:06:21,000 --> 00:06:24,000
+Exactly. Form of that is up for exploration.
+
+92
+00:06:24,000 --> 00:06:33,000
+OK. So that works. Now you mentioned fundamental particles and you go back to ancient Greece. The atom was a fundamental particle.
+
+93
+00:06:33,000 --> 00:06:38,000
+That was the smallest thing that you could be that you could be right. And then we break the atom. There's other particles.
+
+94
+00:06:38,000 --> 00:06:44,000
+And so you you you list it like electron. That's fundamental and you mentioned mentioned quarks.
+
+95
+00:06:44,000 --> 00:06:49,000
+What gives you the confidence that we can't keep dividing matter further.
+
+96
+00:06:49,000 --> 00:06:56,000
+Yeah. That's a great question. I don't think I think most theoretical physicists would not say that we are a hundred percent confident that we stop there.
+
+97
+00:06:56,000 --> 00:07:05,000
+This is the zoo of particles that we've observed so far that seem to match the phenomena, the forces and interactions and effects that we see in nature very well.
+
+98
+00:07:05,000 --> 00:07:11,000
+But absolutely, there could be smaller things in play and indeed string theory posits that there are.
+
+99
+00:07:11,000 --> 00:07:17,000
+Really? Right. Exactly. That's the that's the little vibrating string is the fun.
+
+100
+00:07:17,000 --> 00:07:21,000
+The string is the fun. So take us there. OK. Take us out. Now how do strings come into this?
+
+101
+00:07:21,000 --> 00:07:32,000
+So the idea behind string theory, the you know, the two minute version of what string theory tries to do is it says imagine that instead of describing particles as little point particles that move through space.
+
+102
+00:07:32,000 --> 00:07:39,000
+Imagine that instead if you were able to zoom in far enough that you could have an object that has an extended length associated to it.
+
+103
+00:07:39,000 --> 00:07:46,000
+And the very rough idea is that just like a violin string can vibrate in different ways and produce different notes.
+
+104
+00:07:46,000 --> 00:07:53,000
+These little fundamental strings can vibrate into different configurations and it turns out they can change their properties.
+
+105
+00:07:53,000 --> 00:07:58,000
+The mathematics of how you describe these things moving can change their properties based on how they vibrate.
+
+106
+00:07:58,000 --> 00:08:02,000
+So they can vibrate one way and be an electron can vibrate another way and be a quirk.
+
+107
+00:08:02,000 --> 00:08:09,000
+And that seems like a very sort of cute idea for how to describe a lot of physics in a very simple framework.
+
+108
+00:08:09,000 --> 00:08:21,000
+But if that's the case, in principle, you ought to be able to to pluck the string that is otherwise an electron and get a quirk out of it. Have you done this?
+
+109
+00:08:21,000 --> 00:08:30,000
+No. And the problem with this is one thing that's really cool about this framework and then also two things that are not cool.
+
+110
+00:08:30,000 --> 00:08:37,000
+One of them is very much to do with what you said. So why can't you just test or observe, you know, are these strings there?
+
+111
+00:08:37,000 --> 00:08:49,000
+The theory predicts that these fundamental length scales of strings are so small that we would need a particle accelerator about the size of the solar system in order to smash atoms together and directly see those strings.
+
+112
+00:08:49,000 --> 00:08:53,000
+Which unfortunately we do not have access to those type of energy scales yet.
+
+113
+00:08:53,000 --> 00:09:06,000
+Just to affirm what is implicit in your statement, the larger the particle accelerator, the faster you can speed the particles so that when they collide, there's much more energy in that collision.
+
+114
+00:09:06,000 --> 00:09:11,000
+You'll probe regimes that previous accelerators could not.
+
+115
+00:09:11,000 --> 00:09:12,000
+That's right.
+
+116
+00:09:12,000 --> 00:09:18,000
+Okay. And so you just scale up what we got going now and you need something the size of the solar system to get to these energies.
+
+117
+00:09:18,000 --> 00:09:20,000
+Right. Which doesn't seem very viable.
+
+118
+00:09:20,000 --> 00:09:23,000
+No, it's not. So what's your plan B?
+
+119
+00:09:23,000 --> 00:09:29,000
+Before I answer that, let me just throw one thing out there about string theory that I think it's important to say.
+
+120
+00:09:29,000 --> 00:09:35,000
+So if you ask about quantum mechanical point particles and you say what kind of spaces could they move through?
+
+121
+00:09:35,000 --> 00:09:40,000
+It turns out that quantum field theory or quantum mechanics can be formulated in any type of space.
+
+122
+00:09:40,000 --> 00:09:46,000
+So they can move through basically any background that you choose any any configuration of space and time.
+
+123
+00:09:46,000 --> 00:09:52,000
+But if you ask the same question for these little one dimensional strings, if you say where can a quantum mechanical string move?
+
+124
+00:09:52,000 --> 00:09:59,000
+It turns out that the only spaces that they're allowed to move in and do their thing of vibrating in different ways and being different particles.
+
+125
+00:09:59,000 --> 00:10:04,000
+The only space they can do that in are spaces that obey Einstein's equations of general relativity.
+
+126
+00:10:04,000 --> 00:10:05,000
+That's so good.
+
+127
+00:10:05,000 --> 00:10:06,000
+Well, yeah.
+
+128
+00:10:06,000 --> 00:10:11,000
+So you actually get gravity for free in this formulation of quantum mechanical strings.
+
+129
+00:10:11,000 --> 00:10:20,000
+So we sometimes say that quantum gravity is consistent and also compulsory in string theory because it's being you know you're forced on you by the equations that the strings and the status.
+
+130
+00:10:20,000 --> 00:10:26,000
+So that's a good feeling then because it means something is talking to something else in the form in the formulation.
+
+131
+00:10:26,000 --> 00:10:27,000
+Right.
+
+132
+00:10:27,000 --> 00:10:31,000
+That that was not crowbarred in to begin with.
+
+133
+00:10:32,000 --> 00:10:38,000
+That's right. So it's sort of being handed to you and that fact is I think something that early in the development of string theory got a lot of people excited.
+
+134
+00:10:38,000 --> 00:10:51,000
+Unfortunately, like many good things things come with a catch and the catch in string theory is that this beautiful formulation I just described of you know you can describe all the particle physics by one little extended object you get gravity for free.
+
+135
+00:10:51,000 --> 00:11:00,000
+Only seems to work if the universe that this happens in has more than three spatial dimensions and one time like dimension that we seem to see in our universe.
+
+136
+00:11:00,000 --> 00:11:07,000
+You need extra dimensions because right now we live in four dimensions, which is three spatial plus time.
+
+137
+00:11:07,000 --> 00:11:15,000
+You need more dimensions in order to make this thing work, but we don't have access to more dimensions.
+
+138
+00:11:15,000 --> 00:11:18,000
+So we can't really say for sure.
+
+139
+00:11:18,000 --> 00:11:22,000
+Well, it's I mean, it seems like a really big intellectual leap, right?
+
+140
+00:11:22,000 --> 00:11:25,000
+We're pretty happy with our three dimensions of space and one dimension of time.
+
+141
+00:11:25,000 --> 00:11:34,000
+So the first pass is like could this at all is this just a deal breaker, right? Is there any way that this could be consistent with what we've already observed about the universe?
+
+142
+00:11:34,000 --> 00:11:42,000
+And as you were just alluding to right the question is, you know, could such extra dimensions exist? And if so, how would we try and probe whether that's the case?
+
+143
+00:11:42,000 --> 00:11:53,000
+The requirement that we can see right off the bat about these extra dimensions is if they were to exist, they can't be the same size as the rest of the dimensions that we see in our universe.
+
+144
+00:11:53,000 --> 00:12:01,000
+So if we look around, we can see that we have very large spatial extent for front, back side, the side up and down, and of course time.
+
+145
+00:12:01,000 --> 00:12:07,000
+But if there were these other directions, they would have to be really, really small compared to the rest of our universe.
+
+146
+00:12:07,000 --> 00:12:14,000
+And the analog for that is if you imagine looking at an extended object like a wire from really far away, it just looks one dimensional.
+
+147
+00:12:14,000 --> 00:12:21,000
+It just looks like it has a length. But if you were able to get really close to that wire, you'd see that it also has something like a thickness, a radial direction.
+
+148
+00:12:21,000 --> 00:12:27,000
+And so that extra direction is what's called compact, meaning that it's very small compared to say the length of the wire.
+
+149
+00:12:28,000 --> 00:12:35,000
+So one thing that we do know is that if this had any chance of working, these extra dimensions would have to be compact and very small compared to the rest of our universe.
+
+150
+00:12:35,000 --> 00:12:40,000
+Okay, you're freaking me out right now because and this I'm just going to say it.
+
+151
+00:12:40,000 --> 00:12:56,000
+So I was down in Costa Rica doing ayahuasca for a week. And in that time, I had an experience where I met these beings who told me about dimensions that existed in the universe.
+
+152
+00:12:56,000 --> 00:13:25,000
+And I think that there was a pre-supposed pre-planted post hypnotic suggestion because I have actually read about spring theory because if it's not.
+
+153
+00:13:25,000 --> 00:13:33,000
+So you are what drugs have you been taking to get your my follow up question is what did you do?
+
+154
+00:13:33,000 --> 00:13:41,000
+I hear the question. Yeah. Is it possible to have a compactified time dimension as well? Or is we only is all the models only stuck with one time dimension?
+
+155
+00:13:41,000 --> 00:13:46,000
+Oh, wow. I've never even considered that. Yeah, imagine two dimensions of time.
+
+156
+00:13:46,000 --> 00:13:56,000
+Holy crap. Go ahead. Yes. So the problem with two time dimensional theories and compact time dimensions in general is that it's very hard to maintain causality in such theories.
+
+157
+00:13:56,000 --> 00:14:04,000
+So if you have a time direction that can loop back on itself, it's possible to have the whole go back in time and shoot your grandpa situation hitting you pretty hard.
+
+158
+00:14:04,000 --> 00:14:14,000
+So to maintain consistent theories with multiple time directions or compact time directions, it's not I'm not going to say it's impossible, but most people don't consider that a very viable way forward.
+
+159
+00:14:14,000 --> 00:14:22,000
+You would have to discard causality altogether in order to do that. I think in general the claim would have be it would violate causality in such theories.
+
+160
+00:14:22,000 --> 00:14:26,000
+So there may be some creative ways to get around that, but generically I think that's true.
+
+161
+00:14:26,000 --> 00:14:31,000
+By the way, we have a Stephen Hawking on one of our earlier episodes. You can find it in our archives.
+
+162
+00:14:31,000 --> 00:14:40,000
+We went to University Cambridge and chilled with him for a bit. Tell me he proposed a time travel conjecture, something like that.
+
+163
+00:14:40,000 --> 00:14:50,000
+Tell us what that was. And did that save us from this? Is that I mean there are a number of conjectures say in the theory of gravity that say that causality is an important structure.
+
+164
+00:14:50,000 --> 00:14:58,000
+So that in general one would not expect that consistent theories of gravity or indeed quantum mechanics should allow.
+
+165
+00:14:58,000 --> 00:15:08,000
+You just can't get it to work. Okay. Yeah. That that's why I mean, I mean, let's miss that that removes many movies in the repertoire where you got to go back and change the path.
+
+166
+00:15:08,000 --> 00:15:17,000
+Exactly. All the terminator has done it. Forget about it. We look back on the past, but we look forward to many futures.
+
+167
+00:15:17,000 --> 00:15:24,000
+So the idea of being able to look back and say at this particular point, all those many futures still exist.
+
+168
+00:15:24,000 --> 00:15:31,000
+If I could get back to that point, then I could change it to one of these other tracks. You know, which I mean, it's a great fantasy.
+
+169
+00:15:31,000 --> 00:15:37,000
+And it makes sense to have that fantasy. But what you're saying is it's a stupid fantasy because it ain't never going to happen.
+
+170
+00:15:37,000 --> 00:15:45,000
+Well, I would say, you know, never say never in insights. You got to be careful. But certainly it's not something that most people have a good idea how to make work in a consistent way.
+
+171
+00:15:45,000 --> 00:15:52,000
+And that's why I'm not a scientist. Just consider to say never say never. You just never said never.
+
+172
+00:15:52,000 --> 00:15:56,000
+You can't say never say never. What I'm saying never.
+
+173
+00:15:56,000 --> 00:16:07,000
+Hey, start talk fans. I don't know if you know this, but the audio version of the podcast actually posts a week in advance of the video version.
+
+174
+00:16:07,000 --> 00:16:15,000
+And you can get that and Spotify and Apple podcast and most other podcast outlets that are out there.
+
+175
+00:16:15,000 --> 00:16:20,000
+Multiple ways to ingest all that is cosmic on start talk.
+
+176
+00:16:20,000 --> 00:16:27,000
+Before we sort of pivot to the whole thing of phenomenology because I want to know it's a big word with a lot of syllables.
+
+177
+00:16:27,000 --> 00:16:36,000
+I've heard it invoked before, especially in particle physics. But before we step there, I just want to understand how will you ever test string theory.
+
+178
+00:16:36,000 --> 00:16:49,000
+And we know in advance that you have naysayers out there, physicists among them who are saying you're diverting time resources, graduate students, faculty positions to something that doesn't even classify as a legit.
+
+179
+00:16:49,000 --> 00:16:56,000
+It's not that you're going to be able to identify as a legitimate scientific theory or hypothesis because you need to be able to test it without the test.
+
+180
+00:16:56,000 --> 00:17:00,000
+Go home. So let me hear your response to that.
+
+181
+00:17:00,000 --> 00:17:02,000
+Absolutely. I think that's a really fair question.
+
+182
+00:17:02,000 --> 00:17:06,000
+For any theoretical framework where you're trying to describe things.
+
+183
+00:17:06,000 --> 00:17:11,000
+If there's a big intellectual leap, right? And for example, extra dimensions is a pretty big leap.
+
+184
+00:17:11,000 --> 00:17:18,000
+You have to justify that with a payoff. Right. You have to say what is the benefit that I'm going to give you in terms of structure and predictions and
+
+185
+00:17:18,000 --> 00:17:23,000
+what you're learning from this theory. So to push back on the how are we going to test it.
+
+186
+00:17:23,000 --> 00:17:36,000
+Let me observe first that in particle theory in general, the time scales between predicting structure in particle theory and then being able to see it in experiment over the last half century have gone increased in size considerably.
+
+187
+00:17:36,000 --> 00:17:46,000
+So one example of this is the prediction of the Higgs boson made by Peter Higgs, which took about 50 years from the prediction that this particle should exist to its observation at the LHC.
+
+188
+00:17:47,000 --> 00:17:52,000
+That means the theorist are just way ahead of the experimentalist. Right. I guess some deadbeat experimentalist.
+
+189
+00:17:52,000 --> 00:17:57,000
+I would not say that at all. I would say that that dialogue of theory and experiment is really important.
+
+190
+00:17:57,000 --> 00:18:02,000
+But I'm just pointing out that direct experiment of direct verification by experiment of lots of things is hard.
+
+191
+00:18:02,000 --> 00:18:08,000
+That doesn't mean that one shouldn't do it. It just means that you have to be deciding what time scales are relevant for that question.
+
+192
+00:18:09,000 --> 00:18:18,000
+For string theory, I would say the problem is a lot worse than it was for something like the prediction of the Higgs boson because the energy scales are so massive to directly observe strings.
+
+193
+00:18:18,000 --> 00:18:25,000
+So for me personally, I'm interested in trying to decide whether string theory is useful a lot faster than that in the point of view of my career.
+
+194
+00:18:25,000 --> 00:18:28,000
+And I remain very agnostic as to whether that's the case.
+
+195
+00:18:28,000 --> 00:18:32,000
+If you want to be alive, do it when you decide this.
+
+196
+00:18:33,000 --> 00:18:39,000
+If somebody could demonstrate to me right now that string theory was for sure not useful for our universe, I choose to work on something else.
+
+197
+00:18:39,000 --> 00:18:51,000
+So what do I think is the most direct way to those types of answers is that in string theory, many types of structure and results in physics are really intercorrelated.
+
+198
+00:18:51,000 --> 00:19:00,000
+So it turns out that in something like the particle physics description of all the particles we know about so far, the standard model of particle physics.
+
+199
+00:19:01,000 --> 00:19:04,000
+So that's the organization of all the particles that we know.
+
+200
+00:19:04,000 --> 00:19:06,000
+Just one chart.
+
+201
+00:19:06,000 --> 00:19:10,000
+And you say this interacts with that and this connects here.
+
+202
+00:19:10,000 --> 00:19:16,000
+And it's a beautiful thing actually when you step back and it's a tri... I mean that happened in... I'm older than both of you all.
+
+203
+00:19:16,000 --> 00:19:18,000
+That happened in my lifetime.
+
+204
+00:19:18,000 --> 00:19:27,000
+I mean then basically in the 1970s, we started assembling a little earlier too, but the full picture was coming together as we found these other particles to flesh it out.
+
+205
+00:19:28,000 --> 00:19:29,000
+It's a periodic table of particles.
+
+206
+00:19:29,000 --> 00:19:30,000
+Okay.
+
+207
+00:19:30,000 --> 00:19:31,000
+All right.
+
+208
+00:19:31,000 --> 00:19:32,000
+Organizations.
+
+209
+00:19:32,000 --> 00:19:33,000
+Organizations.
+
+210
+00:19:33,000 --> 00:19:34,000
+Very good.
+
+211
+00:19:34,000 --> 00:19:35,000
+Okay. So pick it up there. Sorry.
+
+212
+00:19:35,000 --> 00:19:37,000
+Quick anecdote from when I was a kid.
+
+213
+00:19:37,000 --> 00:19:41,000
+I got interested in physics reading books like by people like Brian Green when I was, you know, in my early teens.
+
+214
+00:19:41,000 --> 00:19:45,000
+And I had a little... I'd written down the standard model like on a piece of paper.
+
+215
+00:19:45,000 --> 00:19:51,000
+I made my little zoo of particles and I carried around on a piece of paper for a bit as a super, you know, nerdy young person.
+
+216
+00:19:51,000 --> 00:19:53,000
+The girl geek in the house?
+
+217
+00:19:53,000 --> 00:19:54,000
+Love it.
+
+218
+00:19:54,000 --> 00:19:55,000
+Girl geek alert.
+
+219
+00:19:55,000 --> 00:19:57,000
+Totally, totally. But I totally agree.
+
+220
+00:19:57,000 --> 00:19:59,000
+It's the zoo of what we know is there.
+
+221
+00:19:59,000 --> 00:20:05,000
+And the point I was going to make in relation to string theory is that in something like the standard model, there's a lot of free numbers.
+
+222
+00:20:05,000 --> 00:20:11,000
+So for example, nothing in that theory tells you what the mass of the electron is or how the quarks couple to each other.
+
+223
+00:20:11,000 --> 00:20:13,000
+Those numbers are just observed in our universe.
+
+224
+00:20:13,000 --> 00:20:17,000
+Well you said free numbers, you mean not predicted.
+
+225
+00:20:17,000 --> 00:20:19,000
+Correct. Not predicted by the structure of the theory.
+
+226
+00:20:19,000 --> 00:20:29,000
+Now in contrast to that, in string theory, if you found a solution in string theory that produced particle physics like we see in our universe, none of those numbers are free.
+
+227
+00:20:29,000 --> 00:20:34,000
+They're all determined by the configuration of these extra dimensions and the structure of the theory.
+
+228
+00:20:34,000 --> 00:20:38,000
+So it's a huge array of physics that you have to get right all at once.
+
+229
+00:20:38,000 --> 00:20:45,000
+And here I've been talking about particle physics, but you also have to answer questions about cosmology and the large scale structure and history of the universe.
+
+230
+00:20:45,000 --> 00:20:48,000
+So how are you going to decide if string theory is wrong?
+
+231
+00:20:48,000 --> 00:21:00,000
+I think that it's most likely that we would be able to say that the structures that we see in nature, we can argue that we either can or can't get the right sort of regimes of numbers and effects that we already know are there.
+
+232
+00:21:00,000 --> 00:21:04,000
+Much more rapidly than we're going to build an accelerator to see a string.
+
+233
+00:21:04,000 --> 00:21:05,000
+I love that.
+
+234
+00:21:05,000 --> 00:21:14,000
+So what you're saying is whether or not you can test the dimensionality or the other sort of physicality of string theory.
+
+235
+00:21:14,000 --> 00:21:24,000
+If you're a theorist can go in the back room and come out and say, I plucked this string this way, it's going to give me an electron and it's going to give me this mass.
+
+236
+00:21:24,000 --> 00:21:26,000
+Right. And it's the only mass that's going to come out of this.
+
+237
+00:21:26,000 --> 00:21:27,000
+Right. Because that's the right number.
+
+238
+00:21:27,000 --> 00:21:31,000
+That's the right number and the right vibration and it's going to look like an electron.
+
+239
+00:21:31,000 --> 00:21:33,000
+That's a Nobel Prize right there.
+
+240
+00:21:33,000 --> 00:21:37,000
+Yeah. It's like the way they do modeling or weather modeling.
+
+241
+00:21:37,000 --> 00:21:43,000
+We have a prediction and then we run the model on what's already been done.
+
+242
+00:21:43,000 --> 00:21:49,000
+And if we get those numbers, then we can have confidence in the predictive model itself.
+
+243
+00:21:49,000 --> 00:21:50,000
+That's right.
+
+244
+00:21:50,000 --> 00:21:53,000
+Again, so the idea is I just articulated it.
+
+245
+00:21:53,000 --> 00:21:55,000
+This has been around for like 40 years.
+
+246
+00:21:55,000 --> 00:22:01,000
+This was what when people were first formulating string theory, everybody was excited and they thought we were going to do exactly what you just said.
+
+247
+00:22:01,000 --> 00:22:03,000
+You know, you're going to go around, you're going to look at the solutions of the string theory.
+
+248
+00:22:03,000 --> 00:22:06,000
+You're going to say, boom, here's our universe. Here's all these numbers. We just predict everything.
+
+249
+00:22:06,000 --> 00:22:08,000
+It's great. That hasn't happened.
+
+250
+00:22:08,000 --> 00:22:10,000
+And there's, you know, people are still trying to think about this.
+
+251
+00:22:10,000 --> 00:22:12,000
+So what are some of the big obstacles?
+
+252
+00:22:12,000 --> 00:22:20,000
+One of the issues is that it turns out that when you ask how many different configurations for these extra dimensions can there be?
+
+253
+00:22:20,000 --> 00:22:23,000
+Initially, the hope was that maybe that was very restrictive.
+
+254
+00:22:23,000 --> 00:22:24,000
+Maybe there was just a couple.
+
+255
+00:22:24,000 --> 00:22:27,000
+The question of how many could you have?
+
+256
+00:22:27,000 --> 00:22:36,000
+So if you said, what if we just had, say, two extra dimensions that obeyed the consistency equations from string theory?
+
+257
+00:22:36,000 --> 00:22:41,000
+Turns out there's a unique answer from the differential equations that tell you what that shape could be.
+
+258
+00:22:41,000 --> 00:22:44,000
+If you ask, is there, you know, what happens if there are four extra dimensions?
+
+259
+00:22:44,000 --> 00:22:46,000
+There's a unique answer.
+
+260
+00:22:46,000 --> 00:22:54,000
+And then if you say, what happens if there were six extra dimensions, which happens to be the extra dimensions that we think needs to arise to give what we see in nature?
+
+261
+00:22:54,000 --> 00:22:59,000
+Turns out there are half a billion configurations and counting that have been found so far.
+
+262
+00:22:59,000 --> 00:23:05,000
+So it sounds to me like what you guys are saying is we have this instrument.
+
+263
+00:23:05,000 --> 00:23:11,000
+And on the instrument, there's a certain amount of notes that are just resident in the instrument.
+
+264
+00:23:11,000 --> 00:23:15,000
+And now we have to figure out one song.
+
+265
+00:23:15,000 --> 00:23:21,000
+Because all those notes can make however many billions of songs.
+
+266
+00:23:21,000 --> 00:23:26,000
+We've got to find the one song that all those notes can play.
+
+267
+00:23:26,000 --> 00:23:31,000
+But it also sounds like nature's just messing with us.
+
+268
+00:23:31,000 --> 00:23:35,000
+It sounds so this is one of the things that people push back on string theory.
+
+269
+00:23:35,000 --> 00:23:40,000
+And I say, okay, if all these possible solutions of string theory exist, how is it ever going to be predicted?
+
+270
+00:23:40,000 --> 00:23:42,000
+And you know, you could just have this big soup of things.
+
+271
+00:23:42,000 --> 00:23:46,000
+And some people have even made that argument. They call it the string landscape where they say, you know, you could just land anywhere.
+
+272
+00:23:46,000 --> 00:23:51,000
+So what if there's some place in the string landscape that looks like our universe, there's all this other junk.
+
+273
+00:23:51,000 --> 00:23:54,000
+What is the theory actually telling us them?
+
+274
+00:23:54,000 --> 00:24:04,000
+And the argument I would say against that is that in something like quantum field theory, which we already talked about for the standard model, this is who of all the, you know, quirks and leptons that we know in nature.
+
+275
+00:24:04,000 --> 00:24:09,000
+There are an infinite number of quantum field theories that I could write down that aren't our universe.
+
+276
+00:24:09,000 --> 00:24:13,000
+But it doesn't matter because we do know how to write down one that does look like our universe.
+
+277
+00:24:13,000 --> 00:24:17,000
+So string theory is sort of a natural extension of quantum field theory in some ways.
+
+278
+00:24:17,000 --> 00:24:22,000
+And it has a lot of flexibility that may have nothing to do with the physics that we observe in our universe.
+
+279
+00:24:22,000 --> 00:24:28,000
+But the question is once you zoom in on the parts of that theory that do, do you learn anything?
+
+280
+00:24:28,000 --> 00:24:35,000
+So for example, do you find that if you see the particles that we already know that additional particles must be there or additional forces?
+
+281
+00:24:35,000 --> 00:24:43,000
+Or can we correlate features and cosmology in the large scale structure of the universe like dark energy or dark matter with particle physics that we know to be true?
+
+282
+00:24:43,000 --> 00:24:46,000
+I don't want to lessen the significance of how you describe that.
+
+283
+00:24:46,000 --> 00:25:04,000
+But if I understand it, you're saying on this, like you said, this landscape of half a billion possible songs that it could be and you want the one song that's yours, it's not useful if you find it unless upon finding it, you get other insights about the universe we're in.
+
+284
+00:25:04,000 --> 00:25:08,000
+Because otherwise it's just a just so story, right?
+
+285
+00:25:08,000 --> 00:25:14,000
+The universe is just that and we explain it with just that and it doesn't take you any further down the street.
+
+286
+00:25:14,000 --> 00:25:16,000
+Is that a fair way to characterize it?
+
+287
+00:25:16,000 --> 00:25:17,000
+Yeah.
+
+288
+00:25:17,000 --> 00:25:23,000
+And another thing that people are asking within string theory is how many possible quantum theories of gravity could there be?
+
+289
+00:25:23,000 --> 00:25:26,000
+So imagine that string theory isn't how our universe works.
+
+290
+00:25:26,000 --> 00:25:31,000
+We know it's a quantum theory of gravity, but it might be too idealized to describe our universe.
+
+291
+00:25:31,000 --> 00:25:35,000
+So in physics, we talk about pretending that cows are spheres in order to make the math easier.
+
+292
+00:25:35,000 --> 00:25:37,000
+Consider a spherical cow.
+
+293
+00:25:37,000 --> 00:25:38,000
+Oh, God.
+
+294
+00:25:38,000 --> 00:25:39,000
+We do that all the time.
+
+295
+00:25:39,000 --> 00:25:40,000
+Okay.
+
+296
+00:25:40,000 --> 00:25:41,000
+Yeah, just easier.
+
+297
+00:25:41,000 --> 00:25:48,000
+That our our society of physics students has a spherical towel t-shirt here for a Virginia Tech.
+
+298
+00:25:48,000 --> 00:25:49,000
+Yeah, yeah, it's a thing.
+
+299
+00:25:49,000 --> 00:25:50,000
+That's that's pretty wild.
+
+300
+00:25:50,000 --> 00:25:51,000
+It's a thing.
+
+301
+00:25:51,000 --> 00:25:53,000
+If you want to maximize the milk production of a cow, right?
+
+302
+00:25:53,000 --> 00:25:55,000
+Start with a spherical cow.
+
+303
+00:25:55,000 --> 00:25:56,000
+Start with a spherical cow.
+
+304
+00:25:56,000 --> 00:25:57,000
+Yeah. Right on.
+
+305
+00:25:57,000 --> 00:25:58,000
+Yeah.
+
+306
+00:25:58,000 --> 00:25:59,000
+I don't want that milk.
+
+307
+00:25:59,000 --> 00:26:01,000
+I don't want milk from a spherical cow.
+
+308
+00:26:01,000 --> 00:26:02,000
+I'm sorry.
+
+309
+00:26:02,000 --> 00:26:03,000
+Yeah.
+
+310
+00:26:03,000 --> 00:26:04,000
+Yeah.
+
+311
+00:26:04,000 --> 00:26:05,000
+I'm going goat's milk from now on.
+
+312
+00:26:05,000 --> 00:26:06,000
+Yeah.
+
+313
+00:26:06,000 --> 00:26:13,000
+But yeah, the point I make is that maybe string theory isn't, you know, it's just too idealized to describe how quantum gravity works in our universe.
+
+314
+00:26:13,000 --> 00:26:18,000
+But a lot of theorists are questioning, okay, if that's the case, we know this is a quantum theory of gravity.
+
+315
+00:26:18,000 --> 00:26:25,000
+So if you had another one, right, like the right one that isn't a string theory, how could those two theories be related?
+
+316
+00:26:25,000 --> 00:26:30,000
+And there's groups of string theorists who are trying to argue and provide mathematical theorems.
+
+317
+00:26:30,000 --> 00:26:35,000
+For example, someone in Kermanbatha at Harvard has created something called the Kubordism Conjecture.
+
+318
+00:26:35,000 --> 00:26:43,000
+And what he's positing is that perhaps if you had more than one quantum theory of gravity, they must be connected in some way.
+
+319
+00:26:43,000 --> 00:26:50,000
+Otherwise, you would develop inconsistencies in how you could describe quantum gravity or quantum gravitational effects.
+
+320
+00:26:50,000 --> 00:26:57,000
+So the argument I'm making here is that even if string theory isn't the right one, whatever that might mean, maybe it's connected to the right one.
+
+321
+00:26:57,000 --> 00:27:03,000
+So maybe we still learn structure about how string theory can inform what our universe should look like.
+
+322
+00:27:03,000 --> 00:27:10,000
+Is this what, not exactly what you just said, but the comprehensive look at all of this?
+
+323
+00:27:10,000 --> 00:27:15,000
+Is this what gives rise to the multiverse and infinite number of universes?
+
+324
+00:27:15,000 --> 00:27:18,000
+That's a different question, but an interesting one.
+
+325
+00:27:18,000 --> 00:27:19,000
+That the answer is no.
+
+326
+00:27:19,000 --> 00:27:20,000
+The answer is no.
+
+327
+00:27:20,000 --> 00:27:21,000
+Okay.
+
+328
+00:27:21,000 --> 00:27:22,000
+We'll say that for you.
+
+329
+00:27:22,000 --> 00:27:23,000
+We'll say that for later.
+
+330
+00:27:23,000 --> 00:27:28,000
+You're a specific specialty within string theory is particle phenomenology.
+
+331
+00:27:28,000 --> 00:27:30,000
+Could you just introduce us to that?
+
+332
+00:27:30,000 --> 00:27:31,000
+Absolutely.
+
+333
+00:27:31,000 --> 00:27:44,000
+So that's the question of whether string theory can produce solutions that look like the particle physics that we see, the standard model, for example, and the interactions of the other fundamental forces that aren't gravity.
+
+334
+00:27:44,000 --> 00:27:53,000
+And so one of the things that I've worked on at various times over my career is trying to ask for the types of solutions that we see in string theory.
+
+335
+00:27:53,000 --> 00:27:58,000
+What characterizes those that would give us things like we see in nature?
+
+336
+00:27:58,000 --> 00:28:11,000
+So again, coming back to this concept of the string landscape, there's a famous number of like possible solutions that you can get for this string landscape, a number of like 10 to the 500, which is unimaginably large as thrown around.
+
+337
+00:28:11,000 --> 00:28:12,000
+So we can't do the 500.
+
+338
+00:28:12,000 --> 00:28:13,000
+10 to the 500.
+
+339
+00:28:13,000 --> 00:28:14,000
+That's not a number.
+
+340
+00:28:14,000 --> 00:28:15,000
+That's not a number.
+
+341
+00:28:15,000 --> 00:28:16,000
+It's not a number.
+
+342
+00:28:16,000 --> 00:28:17,000
+It's not a number.
+
+343
+00:28:17,000 --> 00:28:24,000
+But in that counting of solutions in string theory, so this is again, you know, something people say, oh, you know, 10 to the 500, how are you going to learn anything?
+
+344
+00:28:24,000 --> 00:28:29,000
+But all of those 10 to the 500 that people have counted historically, none of them included an electron.
+
+345
+00:28:29,000 --> 00:28:30,000
+Okay.
+
+346
+00:28:30,000 --> 00:28:34,000
+So if you know something about the universe, you want a model, you don't care if you're straight.
+
+347
+00:28:34,000 --> 00:28:35,000
+Straight to the 500.
+
+348
+00:28:35,000 --> 00:28:36,000
+Yeah.
+
+349
+00:28:36,000 --> 00:28:39,000
+None of those can possibly give rise to the type of physics we see.
+
+350
+00:28:39,000 --> 00:28:50,000
+So the type of research that I do is trying to correlate what shapes for these extra dimensions, what properties of string theory will narrow the field down to things that are close to our universe.
+
+351
+00:28:50,000 --> 00:28:51,000
+Okay. So have you gotten here yet?
+
+352
+00:28:51,000 --> 00:28:53,000
+What's what's, you know, what's the hold up here?
+
+353
+00:28:53,000 --> 00:28:55,000
+We're getting better.
+
+354
+00:28:55,000 --> 00:29:01,000
+I mean, in all honesty, you know, we have not delivered on that yet, but we are, I feel like still making legitimate progress.
+
+355
+00:29:01,000 --> 00:29:02,000
+Okay.
+
+356
+00:29:02,000 --> 00:29:29,000
+So how about this because one of the great redeeming qualities of all scientific discovery or the search thereof is even if I don't get to the thing I am trying to find out along the way, I find out all this other great stuff that now gives us computers and digital cameras and GPS, but I didn't get to what I wanted.
+
+357
+00:29:30,000 --> 00:29:36,000
+So what have you guys contributed that has been your happy accident?
+
+358
+00:29:36,000 --> 00:29:39,000
+Well, I mean, I'm going to say that more tightly.
+
+359
+00:29:39,000 --> 00:29:40,000
+Say it tighter.
+
+360
+00:29:40,000 --> 00:29:41,000
+You ready?
+
+361
+00:29:41,000 --> 00:29:42,000
+No, I love that.
+
+362
+00:29:42,000 --> 00:29:43,000
+Go ahead.
+
+363
+00:29:43,000 --> 00:29:44,000
+I loved it, but I want to say it another way.
+
+364
+00:29:44,000 --> 00:29:45,000
+All right.
+
+365
+00:29:45,000 --> 00:29:46,000
+Okay.
+
+366
+00:29:46,000 --> 00:29:50,000
+In your failures, how have you succeeded?
+
+367
+00:29:50,000 --> 00:29:55,000
+So I think the answer to that is really big.
+
+368
+00:29:55,000 --> 00:30:02,000
+And string theory as a field has really expanded to, you know, huge different numbers of subfields and researchers who do really different things.
+
+369
+00:30:02,000 --> 00:30:05,000
+So there are many different answers to that question.
+
+370
+00:30:05,000 --> 00:30:07,000
+I could, like, you know, percolating the back of my mind.
+
+371
+00:30:07,000 --> 00:30:21,000
+One is the discovery of the holographic principle, which says that phenomena like gravity are very deeply related to things called gauge theories, which again describe the interactions of particles and charges.
+
+372
+00:30:22,000 --> 00:30:26,000
+That these things can be related in different dimensions of spaces.
+
+373
+00:30:26,000 --> 00:30:33,000
+So the statement is that gravitational theories can be related to gauge theories that live on the quote boundary of that space.
+
+374
+00:30:33,000 --> 00:30:42,000
+Things like the holographic principle are an extremely deep bit of structure that says that, you know, gauge theories and particle physics and gravity are not as different as we thought they were.
+
+375
+00:30:42,000 --> 00:30:47,000
+That's, that's a really profound, I would say observation that has arisen in string theory.
+
+376
+00:30:47,000 --> 00:30:56,000
+So the simplest example that I've heard of the holographic principle is the surface of the event horizon of a black hole.
+
+377
+00:30:56,000 --> 00:30:58,000
+Okay. And correct me from wrong here.
+
+378
+00:30:58,000 --> 00:31:03,000
+So you fall through the surface has a memory of everything that passed through.
+
+379
+00:31:03,000 --> 00:31:04,000
+Interesting.
+
+380
+00:31:04,000 --> 00:31:12,000
+And so you can think of the information content of the surface as the full understanding of anything that's inside.
+
+381
+00:31:13,000 --> 00:31:17,000
+Because there's no loss of information because it's all retained on the surface.
+
+382
+00:31:17,000 --> 00:31:28,000
+And so that inside the black hole, and if we are inside a black hole of our universe, because we have a horizon, which you can, and, and now I'm trying to invent horizon.
+
+383
+00:31:28,000 --> 00:31:32,000
+Right. Then we would be the holographic projections of that.
+
+384
+00:31:32,000 --> 00:31:34,000
+So is this a fair, did I, did I capture that?
+
+385
+00:31:34,000 --> 00:31:35,000
+Yeah, it does.
+
+386
+00:31:35,000 --> 00:31:36,000
+Wow. Okay.
+
+387
+00:31:36,000 --> 00:31:40,000
+And even that, I've yet to heard a physicist rebut that.
+
+388
+00:31:40,000 --> 00:31:43,000
+So is the general agreement that that's probably real?
+
+389
+00:31:43,000 --> 00:31:45,000
+I mean, in an idealized sense, yes.
+
+390
+00:31:45,000 --> 00:31:51,000
+How much that, you know, pertains, you know, what you learn from that in our universe, I think, is still up for grabs.
+
+391
+00:31:51,000 --> 00:31:54,000
+And this is again, something people are, are thinking about very actively.
+
+392
+00:31:54,000 --> 00:32:03,000
+Other analogies that I would give for, you know, useful stuff that's come out of string theory is relationships again between things like particle physics and cosmology.
+
+393
+00:32:03,000 --> 00:32:13,000
+So, you know, the study of, you know, dark energy, dark matter, descriptions of inflation, those things being related to, you know, how particle physics realizes those.
+
+394
+00:32:13,000 --> 00:32:15,000
+And also structure in mathematics.
+
+395
+00:32:15,000 --> 00:32:25,000
+So there are a lot of new fields of mathematics that were sparked due to that dialogue between mathematicians and physicists that arose through string theory and these shapes of extra dimensions.
+
+396
+00:32:25,000 --> 00:32:26,000
+So that's good.
+
+397
+00:32:26,000 --> 00:32:28,000
+So you're exciting mathematicians, right?
+
+398
+00:32:28,000 --> 00:32:29,000
+Yeah.
+
+399
+00:32:29,000 --> 00:32:32,000
+And then they reached out and wanted some of you in their department, right?
+
+400
+00:32:32,000 --> 00:32:33,000
+Sometimes, yeah.
+
+401
+00:32:33,000 --> 00:32:35,000
+And I think, you know, it's a very much a mutual relationship.
+
+402
+00:32:35,000 --> 00:32:39,000
+Which is why you're taking a job away from another professor.
+
+403
+00:32:39,000 --> 00:32:51,000
+So as what example of this, there's something called the minimal model program in geometry, which tries to classify basically all these higher dimensional complex shapes like all of them.
+
+404
+00:32:51,000 --> 00:32:59,000
+You know, can you write down compact geometries in any number of dimensions and characterize all their properties and come up with sort of a zoo of every possible geometry?
+
+405
+00:32:59,000 --> 00:33:03,000
+Well, we get this is your other specialty algebraic geometry.
+
+406
+00:33:03,000 --> 00:33:04,000
+That's right.
+
+407
+00:33:04,000 --> 00:33:06,000
+Was that a spin off of the rest of these interests?
+
+408
+00:33:06,000 --> 00:33:07,000
+Is that?
+
+409
+00:33:07,000 --> 00:33:08,000
+No, it's very much tied to it.
+
+410
+00:33:08,000 --> 00:33:14,000
+So the question of trying to produce particle physics from string theory, that's a particle physics question.
+
+411
+00:33:14,000 --> 00:33:19,000
+But the actual computation you have to do really rests on the properties of these compact extra dimensions.
+
+412
+00:33:19,000 --> 00:33:25,000
+So you have to do a ton of geometry to extract the numbers that you want, like the mass of the electron and the coupling of the quarks.
+
+413
+00:33:26,000 --> 00:33:29,000
+So it's sort of intrinsically interdisciplinary in that sense.
+
+414
+00:33:29,000 --> 00:33:30,000
+Wow.
+
+415
+00:33:30,000 --> 00:33:31,000
+So I want to hear more about this geometry.
+
+416
+00:33:31,000 --> 00:33:32,000
+That's, I mean, that's crazy.
+
+417
+00:33:32,000 --> 00:33:36,000
+So here's something that is so simple and low dimensional.
+
+418
+00:33:36,000 --> 00:33:37,000
+So don't laugh at me.
+
+419
+00:33:37,000 --> 00:33:40,000
+But I was, but I want you to take this to your level.
+
+420
+00:33:40,000 --> 00:33:46,000
+I was talking within a topologist, algebraic, or some one of these math folk.
+
+421
+00:33:46,000 --> 00:33:48,000
+And we were talking about knots.
+
+422
+00:33:48,000 --> 00:33:49,000
+Okay.
+
+423
+00:33:49,000 --> 00:33:50,000
+Just knots.
+
+424
+00:33:50,000 --> 00:33:51,000
+All right.
+
+425
+00:33:51,000 --> 00:33:52,000
+And you take a string and tie a knot in it.
+
+426
+00:33:52,000 --> 00:33:53,000
+And it's a knot.
+
+427
+00:33:53,000 --> 00:33:54,000
+It's a square knot.
+
+428
+00:33:54,000 --> 00:33:55,000
+Or any whatever you're not is.
+
+429
+00:33:55,000 --> 00:33:56,000
+Whatever you're not is.
+
+430
+00:33:56,000 --> 00:33:57,000
+Whatever you're not.
+
+431
+00:33:57,000 --> 00:33:58,000
+Okay.
+
+432
+00:33:58,000 --> 00:33:59,000
+Whatever you're not.
+
+433
+00:33:59,000 --> 00:34:02,000
+And then we, that's where in three dimensions here.
+
+434
+00:34:02,000 --> 00:34:04,000
+So a one dimensional string can make a knot.
+
+435
+00:34:04,000 --> 00:34:06,000
+I said, what's that in fourth spatial dimension?
+
+436
+00:34:06,000 --> 00:34:10,000
+He said, you can't tie a knot in four dimensions.
+
+437
+00:34:10,000 --> 00:34:14,000
+You would just lift it up and it would just unravel.
+
+438
+00:34:14,000 --> 00:34:16,000
+And I, so that just messed with me.
+
+439
+00:34:16,000 --> 00:34:20,000
+And then I, then I thought, let's take away a dimension.
+
+440
+00:34:20,000 --> 00:34:21,000
+Let's go to two dimensions.
+
+441
+00:34:21,000 --> 00:34:22,000
+Okay.
+
+442
+00:34:22,000 --> 00:34:23,000
+Two dimensions.
+
+443
+00:34:23,000 --> 00:34:28,559
+And if you have two dimensional people in a flat surface, if you take a rope and just
+
+444
+00:34:28,559 --> 00:34:33,519
+loop it on itself, they cannot undo that.
+
+445
+00:34:33,519 --> 00:34:38,880
+That is an unsolvable knot to them because they can't pass it back over itself to come
+
+446
+00:34:38,880 --> 00:34:39,880
+around.
+
+447
+00:34:39,880 --> 00:34:40,880
+Right.
+
+448
+00:34:40,880 --> 00:34:41,880
+All right.
+
+449
+00:34:41,880 --> 00:34:43,079
+But I, in three dimensions, pick it up and it's gone.
+
+450
+00:34:43,079 --> 00:34:44,079
+Right.
+
+451
+00:34:44,079 --> 00:34:47,440
+So that was, so I was just, I couldn't sleep that night.
+
+452
+00:34:47,440 --> 00:34:52,440
+And then I wondered myself, what is going on in the mind of someone who's imagining all
+
+453
+00:34:52,440 --> 00:34:55,000
+of this in even higher dimensions than that?
+
+454
+00:34:55,000 --> 00:34:57,440
+What kind of drugs are you hiding?
+
+455
+00:34:57,440 --> 00:35:01,440
+You're just, come on, Lard, don't hold out on me.
+
+456
+00:35:01,440 --> 00:35:03,800
+I shared my ayahuasca, give us the real dope.
+
+457
+00:35:03,800 --> 00:35:07,800
+You never told us that ayahuasca, the high dimensionality person, talk to you.
+
+458
+00:35:07,800 --> 00:35:08,800
+Well, you know what?
+
+459
+00:35:08,800 --> 00:35:14,440
+I have, you guys are the first to know because it was so freaky and freaky out and I never
+
+460
+00:35:14,440 --> 00:35:15,440
+talked about it.
+
+461
+00:35:15,440 --> 00:35:18,240
+But then we see, there's a string theorist on the future.
+
+462
+00:35:18,240 --> 00:35:19,240
+Exactly.
+
+463
+00:35:19,240 --> 00:35:20,240
+You said you are our savior.
+
+464
+00:35:20,240 --> 00:35:24,440
+I was the neo of string theory.
+
+465
+00:35:24,440 --> 00:35:25,440
+The neo.
+
+466
+00:35:25,440 --> 00:35:26,440
+Yeah.
+
+467
+00:35:26,440 --> 00:35:28,599
+What is the matrix, neo?
+
+468
+00:35:28,599 --> 00:35:29,599
+So please tell us.
+
+469
+00:35:29,599 --> 00:35:31,280
+So I really like the, the knot analogy.
+
+470
+00:35:31,280 --> 00:35:35,039
+Let me give another one that's sort of worn directly related to the kind of stuff I do.
+
+471
+00:35:35,039 --> 00:35:38,159
+So we talked about, you know, Einstein's theory of gravity.
+
+472
+00:35:38,159 --> 00:35:42,480
+You could ask, imagine that the entire universe was too dimensional, right?
+
+473
+00:35:42,480 --> 00:35:47,760
+And you have curvature that could lead to like gravitational like theories in two dimensions.
+
+474
+00:35:47,760 --> 00:35:50,719
+And it turns out there's only one number that you get to specify.
+
+475
+00:35:50,719 --> 00:35:54,079
+And it's basically, you know, if you imagine like the surface of a sphere, it's whether
+
+476
+00:35:54,079 --> 00:35:57,840
+it's, you know, positively curved or negatively curved like a saddle.
+
+477
+00:35:57,840 --> 00:35:58,840
+That's it.
+
+478
+00:35:58,840 --> 00:36:02,599
+And so you can't have dynamical gravity in two dimensions.
+
+479
+00:36:02,599 --> 00:36:07,519
+Likewise, you know, the form gravitation takes will change as you go up in dimension.
+
+480
+00:36:07,519 --> 00:36:11,559
+So absolutely the, this question of, you know, what can you not and unnot?
+
+481
+00:36:11,559 --> 00:36:17,679
+What can you use to describe how space and high mic curve, all of that changes with different
+
+482
+00:36:17,679 --> 00:36:18,679
+dimensions?
+
+483
+00:36:18,679 --> 00:36:19,679
+Yeah.
+
+484
+00:36:19,679 --> 00:36:20,679
+And so you have to get your brain up.
+
+485
+00:36:20,679 --> 00:36:21,679
+I'm up in there.
+
+486
+00:36:21,679 --> 00:36:22,679
+I'm telling you right now.
+
+487
+00:36:22,679 --> 00:36:24,679
+I'm, you know, I need a nap.
+
+488
+00:36:24,679 --> 00:36:28,039
+Just from this conversation.
+
+489
+00:36:28,039 --> 00:36:35,440
+So, so, but the, the cop out thing here is all the higher dimensions are all compacted.
+
+490
+00:36:35,440 --> 00:36:36,840
+So I don't have to think about or worry about it.
+
+491
+00:36:36,840 --> 00:36:37,840
+I'll never see them.
+
+492
+00:36:37,840 --> 00:36:38,840
+Right?
+
+493
+00:36:38,840 --> 00:36:46,079
+So, I don't, impactful are the compacted dimensions if you, if you're trying to manifest gravity in higher
+
+494
+00:36:46,079 --> 00:36:47,079
+dimensions.
+
+495
+00:36:47,079 --> 00:36:49,480
+Does gravity care if it's compacted or not?
+
+496
+00:36:49,480 --> 00:36:52,120
+Does it just care about the dimensionality?
+
+497
+00:36:52,120 --> 00:36:53,120
+It does.
+
+498
+00:36:53,120 --> 00:36:54,120
+It does care if it's compact.
+
+499
+00:36:54,120 --> 00:36:55,640
+It cares about the compactness.
+
+500
+00:36:55,640 --> 00:36:58,120
+It cares about the shape of those extra dimensions.
+
+501
+00:36:58,120 --> 00:37:01,160
+And indeed, we believe in string theory that those extra dimensions have to still obey
+
+502
+00:37:01,160 --> 00:37:02,160
+Einstein's equations.
+
+503
+00:37:02,160 --> 00:37:06,920
+So they still have to, to be consistent gravity in, in those extra dimensions.
+
+504
+00:37:06,920 --> 00:37:10,240
+Suppose we lived in eight dimensions and he came up with general relativity in eight
+
+505
+00:37:10,240 --> 00:37:11,240
+dimensions.
+
+506
+00:37:11,240 --> 00:37:12,240
+Right.
+
+507
+00:37:12,240 --> 00:37:16,840
+Who would you say his three plus one dimensional thing that higher dimensions have to obey
+
+508
+00:37:16,840 --> 00:37:18,000
+that?
+
+509
+00:37:18,000 --> 00:37:21,800
+He did that in this measly three plus one dimensional world.
+
+510
+00:37:21,800 --> 00:37:24,440
+You can't put, you can't put commandments on higher dimensions.
+
+511
+00:37:24,440 --> 00:37:27,360
+They are superior to us in every way and you know it.
+
+512
+00:37:27,360 --> 00:37:28,360
+Yes.
+
+513
+00:37:28,360 --> 00:37:32,440
+I, I, I hate to say it, but higher dimensions look down on us.
+
+514
+00:37:32,440 --> 00:37:33,440
+Let's go.
+
+515
+00:37:33,440 --> 00:37:34,440
+I'm sorry.
+
+516
+00:37:34,440 --> 00:37:35,440
+I had a teacher.
+
+517
+00:37:35,440 --> 00:37:36,440
+Right.
+
+518
+00:37:36,440 --> 00:37:37,440
+That is a good teacher.
+
+519
+00:37:37,440 --> 00:37:46,119
+So I actually torture my undergraduate students in my class on Einstein's theory because
+
+520
+00:37:46,119 --> 00:37:50,119
+Einstein's theory can be actually formulated in any number of dimensions very easily.
+
+521
+00:37:50,119 --> 00:37:53,320
+So there's actually nothing special about four.
+
+522
+00:37:53,320 --> 00:37:56,880
+So frequently for my students, I'll say, you know, imagine that this was in six dimensions
+
+523
+00:37:56,880 --> 00:38:01,320
+or ten dimensions or you know, she said it can be formulated easily, but she didn't say
+
+524
+00:38:01,320 --> 00:38:02,960
+what she meant by easily.
+
+525
+00:38:02,960 --> 00:38:03,960
+Very relative statement there.
+
+526
+00:38:03,960 --> 00:38:04,960
+Yeah.
+
+527
+00:38:04,960 --> 00:38:11,159
+But one thing that isn't easy and this is actually related to why it's hard again to really
+
+528
+00:38:11,159 --> 00:38:14,920
+bring string theory to its full fruition is that when you do do Einstein's theory and
+
+529
+00:38:14,920 --> 00:38:19,280
+higher dimensions, the equations you have to solve are nastier.
+
+530
+00:38:19,280 --> 00:38:24,480
+So humans are not really good at nonlinear differential equations and they are especially
+
+531
+00:38:24,480 --> 00:38:28,599
+not good when they go into high numbers of variables and high numbers of dimensions.
+
+532
+00:38:28,599 --> 00:38:30,079
+So isn't that some?
+
+533
+00:38:30,480 --> 00:38:31,480
+Okay.
+
+534
+00:38:31,480 --> 00:38:36,119
+So why don't you just get a math fluid AI bot to do this?
+
+535
+00:38:36,119 --> 00:38:39,400
+I mean, that's the whole point of, I mean, yeah, exactly.
+
+536
+00:38:39,400 --> 00:38:42,519
+It's hard for you, but give it to an AI.
+
+537
+00:38:42,519 --> 00:38:43,519
+Yeah.
+
+538
+00:38:43,519 --> 00:38:46,759
+So one of the things that we've had to try and do in string theory to extract some of
+
+539
+00:38:46,759 --> 00:38:51,360
+these predictions is actually solve Einstein's equations for these extra compact dimensions.
+
+540
+00:38:51,360 --> 00:38:56,880
+And we don't know any analytic solutions for how that means, you know, exact solutions
+
+541
+00:38:56,880 --> 00:39:00,840
+you could write down on a piece of paper for Einstein's theory for the six dimensions
+
+542
+00:39:00,840 --> 00:39:04,119
+that we would need for these string compactifications.
+
+543
+00:39:04,119 --> 00:39:05,119
+They're called.
+
+544
+00:39:05,119 --> 00:39:11,079
+In science, you can solve a problem analytically with an equation and say there's the answer.
+
+545
+00:39:11,079 --> 00:39:17,200
+And some you can't and you have to actually run the experiment or increment a model and
+
+546
+00:39:17,200 --> 00:39:19,800
+see the results each time just to see where it goes.
+
+547
+00:39:19,800 --> 00:39:20,800
+Right.
+
+548
+00:39:20,800 --> 00:39:21,800
+And so that's ugly.
+
+549
+00:39:21,800 --> 00:39:25,640
+We hate those, but we kind of recognize that that's like in chaos theory.
+
+550
+00:39:25,639 --> 00:39:27,480
+You have to sort of calculate it out.
+
+551
+00:39:27,480 --> 00:39:28,480
+Right.
+
+552
+00:39:28,480 --> 00:39:29,920
+You can't just write down the solution.
+
+553
+00:39:29,920 --> 00:39:35,799
+So if you're saying you can't in principle, or it's just too laborious, just not known
+
+554
+00:39:35,799 --> 00:39:37,679
+how to do it yet.
+
+555
+00:39:37,679 --> 00:39:41,799
+So in general, solving Einstein's equations and any number of dimensions, you know, for
+
+556
+00:39:41,799 --> 00:39:44,559
+any system is hard because they're nonlinear.
+
+557
+00:39:44,559 --> 00:39:49,920
+So what that means is that the gravitational theory is actually back reacting or talking
+
+558
+00:39:49,920 --> 00:39:50,920
+to itself.
+
+559
+00:39:50,920 --> 00:39:55,079
+So the fact that you have gravitons, you know, the quantum mechanical description of gravity
+
+560
+00:39:55,159 --> 00:39:58,159
+in the space, that can create more gravity.
+
+561
+00:39:58,159 --> 00:40:03,719
+So this is really wild in terms of the differential equations because normally you could say I find
+
+562
+00:40:03,719 --> 00:40:07,679
+one solution to the theory and I find another and I can just add them together and still
+
+563
+00:40:07,679 --> 00:40:09,000
+get a solution.
+
+564
+00:40:09,000 --> 00:40:10,719
+But in general relativity, that doesn't work.
+
+565
+00:40:10,719 --> 00:40:13,799
+You can't add two solutions and get another solution.
+
+566
+00:40:13,799 --> 00:40:15,799
+You have to start over every time.
+
+567
+00:40:15,799 --> 00:40:20,159
+So so when we, when we model, we do this in astrophysics all the time.
+
+568
+00:40:20,159 --> 00:40:24,319
+The stuff that's just too complicated, but I know at any instant what's supposed to
+
+569
+00:40:24,319 --> 00:40:27,440
+happen and then I just load that up.
+
+570
+00:40:27,440 --> 00:40:31,159
+But what you're doing is you're calculating with these differential equations.
+
+571
+00:40:31,159 --> 00:40:36,519
+These equations that you can calculate it every time step and it's following you on
+
+572
+00:40:36,519 --> 00:40:37,519
+the time step.
+
+573
+00:40:37,519 --> 00:40:38,519
+Right.
+
+574
+00:40:38,519 --> 00:40:39,519
+Right.
+
+575
+00:40:39,519 --> 00:40:40,519
+All right.
+
+576
+00:40:40,519 --> 00:40:41,519
+But you can't just solve out the whole, the whole Chabang.
+
+577
+00:40:41,519 --> 00:40:43,759
+So that's so all right.
+
+578
+00:40:43,759 --> 00:40:46,719
+So you're, but so tell me again why you can't use AI you.
+
+579
+00:40:46,719 --> 00:40:49,639
+So we can actually and that's, that's a fun topic.
+
+580
+00:40:49,639 --> 00:40:53,759
+So I was involved for a number of years with numeric simulations like you're describing
+
+581
+00:40:53,759 --> 00:40:57,839
+where you use a computer to try and solve the equations that you, you can't otherwise.
+
+582
+00:40:57,839 --> 00:41:01,920
+And historically in order to do those computations, we had to put them on super computer clusters
+
+583
+00:41:01,920 --> 00:41:05,119
+and like wait for months to get results.
+
+584
+00:41:05,119 --> 00:41:09,159
+But now actually with the advent of AI, this is something that my collaborator is that
+
+585
+00:41:09,159 --> 00:41:10,159
+I have worked on.
+
+586
+00:41:10,159 --> 00:41:12,759
+And now you just do it on your iPhone.
+
+587
+00:41:12,759 --> 00:41:14,759
+Now we can actually do it on a laptop.
+
+588
+00:41:14,759 --> 00:41:18,480
+And so we've started using machine learning algorithms to numerically solve some of these
+
+589
+00:41:18,480 --> 00:41:19,800
+differential equations.
+
+590
+00:41:19,800 --> 00:41:23,360
+So this is different than using like, you know, looking at photos on the internet and then
+
+591
+00:41:23,360 --> 00:41:25,280
+having AI generate a new photo.
+
+592
+00:41:25,280 --> 00:41:26,639
+We don't have these solutions.
+
+593
+00:41:26,639 --> 00:41:31,440
+So there is in a database that you can train an AI model on, but you can still use the
+
+594
+00:41:31,440 --> 00:41:35,159
+framework of these neural networks to try and solve really complicated equations.
+
+595
+00:41:35,159 --> 00:41:39,000
+And indeed, I worked on that and then lots of other people in the field have.
+
+596
+00:41:39,000 --> 00:41:42,480
+And we found that using these techniques, we can speed up a lot of computations in a
+
+597
+00:41:42,480 --> 00:41:44,119
+really substantive way.
+
+598
+00:41:44,119 --> 00:41:48,960
+And this actually made it possible just recently for groups to compute quark masses in string
+
+599
+00:41:48,960 --> 00:41:51,239
+theory for the first time.
+
+600
+00:41:51,239 --> 00:41:56,279
+So to be clear, these are not the quark mass values that we actually observe in nature.
+
+601
+00:41:56,279 --> 00:41:58,079
+That would be awesome, but we don't see that yet.
+
+602
+00:41:58,079 --> 00:42:02,400
+But we can say if you just hand me some extra dimensions, whatever they may be, and then
+
+603
+00:42:02,400 --> 00:42:06,719
+say what would the, you know, the quarks look like in that universe, now we can actually
+
+604
+00:42:06,719 --> 00:42:09,599
+come up with those numbers using machine learning algorithms.
+
+605
+00:42:09,599 --> 00:42:13,920
+Chuck will go back on his Iowaska trip and get the person from that dimension to verify
+
+606
+00:42:13,920 --> 00:42:14,920
+the quarks mass.
+
+607
+00:42:14,920 --> 00:42:15,920
+Yeah.
+
+608
+00:42:15,920 --> 00:42:16,920
+Exactly.
+
+609
+00:42:16,920 --> 00:42:20,039
+And Chuck will be the Oracle of physics.
+
+610
+00:42:20,039 --> 00:42:21,039
+And I'm up for it.
+
+611
+00:42:21,039 --> 00:42:22,039
+I'm coming right now.
+
+612
+00:42:22,039 --> 00:42:23,039
+I'm ready to handle it.
+
+613
+00:42:23,039 --> 00:42:25,559
+I'm ready to know the more I lost it.
+
+614
+00:42:25,559 --> 00:42:27,039
+So I'm ready.
+
+615
+00:42:27,039 --> 00:42:30,800
+So let me ask another thing.
+
+616
+00:42:30,800 --> 00:42:34,440
+You talk about what discoveries can come out of this.
+
+617
+00:42:34,440 --> 00:42:36,119
+Is it possible?
+
+618
+00:42:36,119 --> 00:42:38,000
+Because this excites us all.
+
+619
+00:42:38,000 --> 00:42:40,519
+We don't say it every day, but we feel it.
+
+620
+00:42:40,519 --> 00:42:47,079
+Could any of this, could any of this bring forth new physics?
+
+621
+00:42:47,079 --> 00:42:52,400
+Because up till now everything you've said has been within the framework of the quantum
+
+622
+00:42:52,400 --> 00:42:55,159
+quantum field theory, general relativity.
+
+623
+00:42:55,159 --> 00:42:59,639
+And imagine before Einstein was born, you would not even know that relativity was a thing
+
+624
+00:42:59,639 --> 00:43:02,280
+you could use to solve your problems.
+
+625
+00:43:02,280 --> 00:43:08,039
+So is there some new physics waiting to emerge either out of your work or some yet to be
+
+626
+00:43:08,039 --> 00:43:13,619
+born genius that you'll look at it and say, oh my gosh, I'm going to give a fast astro
+
+627
+00:43:13,619 --> 00:43:14,619
+case here.
+
+628
+00:43:14,619 --> 00:43:15,619
+Okay.
+
+629
+00:43:15,619 --> 00:43:21,279
+At turn of the century, the orbit of Mercury around the sun wasn't quite following Newton's
+
+630
+00:43:21,279 --> 00:43:22,279
+laws.
+
+631
+00:43:22,279 --> 00:43:25,920
+You know, it was like, well, there's probably another planet there tugging on it.
+
+632
+00:43:25,920 --> 00:43:27,519
+Yeah, we've named the planet.
+
+633
+00:43:27,519 --> 00:43:28,519
+I mean, that's how, oh really?
+
+634
+00:43:28,519 --> 00:43:29,519
+Yeah, we called it Vulcan.
+
+635
+00:43:29,519 --> 00:43:30,519
+I'll know.
+
+636
+00:43:30,519 --> 00:43:31,519
+Yeah, yeah, go 1910.
+
+637
+00:43:31,519 --> 00:43:32,519
+Just look up planet Vulcan.
+
+638
+00:43:32,519 --> 00:43:33,519
+Like, there it is.
+
+639
+00:43:33,519 --> 00:43:34,519
+It's pretty low.
+
+640
+00:43:34,519 --> 00:43:35,519
+Okay.
+
+641
+00:43:35,519 --> 00:43:36,519
+And so, and we were happy.
+
+642
+00:43:36,519 --> 00:43:37,519
+Well, how come no one saw it?
+
+643
+00:43:37,519 --> 00:43:38,519
+It's too close to the sun.
+
+644
+00:43:38,519 --> 00:43:39,519
+Right.
+
+645
+00:43:39,519 --> 00:43:40,519
+It's in the glare.
+
+646
+00:43:40,519 --> 00:43:41,759
+So we had, we had that was all there.
+
+647
+00:43:41,759 --> 00:43:42,759
+It was all worked out.
+
+648
+00:43:42,759 --> 00:43:43,759
+All worked out.
+
+649
+00:43:43,759 --> 00:43:47,079
+And then Einstein comes up with general relativity.
+
+650
+00:43:47,079 --> 00:43:52,079
+He wasn't trying to explain it, but he showed that it very strong gravity, Newton's laws
+
+651
+00:43:52,079 --> 00:43:53,320
+fail.
+
+652
+00:43:53,320 --> 00:43:57,960
+You plug into his equations and there's no disagreement with the thing.
+
+653
+00:43:57,960 --> 00:44:04,759
+So Vulcan died overnight, but the new physics transformed the physics we were already working
+
+654
+00:44:04,760 --> 00:44:07,920
+with and gave us better answers to move on with.
+
+655
+00:44:07,920 --> 00:44:13,000
+So what I learned from that is Einstein killed Vulcan, Tyson killed Pluto.
+
+656
+00:44:13,000 --> 00:44:14,000
+Stop.
+
+657
+00:44:14,000 --> 00:44:17,600
+There's not the lesson.
+
+658
+00:44:17,600 --> 00:44:19,600
+That's a good lesson.
+
+659
+00:44:19,600 --> 00:44:20,600
+No, it's not.
+
+660
+00:44:20,600 --> 00:44:21,600
+No.
+
+661
+00:44:21,600 --> 00:44:24,840
+So new physics could take a lot of different forms.
+
+662
+00:44:24,840 --> 00:44:29,120
+So one example might be perhaps there are more than the four fundamental forces that
+
+663
+00:44:29,120 --> 00:44:30,720
+we've already observed in nature.
+
+664
+00:44:30,719 --> 00:44:34,599
+So could there be, you know, so called fifth force, another version of something like
+
+665
+00:44:34,599 --> 00:44:38,480
+electromagnetism or, you know, the strong weak nuclear force?
+
+666
+00:44:38,480 --> 00:44:40,719
+That would be an example of new physics.
+
+667
+00:44:40,719 --> 00:44:44,799
+Other things that we know we don't understand very well, include things like dark energy
+
+668
+00:44:44,799 --> 00:44:47,279
+and dark matter.
+
+669
+00:44:47,279 --> 00:44:51,599
+Questions like general relativity tells us that there are these disastrous infinities,
+
+670
+00:44:51,599 --> 00:44:54,279
+you know, in the center of black holes, there's singularities.
+
+671
+00:44:54,279 --> 00:44:59,359
+So what actually repairs those singularities in a quantum, you know, gravitational theory?
+
+672
+00:44:59,360 --> 00:45:03,039
+It tells us how physics really behaves inside there.
+
+673
+00:45:03,039 --> 00:45:04,680
+That's definitely new physics.
+
+674
+00:45:04,680 --> 00:45:07,880
+And that would be the hope of the kind of thing you'd like to see.
+
+675
+00:45:07,880 --> 00:45:08,880
+Oh, wow.
+
+676
+00:45:08,880 --> 00:45:09,880
+So, okay.
+
+677
+00:45:09,880 --> 00:45:12,880
+So you think there's new physics out there?
+
+678
+00:45:12,880 --> 00:45:13,880
+Not.
+
+679
+00:45:13,880 --> 00:45:15,680
+Again, the claims on, you know, what constraint theory deliver?
+
+680
+00:45:15,680 --> 00:45:18,680
+I'm still somewhat agnostic on that.
+
+681
+00:45:18,680 --> 00:45:22,240
+But I think it's really interesting to try and push the theory to find out, say, you know,
+
+682
+00:45:22,240 --> 00:45:26,120
+can you show that this just can't be used to model our universe, which is a real possibility
+
+683
+00:45:26,119 --> 00:45:28,519
+and it's going to break somewhere you can't get there.
+
+684
+00:45:28,519 --> 00:45:32,279
+Or can you, you push it to try and make some of this structure visible?
+
+685
+00:45:32,279 --> 00:45:35,279
+So I just, I love 100 years from now, look back on this conversation.
+
+686
+00:45:35,279 --> 00:45:37,920
+Say, look at those 80s back in 2025.
+
+687
+00:45:37,920 --> 00:45:40,359
+Yeah, this will be a Kendrickard's video.
+
+688
+00:45:40,359 --> 00:45:42,559
+A hundred years from now.
+
+689
+00:45:42,559 --> 00:45:43,559
+I hope so.
+
+690
+00:45:43,559 --> 00:45:49,400
+So I got something else here about a duality in string theory.
+
+691
+00:45:49,400 --> 00:45:50,400
+What's going on there?
+
+692
+00:45:50,400 --> 00:45:53,119
+Yeah, this is something that I and my collaborators are working on at the moment.
+
+693
+00:45:53,119 --> 00:45:54,400
+That's a cool word by the duality.
+
+694
+00:45:54,400 --> 00:45:55,400
+I love duality.
+
+695
+00:45:55,680 --> 00:46:00,119
+So the idea behind duality is that you could have two different theories or two different
+
+696
+00:46:00,119 --> 00:46:04,760
+geometries as they arise for these compact, extra dimensions in string theory that secretly
+
+697
+00:46:04,760 --> 00:46:07,200
+are different sides of the same coin.
+
+698
+00:46:07,200 --> 00:46:11,000
+So an analogy that I give sometimes in talks is if you ever looked at some of these optical
+
+699
+00:46:11,000 --> 00:46:14,519
+illusions photos on the internet where you know, you have a picture that's either a
+
+700
+00:46:14,519 --> 00:46:15,519
+vase.
+
+701
+00:46:15,519 --> 00:46:18,880
+If you look at it one way or two faces, if you look at it the other way, you can say,
+
+702
+00:46:18,880 --> 00:46:20,960
+you know, is it a vase or is it faces?
+
+703
+00:46:20,960 --> 00:46:21,960
+And the answer is it's both, right?
+
+704
+00:46:21,960 --> 00:46:23,480
+It's both packaged.
+
+705
+00:46:23,480 --> 00:46:27,480
+The question in string theory is you have all these different half a billion configurations
+
+706
+00:46:27,480 --> 00:46:29,000
+for extra dimensions.
+
+707
+00:46:29,000 --> 00:46:31,079
+Do they all lead to different physics?
+
+708
+00:46:31,079 --> 00:46:33,119
+And the answer that we think is no.
+
+709
+00:46:33,119 --> 00:46:37,159
+There are known equivalences of different so-called topological spaces.
+
+710
+00:46:37,159 --> 00:46:41,679
+These are things that have a different geometric properties like their number of holes and
+
+711
+00:46:41,679 --> 00:46:43,480
+their structure.
+
+712
+00:46:43,480 --> 00:46:47,920
+Those different topological spaces can actually lead to the same physics that we would see.
+
+713
+00:46:47,920 --> 00:46:51,800
+So that if there's redundancy in that, that's really powerful because it means you don't
+
+714
+00:46:51,800 --> 00:46:53,800
+have to search through half a billion possibilities.
+
+715
+00:46:53,800 --> 00:46:59,320
+You can maybe sort of fold those possibilities in half and only look at some portion of them.
+
+716
+00:46:59,320 --> 00:47:03,280
+Some of these dualities have been around for 20 years in string theory and my collaborators
+
+717
+00:47:03,280 --> 00:47:09,760
+and I think we have new examples which require less supersymmetry.
+
+718
+00:47:09,760 --> 00:47:13,200
+So a less spherical cow than people who assumed it.
+
+719
+00:47:13,200 --> 00:47:14,200
+OK.
+
+720
+00:47:14,200 --> 00:47:16,960
+We're growing some legs in the cow, for example.
+
+721
+00:47:16,960 --> 00:47:21,600
+And we think that this may improve our ability to calculate lots of things and also teach
+
+722
+00:47:21,599 --> 00:47:25,679
+us some new properties mathematically about how these spaces can behave.
+
+723
+00:47:25,679 --> 00:47:27,880
+Well, we catch us up on supersymmetry.
+
+724
+00:47:27,880 --> 00:47:33,679
+So supersymmetry is something that comes along for some formulations of string theory,
+
+725
+00:47:33,679 --> 00:47:39,799
+which says that all the quarks and leptons that we see in nature may have additional partners.
+
+726
+00:47:39,799 --> 00:47:46,360
+So for example, instead of a quark, you have a squark, another partner that would be much
+
+727
+00:47:46,360 --> 00:47:49,199
+heavier than the existing particles that we've seen.
+
+728
+00:47:49,199 --> 00:47:53,919
+So when you're describing supersymmetry, it's a symmetry beyond the symmetries that
+
+729
+00:47:53,919 --> 00:47:57,359
+are already known and loved in the standard model.
+
+730
+00:47:57,359 --> 00:47:58,359
+That's right.
+
+731
+00:47:58,359 --> 00:48:02,879
+So all these sort of three generations of quarks and leptons that we've seen already,
+
+732
+00:48:02,879 --> 00:48:07,039
+there would be another whole set of those particles that would share many of their properties
+
+733
+00:48:07,039 --> 00:48:11,639
+but be heavier and mass and sort of the opposites in each theory, you know, each particle
+
+734
+00:48:11,639 --> 00:48:14,960
+that was say a boson would have a fermionic partner and so on.
+
+735
+00:48:14,960 --> 00:48:21,960
+So what you're saying is you're not content with just these three regimes we have in the standard model.
+
+736
+00:48:21,960 --> 00:48:27,360
+Just hand us somewhere in the universe other regimes above that and see what properties
+
+737
+00:48:27,360 --> 00:48:31,159
+they might have and that could explain stuff that we don't now understand.
+
+738
+00:48:31,159 --> 00:48:32,159
+That's an idea.
+
+739
+00:48:32,159 --> 00:48:38,679
+And people initially thought this idea might explain some really important questions in particle physics,
+
+740
+00:48:38,679 --> 00:48:41,199
+for example, to do with the mass of the Higgs boson.
+
+741
+00:48:41,199 --> 00:48:45,279
+That would be what's called low scale supersymmetry and particle experiments like the LHC
+
+742
+00:48:45,279 --> 00:48:47,599
+search very hard for this and didn't see it.
+
+743
+00:48:47,599 --> 00:48:51,319
+So some people consider supersymmetry not a very useful idea because they thought,
+
+744
+00:48:51,319 --> 00:48:55,480
+you know, it might appear in these regimes and it would not be useful.
+
+745
+00:48:55,480 --> 00:48:58,879
+People are re-investigating this question in string theory, you know,
+
+746
+00:48:58,879 --> 00:49:02,439
+some of the solutions are string theory or supersymmetric, some are not.
+
+747
+00:49:02,439 --> 00:49:05,879
+What we generally would agree on is that if you did have supersymmetry,
+
+748
+00:49:05,879 --> 00:49:07,759
+it would have to be at a very high scale.
+
+749
+00:49:07,840 --> 00:49:11,800
+So it would be much, these particles would be much heavier than you could see at an experiment
+
+750
+00:49:11,800 --> 00:49:17,840
+like the LHC and that the symmetry would be spontaneously broken in universes like ours
+
+751
+00:49:17,840 --> 00:49:21,360
+so that by the time you got down to, you know, where we live now,
+
+752
+00:49:21,360 --> 00:49:24,120
+you would only see the standard model particles of the energy.
+
+753
+00:49:24,120 --> 00:49:27,120
+And not the other ones that would have helped birth it.
+
+754
+00:49:27,120 --> 00:49:33,400
+So, so I'm going to say that's rather convenient though.
+
+755
+00:49:33,440 --> 00:49:36,280
+I'm just going to say.
+
+756
+00:49:36,280 --> 00:49:40,760
+So the question is like, why do you need that symmetry, right?
+
+757
+00:49:40,760 --> 00:49:43,079
+If you're kind of getting rid of it back when, you know,
+
+758
+00:49:43,079 --> 00:49:44,840
+you really want to be talking about the physics, yeah.
+
+759
+00:49:44,840 --> 00:49:46,599
+Conveniently. Right. Disgarding.
+
+760
+00:49:46,599 --> 00:49:48,760
+That's a great, great question.
+
+761
+00:49:48,760 --> 00:49:53,800
+In some string theories, it still plays a role in terms of regulating the quantum
+
+762
+00:49:53,800 --> 00:49:56,440
+and canonical behavior of the theory and making it well-behaved.
+
+763
+00:49:56,440 --> 00:49:59,720
+So in that sense, you know, you're still using it theoretically for something,
+
+764
+00:49:59,719 --> 00:50:04,679
+even though you don't need it to describe the particle physics that we are observing in nature.
+
+765
+00:50:04,679 --> 00:50:06,519
+But I think all string theorists would ask,
+
+766
+00:50:06,519 --> 00:50:07,959
+it's a really interesting question to say,
+
+767
+00:50:07,959 --> 00:50:11,399
+how much of the super symmetry can you get rid of and then still preserve
+
+768
+00:50:11,399 --> 00:50:13,559
+the features that are of interest to us?
+
+769
+00:50:13,559 --> 00:50:17,639
+So the types of dualities I was describing, these are perhaps new
+
+770
+00:50:17,639 --> 00:50:21,799
+because they involved less reliance on super symmetry than we had in the past.
+
+771
+00:50:21,799 --> 00:50:24,839
+And so we're still observing this sort of redundancy
+
+772
+00:50:24,839 --> 00:50:28,359
+or these different descriptions of the same physics package different ways.
+
+773
+00:50:29,240 --> 00:50:31,559
+But we don't need as much super symmetry.
+
+774
+00:50:31,559 --> 00:50:37,079
+If memory serves, the graviton is not in the standard model, is that correct?
+
+775
+00:50:37,079 --> 00:50:37,480
+That's right.
+
+776
+00:50:38,120 --> 00:50:44,039
+So that means no one is thinking about a super symmetric particle to the graviton
+
+777
+00:50:44,039 --> 00:50:45,640
+because that would be kind of interesting.
+
+778
+00:50:45,640 --> 00:50:48,039
+Yeah, you certainly could, for any particle,
+
+779
+00:50:48,680 --> 00:50:51,480
+you know, any gauge boson, you could have what's called the gauge eno.
+
+780
+00:50:51,480 --> 00:50:53,640
+So a super symmetric particle.
+
+781
+00:50:53,640 --> 00:50:54,840
+Gage eno.
+
+782
+00:50:54,840 --> 00:50:57,240
+They're just making such a opponent out of the ass.
+
+783
+00:50:57,239 --> 00:51:00,439
+Yes, it sounds like you're naming like pharmaceutical products.
+
+784
+00:51:00,439 --> 00:51:03,959
+This is before my era in physics, but I do feel that some of these names
+
+785
+00:51:03,959 --> 00:51:05,639
+are very much a product of the 1970s.
+
+786
+00:51:05,639 --> 00:51:09,079
+I was in high school, that's how old I am, in the 1970s.
+
+787
+00:51:09,079 --> 00:51:11,719
+And I'm just, you know, there was like the particle of a month club,
+
+788
+00:51:11,719 --> 00:51:16,039
+what new particle was being discovered in the new accelerators in California and elsewhere.
+
+789
+00:51:16,759 --> 00:51:20,359
+And we were just building this fabric of the universe out of that.
+
+790
+00:51:20,359 --> 00:51:21,000
+That's kind of cool.
+
+791
+00:51:21,000 --> 00:51:22,279
+That's good to be witness to it.
+
+792
+00:51:22,279 --> 00:51:22,759
+It was fun.
+
+793
+00:51:22,759 --> 00:51:23,479
+That's fun.
+
+794
+00:51:23,479 --> 00:51:24,519
+Yeah, not participant.
+
+795
+00:51:24,519 --> 00:51:24,919
+Right.
+
+796
+00:51:24,920 --> 00:51:25,559
+Yeah.
+
+797
+00:51:26,599 --> 00:51:31,159
+Could you expend a moment just celebrating the idea of symmetry in physics?
+
+798
+00:51:31,159 --> 00:51:34,119
+Yeah, this is a really, really great question.
+
+799
+00:51:34,119 --> 00:51:40,680
+So symmetry in physics, this is something that is extremely deep and has been very,
+
+800
+00:51:40,680 --> 00:51:44,519
+very predictive and powerful over the last 100 years of physics.
+
+801
+00:51:44,519 --> 00:51:48,760
+So this is a question that in my classes to undergraduates, I try and convey that a lot of
+
+802
+00:51:48,760 --> 00:51:54,039
+physics is based on looking at a phenomena that you see like an apple falling from a tree
+
+803
+00:51:54,039 --> 00:51:58,039
+and saying, you know, how do I model the path that that's going to fall?
+
+804
+00:51:58,039 --> 00:51:58,279
+Right.
+
+805
+00:51:58,279 --> 00:52:00,119
+Like, how do I write an equation that describes that?
+
+806
+00:52:00,679 --> 00:52:06,840
+But once you start talking about symmetries and these are basically rules for how you might change
+
+807
+00:52:06,840 --> 00:52:11,960
+a space or an equation in ways that can leave it alone, once you start talking about symmetries,
+
+808
+00:52:11,960 --> 00:52:16,599
+you actually have the power to ask, could the theory that I'm describing be any different?
+
+809
+00:52:16,599 --> 00:52:20,279
+It allows you to ask questions about not just what you observe,
+
+810
+00:52:20,280 --> 00:52:26,200
+but whether any theory that you write down could have arisen differently in nature.
+
+811
+00:52:26,200 --> 00:52:30,200
+So there's some kind of high-falutin quote by Einstein that, you know,
+
+812
+00:52:30,200 --> 00:52:36,120
+saying he wanted to probe God's thoughts, you know, in terms of his theories, which sounds extremely grandiose.
+
+813
+00:52:36,120 --> 00:52:42,280
+But the tangible, non-theological underpinning of that is that you can ask for a theory,
+
+814
+00:52:42,920 --> 00:52:46,760
+if I write down this theory, like Einstein's theory of relativity, could it have been different?
+
+815
+00:52:46,760 --> 00:52:51,000
+What is the freedom to change that theory at all?
+
+816
+00:52:51,000 --> 00:52:53,400
+Could there have been any other theory of gravity that could have worked?
+
+817
+00:52:53,400 --> 00:52:58,040
+What does it have to do with the outstanding of what the word symmetry means?
+
+818
+00:52:58,040 --> 00:53:04,360
+Right. So the idea behind symmetries is that if I tell you about the rules for what I can do for a
+
+819
+00:53:04,360 --> 00:53:09,160
+theory and leave it alone, that is equivalent to specifying the theory.
+
+820
+00:53:09,239 --> 00:53:16,519
+So for example, if you want to ask how do the laws, how are the laws of physics impacted by the
+
+821
+00:53:16,519 --> 00:53:21,719
+fact that if I do an experiment here, and then I move that experiment five feet to the left and do
+
+822
+00:53:21,719 --> 00:53:26,440
+the same experiment, I should get the same answer, right? What is that? The implication of that for
+
+823
+00:53:26,440 --> 00:53:30,440
+the laws of physics? It turns out that that phenomena that, you know, the laws of physics shouldn't
+
+824
+00:53:30,440 --> 00:53:34,599
+care whether your laboratory is here versus five feet to the left, that's very much linked to
+
+825
+00:53:34,599 --> 00:53:38,920
+something like the conservation of momentum in classical physics. Or the fact that you should
+
+826
+00:53:38,920 --> 00:53:43,079
+do an experiment today and get the same answer tomorrow is related to the idea that energy is
+
+827
+00:53:43,079 --> 00:53:48,839
+conserved in classical physics. So all of the sort of can I shift something, you know, in some
+
+828
+00:53:48,839 --> 00:53:52,039
+concrete way? There I talked about, you know, moving an experiment or doing the same experiment at
+
+829
+00:53:52,039 --> 00:53:57,400
+different points in time. But in more general, you can say if I could characterize all the different
+
+830
+00:53:57,400 --> 00:54:01,480
+ways that I can, you know, pick something up, turn it over, look at it, you know, shift its
+
+831
+00:54:01,480 --> 00:54:07,000
+description. And if it stays the same, that actually tells me what equations are compatible with
+
+832
+00:54:07,000 --> 00:54:11,960
+that in a really predictive way. I've got another symmetry here, mirror symmetry. So what do you have
+
+833
+00:54:11,960 --> 00:54:19,800
+for us there? So mirror symmetry was originally discovered in the context of these string compactifications.
+
+834
+00:54:19,800 --> 00:54:24,440
+So considering solutions of string theory that could lead to, you know, physics like we see in our
+
+835
+00:54:24,440 --> 00:54:29,880
+universe, that compact extra dimensions that people were trying to write down, they discovered that
+
+836
+00:54:29,880 --> 00:54:36,440
+all the solutions they could find seem to come in pairs. And these pairs involved interchanging
+
+837
+00:54:36,440 --> 00:54:43,400
+topological numbers. So a topological number is all the ways that you can change a geometry or
+
+838
+00:54:43,400 --> 00:54:48,840
+sorry, is characterized by all the ways you can change a geometry without intrinsically changing
+
+839
+00:54:48,840 --> 00:54:54,840
+what it is. So the classic example is that you can change a donut into a coffee cup. So you you
+
+840
+00:54:54,840 --> 00:54:58,680
+picture, you know, taking yourself a donut and if you imagine the material was all rubbery and you
+
+841
+00:54:58,679 --> 00:55:03,639
+could stretch it and squish it any way you want, but not cut it, how can you deform that shape
+
+842
+00:55:03,639 --> 00:55:09,639
+or change it or put another hole in it. And this is a coffee cup with a little finger hole with a
+
+843
+00:55:09,639 --> 00:55:13,639
+handle. Yeah, yeah, it wouldn't work if it didn't have a handle, right? Right. So it was just like a
+
+844
+00:55:13,639 --> 00:55:17,000
+drinking glass. It doesn't work. Yeah, not the coffee cup from Starbucks because that doesn't have a
+
+845
+00:55:17,000 --> 00:55:23,159
+handle. Right. Okay. The idea there is that a geometry with a single hole, you can't change the
+
+846
+00:55:23,159 --> 00:55:26,839
+number of holes, whether that's the center of the donut or if you could smoosh it around and turn
+
+847
+00:55:26,920 --> 00:55:31,640
+it into the handle of a coffee cup, that's what's called a topological invariant. So the number of
+
+848
+00:55:31,640 --> 00:55:37,720
+holes is one of these examples of topological numbers. So a donut has one hole, you could imagine,
+
+849
+00:55:37,720 --> 00:55:41,960
+you know, a donut that was built to have two holes and so on, you know, this this kind of thing
+
+850
+00:55:41,960 --> 00:55:46,440
+describes or characterizes geometry. So in mirror symmetry, all these geometries come with top
+
+851
+00:55:46,440 --> 00:55:51,559
+logical numbers, but any combinations you could have, it turns out you could have in more than one
+
+852
+00:55:51,559 --> 00:55:57,719
+configuration. And this again sort of divides the space of possible geometries it half in this case.
+
+853
+00:55:58,519 --> 00:56:07,480
+It tells you that all of them are interchangeable in concrete ways. Wow. Man, that is insane.
+
+854
+00:56:08,679 --> 00:56:19,320
+First of all, why? Why? It's a really great question. That's so crazy. I love it though, but I
+
+855
+00:56:19,320 --> 00:56:24,920
+got more here where we just we're just cracking this egg, you know, whatever I have a colabi,
+
+856
+00:56:24,920 --> 00:56:30,920
+y'all, manifolds. So these are examples of configurations for the shapes of extra dimensions in
+
+857
+00:56:30,920 --> 00:56:36,840
+the string theory that satisfy Einstein's equations. So these are the half a billion possibilities
+
+858
+00:56:36,840 --> 00:56:40,600
+that I was talking about. Okay. The manifolds are okay. They're now ready to get the word metaphor.
+
+859
+00:56:40,600 --> 00:56:42,519
+Yeah, you got that from Star Trek. Yeah.
+
+860
+00:56:42,519 --> 00:56:43,480
+Yeah.
+
+861
+00:56:45,079 --> 00:56:51,400
+After two very clever mathematicians, these manifolds were conjectured to exist by a mathematician
+
+862
+00:56:51,400 --> 00:56:57,800
+Imugin Klubbi and proved by Yao, who won a field's medal for his proof that these things
+
+863
+00:56:57,800 --> 00:57:01,320
+all Einstein's equations. Do you know about the field's medal? No, I don't.
+
+864
+00:57:01,320 --> 00:57:06,199
+So it's kind of like the Nobel Prize in mathematics. It's given to major substantive discoveries
+
+865
+00:57:06,199 --> 00:57:11,880
+in mathematics, but the catch is you got to be under 40 to get it. So you have to be young and clever.
+
+866
+00:57:13,079 --> 00:57:18,519
+Of course, the mathematicians wait use chronology as a determining fact.
+
+867
+00:57:18,519 --> 00:57:22,599
+Yeah, discriminating. It's just ages. Yeah, yeah, exactly.
+
+868
+00:57:22,599 --> 00:57:29,400
+Homological field mirror symmetry. So this is an example of something where there was a
+
+869
+00:57:29,400 --> 00:57:33,719
+dialogue between string theory and mathematics that was really fruitful. So these observations about
+
+870
+00:57:33,719 --> 00:57:38,199
+Klubbi and manifolds in their topology were first observed in string theory and mathematicians
+
+871
+00:57:38,199 --> 00:57:42,759
+went away and tried to sort of explain why that was happening and found a correspondence between
+
+872
+00:57:42,759 --> 00:57:46,919
+a lot of deeper mathematical structures that actually led to another field's medal for a gentleman
+
+873
+00:57:46,919 --> 00:57:52,199
+named Konsevich. It's Maxim Konsevich. Maxim Konsevich. That sounds Russian. Yeah. Yeah.
+
+874
+00:57:52,199 --> 00:57:56,519
+Yeah. So this type of structure, you know, this dialogue between mathematics and physics,
+
+875
+00:57:56,519 --> 00:58:00,599
+I personally think is really fruitful. We've learned a lot from mathematicians from building
+
+876
+00:58:00,599 --> 00:58:04,519
+these kinds of things. And then the fun question that I'm asking recently is, you know, could there
+
+877
+00:58:04,519 --> 00:58:08,519
+be new variants of this? They could lead to new physics, new predictions for particle physics,
+
+878
+00:58:08,519 --> 00:58:12,679
+but also new mathematical structures. So some of the dualities we're looking at right now involve
+
+879
+00:58:12,679 --> 00:58:19,079
+not just changing two manifolds or two configurations of geometry, but actually mixing things like
+
+880
+00:58:19,079 --> 00:58:24,920
+electromagnetic fields in those backgrounds with geometry. So there's also it's a weird and wonderful,
+
+881
+00:58:25,800 --> 00:58:29,800
+you know, mixing of possible degrees of freedom in the theory that could still magically leave the
+
+882
+00:58:29,800 --> 00:58:33,880
+physics alone. There's surely plenty of physicists out there who are perfectly trained in all their
+
+883
+00:58:33,880 --> 00:58:41,880
+physics, but don't have your math background. So in a way, they're kind of researching with blinders
+
+884
+00:58:41,880 --> 00:58:47,480
+on given how much more you see in the mathematical regimes. Is that a fair characterization here?
+
+885
+00:58:47,480 --> 00:58:51,640
+The pushback somebody might say, you know, you're sort of torturing yourself by trying to solve really
+
+886
+00:58:51,640 --> 00:58:55,640
+hard problems in math and physics at the same time. So there are lots of questions where you don't
+
+887
+00:58:55,799 --> 00:59:01,079
+need this degree of math. But unfortunately, the path to the physical questions we want to answer
+
+888
+00:59:01,079 --> 00:59:06,759
+leads through this crazy, hairy geometry and high dimensions to be able to answer the physics we
+
+889
+00:59:06,759 --> 00:59:11,639
+want in string theory. So we kind of don't have a choice. This is a Volkswagen Einstein, where I don't
+
+890
+00:59:11,639 --> 00:59:17,319
+think he was totally up on non-uclidean geometry. differential geometry. He wasn't totally up on
+
+891
+00:59:17,319 --> 00:59:22,359
+that and needed some help, right? Even though he had the physics. I would love to meet Einstein's
+
+892
+00:59:22,360 --> 00:59:30,760
+tutor. What do you do? I tutor Einstein's geometry. That's all. Yeah.
+
+893
+00:59:34,200 --> 00:59:40,519
+This marriage of frontier physics and emergent math, I mean, this is, it's been going since the very
+
+894
+00:59:40,519 --> 00:59:47,079
+beginning. And I might offer a cosmic perspective on that as we close it out. All right. One of the
+
+895
+00:59:47,079 --> 00:59:55,480
+features of research scientists in academia is it really smart people working on problems where there's
+
+896
+00:59:55,480 --> 01:00:01,159
+no obligation or expectation that there's a sellable product at the end of that exercise.
+
+897
+01:00:01,880 --> 01:00:09,400
+What it means is that the mind can roam freely on the boundaries of what is known and unknown
+
+898
+01:00:09,480 --> 01:00:16,840
+in the universe. And in physics that has always occurred, has always occurred in tandem with
+
+899
+01:00:16,840 --> 01:00:22,280
+advances in mathematics. You go back to ancient Greece to try to measure the shape of the earth,
+
+900
+01:00:22,280 --> 01:00:29,320
+is it round, is it not? The word geometry gets introduced. And if you look at what that means,
+
+901
+01:00:29,320 --> 01:00:37,559
+it means earth measurement, geometry. And so you look at this juxtaposition of our advances in science
+
+902
+01:00:37,639 --> 01:00:42,519
+and our advances in mathematics. And these are two fields that so often people in school say,
+
+903
+01:00:42,519 --> 01:00:47,400
+I don't not get it math and I'm good at physics. And I'm going to mean while is the foundation of our
+
+904
+01:00:47,400 --> 01:00:55,400
+understanding of our place and existence in this universe. So I look forward to further advances on
+
+905
+01:00:55,400 --> 01:01:00,599
+the frontier of physics and how they marry with further advances in mathematics, no matter how
+
+906
+01:01:00,599 --> 01:01:07,400
+obscure it might look to the passerby. One day in the end, you'll be living with it as we
+
+907
+01:01:07,400 --> 01:01:14,920
+currently are with all the trappings of modern engineering, technology, and society at large.
+
+908
+01:01:16,280 --> 01:01:21,480
+And that's a cosmic perspective. So Lara, I mean, this has been a delightful conversation. We've
+
+909
+01:01:21,480 --> 01:01:31,400
+learned a lot or you've told us a lot. Maybe I learned maybe two thirds of it. What's your
+
+910
+01:01:31,400 --> 01:01:37,639
+fraction of it? I am just as dumb as I have been. But I feel smart. There you go. That's all
+
+911
+01:01:37,639 --> 01:01:44,119
+it matter. And so again, for genutech and you teach a course on general relativity, Einstein's
+
+912
+01:01:44,119 --> 01:01:49,559
+relativity, love it. So you are pure theorist, right? So you don't, they don't invite you into the
+
+913
+01:01:49,559 --> 01:01:54,200
+particle accelerators, right? I have been invited, but I'm kept on a very short leash and then let
+
+914
+01:01:54,200 --> 01:02:00,280
+out again. So I was on a mountain once observing in the mountains of Chile, and invited a theorist to
+
+915
+01:02:00,280 --> 01:02:05,240
+come. And when he came, there was an earthquake. Wow. So that he's never invited back. Yeah, this is
+
+916
+01:02:05,240 --> 01:02:11,240
+what we said. It was clear. The theorists are just get out of my get out of my lab. Do you know
+
+917
+01:02:11,240 --> 01:02:16,680
+what you end on the telescope to look for? You know, no, it's a fun riff over time. But we know we need
+
+918
+01:02:16,680 --> 01:02:21,080
+each other. Yes, yes. So thanks again, Lara, for being on start talk and Chuck, always good to have you,
+
+919
+01:02:21,080 --> 01:02:26,360
+man. Always a pleasure. All right. This has been start talk. String theory edition,
+
+920
+01:02:26,360 --> 01:02:29,720
+Neil the Grass Tyson. Keep looking up.
+
