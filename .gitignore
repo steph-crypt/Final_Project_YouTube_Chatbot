@@ -151,6 +151,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+#pickled files
+*.pkl
+
 # Pyre type checker
 .pyre/
 
