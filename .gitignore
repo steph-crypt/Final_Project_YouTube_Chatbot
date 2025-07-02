@@ -152,7 +152,6 @@ venv.bak/
 dmypy.json
 
 #joblib files
-.joblib
 *.joblib
 
 #pickled files
